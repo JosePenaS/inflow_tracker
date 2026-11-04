@@ -1,0 +1,49 @@
+---
+title: "Run health"
+subtitle: "Did Google answer? One row per scheduled run."
+toc: false
+---
+
+```{r}
+#| include: false
+source("R/dashboard_helpers.R")
+run_log <- read_data("run_log")
+```
+
+Google Trends sometimes refuses automated requests with HTTP 429 ("too many requests"). A run where most searches show `rate_limited` was blocked; the next run usually works. If this happens for several runs in a row, increase the pauses in `run_radar.R` or remove seeds from `seeds.txt`.
+
+## Recent runs
+
+```{r}
+if (is.null(run_log)) {
+  note("No runs yet.")
+} else {
+  run_log |>
+    group_by(run_id) |>
+    summarise(
+      `Chile time` = first(run_time_chile),
+      Answered = sum(status %in% c("ok", "empty")),
+      `With rising queries` = sum(status == "ok"),
+      `Rate limited` = sum(status == "rate_limited"),
+      Errors = sum(status %in% c("error", "skipped")),
+      `Rising queries` = sum(as.integer(n_rising), na.rm = TRUE),
+      .groups = "drop"
+    ) |>
+    arrange(desc(run_id)) |>
+    rename(`Run (UTC)` = run_id) |>
+    dt_table(page_length = 20)
+}
+```
+
+## Latest run, search by search
+
+```{r}
+if (!is.null(run_log)) {
+  run_log |>
+    filter(run_id == max(run_id)) |>
+    arrange(match(window, WINDOW_ORDER), seed) |>
+    transmute(Seed = seed, Window = window, Status = status,
+              HTTP = http, `Rising queries` = n_rising, Note = htmlEscape(note)) |>
+    dt_table(page_length = 30)
+}
+```

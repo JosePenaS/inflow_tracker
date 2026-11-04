@@ -1,0 +1,10 @@
+# One seed search per line. Lines starting with # are ignored.
+# Each seed is searched in Google Trends (US) for the last 1 hour,
+# 4 hours and 1 day, and its "rising" related queries are collected.
+# Every extra seed adds ~6 Google requests per run, so keep the list short.
+why
+how does
+stock
+earnings
+layoffs
+bankrupt

@@ -1,0 +1,25 @@
+main.content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.fit {
+  display: inline-block;
+  min-width: 2.4em;
+  padding: 0.1em 0.5em;
+  border-radius: 999px;
+  font-weight: 600;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+.fit-high { background: #d8f3e6; color: #0b5a3c; }
+.fit-mid  { background: #fdf0d5; color: #7a4b05; }
+.fit-low  { background: #eeeeee; color: #555555; }
+.fit-na   { background: transparent; color: #999999; }
+
+table.dataTable td { vertical-align: top; }
+
+.empty-note {
+  color: #6c757d;
+  font-style: italic;
+}

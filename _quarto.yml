@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - health.qmd
+    - about.qmd
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+website:
+  title: "Inflow trend radar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Ideas
+      - href: health.qmd
+        text: Run health
+      - href: about.qmd
+        text: How it works
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full
+    link-external-newwindow: true

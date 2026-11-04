@@ -1,0 +1,106 @@
+name: Trend radar
+
+on:
+  workflow_dispatch:
+  # GitHub schedules run in UTC. Chile is UTC-3 in summer and UTC-4 in
+  # winter, so we wake up at both candidate hours and the "Check run time"
+  # step below only continues at 11:xx and 17:xx Chile time.
+  # (:07 instead of :00 because GitHub delays top-of-hour runs the most.)
+  schedule:
+    - cron: "7 14,15,20,21 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-radar
+  cancel-in-progress: false
+
+env:
+  RUN_HOURS_CHILE: "11,17"
+
+jobs:
+  radar:
+    runs-on: windows-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check run time
+        id: gate
+        shell: pwsh
+        run: |
+          try {
+            $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById("America/Santiago")
+          } catch {
+            $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById("Pacific SA Standard Time")
+          }
+          $local = [System.TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $tz)
+          $hours = $env:RUN_HOURS_CHILE -split "," | ForEach-Object { [int]$_.Trim() }
+          Write-Host "Chile time now: $($local.ToString('yyyy-MM-dd HH:mm'))"
+
+          if ("${{ github.event_name }}" -eq "workflow_dispatch" -or $hours -contains $local.Hour) {
+            "run=true" >> $env:GITHUB_OUTPUT
+          } else {
+            Write-Host "Not a scheduled hour in Chile ($($env:RUN_HOURS_CHILE)); skipping."
+            "run=false" >> $env:GITHUB_OUTPUT
+          }
+
+      - name: Check out repository
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up R
+        if: steps.gate.outputs.run == 'true'
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - name: Install R packages
+        if: steps.gate.outputs.run == 'true'
+        shell: Rscript {0}
+        run: |
+          packages <- c("dplyr", "readr", "purrr", "tibble", "stringr",
+                        "jsonlite", "DT", "htmltools", "knitr", "rmarkdown")
+          missing <- packages[!vapply(packages, requireNamespace, logical(1), quietly = TRUE)]
+          if (length(missing) > 0) install.packages(missing, repos = "https://cloud.r-project.org")
+
+      - name: Run trend radar
+        if: steps.gate.outputs.run == 'true'
+        shell: Rscript {0}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          source("run_radar.R", echo = FALSE)
+
+      # The steps below also run when the radar step failed (e.g. Google
+      # rate-limited every request), so the run log and the health page
+      # still get updated. The workflow is still marked as failed.
+
+      - name: Commit data
+        if: always() && steps.gate.outputs.run == 'true'
+        shell: pwsh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          $changes = git diff --cached --name-only
+          if ($changes) {
+            git commit -m "Radar run $((Get-Date).ToUniversalTime().ToString('yyyy-MM-dd HH:mm')) UTC"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          } else {
+            Write-Host "No data changes to commit."
+          }
+
+      - name: Set up Quarto
+        if: always() && steps.gate.outputs.run == 'true'
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render and publish dashboard
+        if: always() && steps.gate.outputs.run == 'true'
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

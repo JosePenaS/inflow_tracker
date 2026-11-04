@@ -1,0 +1,28 @@
+---
+title: "How it works"
+---
+
+Twice a day (around 11:00 and 17:00 Chile time) a GitHub Actions workflow runs `run_radar.R`:
+
+1. **Collect.** For every seed in `seeds.txt`, it asks Google Trends (US) for the *rising* related queries over the last 1 hour, 4 hours and 1 day. These are the same lists you see under *Related queries → Rising* on the Trends website.
+2. **Save.** Every rising query is appended to `data/rising_queries.csv`, with the run time, window, seed and growth. The last 90 days are kept.
+3. **Score.** Each new query gets a 0–100 channel-fit score, a category and a one-line video angle. Scoring uses OpenAI (`gpt-5-mini`) when the `OPENAI_API_KEY` secret is set, and a keyword list otherwise. A query is scored only the first time it appears (`data/scores.csv`).
+4. **Alert.** If a new query scores 70+ for fit and is up 300% or more (or is a Breakout), the run sends one push notification through ntfy listing up to five ideas. The same query won't alert again for 7 days (`data/alerts.csv`).
+5. **Publish.** This site is rebuilt from the CSV files.
+
+## Reading the numbers
+
+- **Growth** is Google's rising percentage: how much more the query was searched in this window than in the period of the same length just before it. *Breakout* means more than +5,000%.
+- **Windows** shows in which of the three windows (1h, 4h, 24h) the query was rising. A query rising in all three is a sustained story, not a one-off spike.
+- **Fit** is an opinion, not a fact. Check the *Everything rising* table for ideas the scoring missed.
+
+## Changing settings
+
+| What | Where |
+|---|---|
+| Seed searches | `seeds.txt` (one per line) |
+| Run times | `.github/workflows/radar.yml` (`RUN_HOURS_CHILE`) |
+| Alert rules, pauses, model | top of `run_radar.R` |
+| What counts as a good topic | `CHANNEL_BRIEF` in `R/scoring.R` |
+
+Google Trends data comes from unofficial web endpoints, so Google can rate-limit or change them at any time. The *Run health* page shows whether recent runs got through.

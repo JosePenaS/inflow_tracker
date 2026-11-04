@@ -1,0 +1,133 @@
+---
+title: "Trend radar"
+subtitle: "Rising Google searches in the US, scored for Inflow Illustrated"
+toc: false
+---
+
+```{r}
+#| include: false
+source("R/dashboard_helpers.R")
+
+rising <- read_data("rising_queries")
+scores <- read_data("scores")
+run_log <- read_data("run_log")
+
+has_data <- !is.null(rising)
+
+if (has_data) {
+  runs_with_data <- sort(unique(rising$run_id), decreasing = TRUE)
+  latest_data_run <- runs_with_data[1]
+}
+latest_run <- if (!is.null(run_log)) max(run_log$run_id) else NA
+latest_log <- if (!is.null(run_log)) filter(run_log, run_id == latest_run) else NULL
+answered <- if (!is.null(latest_log)) sum(latest_log$status %in% c("ok", "empty")) else 0
+total <- if (!is.null(latest_log)) nrow(latest_log) else 0
+latest_chile <- if (!is.null(latest_log)) latest_log$run_time_chile[1] else "never"
+```
+
+```{r}
+#| output: asis
+if (is.null(run_log)) {
+  cat("::: {.callout-note}\nNo runs yet. Start one from the repository's **Actions** tab → *Trend radar* → *Run workflow*.\n:::\n")
+} else {
+  status_class <- if (answered == total) "callout-tip" else if (answered == 0) "callout-warning" else "callout-note"
+  cat(sprintf(
+    "::: {.%s}\n**Last run:** %s (Chile time) · Google answered **%d of %d** searches%s\n:::\n",
+    status_class, latest_chile, answered, total,
+    if (answered == 0) " — it was rate-limited, so the tables below show the most recent run that worked." else ""
+  ))
+}
+```
+
+## Best ideas right now
+
+Queries from the latest run that worked, with a channel-fit score of 40 or more. Fit is scored once per query; growth is Google's "rising" percentage compared with the previous period of the same length.
+
+```{r}
+if (has_data) {
+  latest <- filter(rising, run_id == latest_data_run)
+  best <- summarise_queries(latest, scores) |>
+    filter(!is.na(fit_score), fit_score >= 40) |>
+    arrange(desc(fit_score), desc(best_growth))
+
+  if (nrow(best) == 0) {
+    note("Nothing in the latest run scored 40 or more for the channel.")
+  } else {
+    best |>
+      transmute(
+        Fit = fit_badge(fit_score),
+        Query = link_html(query, link),
+        Growth = growth_label(best_growth, breakout),
+        Windows = windows,
+        `Video angle` = htmlEscape(coalesce(video_angle, "")),
+        Category = coalesce(category, ""),
+        Seed = seeds
+      ) |>
+      dt_table(page_length = 10)
+  }
+} else {
+  note("No data yet.")
+}
+```
+
+## Ideas that keep coming back (last 7 days)
+
+Queries seen in two or more runs. A query that stays on the rising list for days is usually a bigger story than a one-hour spike.
+
+```{r}
+if (has_data) {
+  week_cut <- format(Sys.time() - 7 * 86400, "%Y-%m-%d %H:%M", tz = "UTC")
+  week <- filter(rising, run_id >= week_cut)
+
+  recurring <- week |>
+    group_by(query) |>
+    summarise(
+      runs = n_distinct(run_id),
+      first_seen = min(run_time_chile),
+      last_seen = max(run_time_chile),
+      .groups = "drop"
+    ) |>
+    filter(runs >= 2) |>
+    left_join(summarise_queries(week, scores), by = "query") |>
+    arrange(desc(runs), desc(fit_score))
+
+  if (nrow(recurring) == 0) {
+    note("Nothing has appeared in more than one run yet.")
+  } else {
+    recurring |>
+      transmute(
+        Runs = runs,
+        Fit = fit_badge(fit_score),
+        Query = link_html(query, link),
+        `Best growth` = growth_label(best_growth, breakout),
+        `First seen` = first_seen,
+        `Last seen` = last_seen,
+        `Video angle` = htmlEscape(coalesce(video_angle, ""))
+      ) |>
+      dt_table(page_length = 10)
+  }
+}
+```
+
+## Everything rising in the latest run
+
+All rising queries, including the ones that are not a fit, so you can spot what the scoring missed. Use the search box to filter by window or seed.
+
+```{r}
+if (has_data) {
+  latest |>
+    left_join(select(scores %||% tibble(query = character(), fit_score = character()),
+                     query, fit_score), by = "query") |>
+    mutate(growth = num(growth_pct), fit_score = num(fit_score)) |>
+    arrange(match(window, WINDOW_ORDER), seed, as.integer(rank)) |>
+    transmute(
+      Window = window,
+      Seed = seed,
+      `#` = as.integer(rank),
+      Query = link_html(query, trends_link),
+      Growth = growth_label(growth, as.logical(is_breakout)),
+      Fit = fit_badge(fit_score)
+    ) |>
+    dt_table(page_length = 25)
+}
+```
