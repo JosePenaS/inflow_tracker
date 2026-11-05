@@ -20,7 +20,7 @@ OpenAI for scoring, Quarto for the site, GitHub Actions on a schedule.
 | `R/notify.R` | ntfy phone alerts |
 | `index.qmd`, `health.qmd`, `about.qmd` | Dashboard pages |
 | `data/*.csv` | History, written by each run |
-| `.github/workflows/radar.yml` | Schedule: 11:xx and 17:xx Chile time |
+| `.github/workflows/radar.yml` | Schedule: one run after 11:00 and one after 17:00 Chile time |
 
 ## Setup (once)
 

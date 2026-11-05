@@ -2,7 +2,7 @@
 title: "How it works"
 ---
 
-Twice a day (around 11:00 and 17:00 Chile time) a GitHub Actions workflow runs `run_radar.R`:
+Twice a day (once after 11:00 and once after 17:00 Chile time) a GitHub Actions workflow runs `run_radar.R`:
 
 1. **Collect.** For every seed in `seeds.txt`, it asks Google Trends (US) for the *rising* related queries over the last 1 hour, 4 hours and 1 day. These are the same lists you see under *Related queries → Rising* on the Trends website.
 2. **Save.** Every rising query is appended to `data/rising_queries.csv`, with the run time, window, seed and growth. The last 90 days are kept.
@@ -21,7 +21,7 @@ Twice a day (around 11:00 and 17:00 Chile time) a GitHub Actions workflow runs `
 | What | Where |
 |---|---|
 | Seed searches | `seeds.txt` (one per line) |
-| Run times | `.github/workflows/radar.yml` (`RUN_HOURS_CHILE`) |
+| Run times | `.github/workflows/radar.yml` (`SLOT_START_HOURS_CHILE`) |
 | Alert rules, pauses, model | top of `run_radar.R` |
 | What counts as a good topic | `CHANNEL_BRIEF` in `R/scoring.R` |
 

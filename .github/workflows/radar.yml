@@ -2,12 +2,17 @@ name: Trend radar
 
 on:
   workflow_dispatch:
-  # GitHub schedules run in UTC. Chile is UTC-3 in summer and UTC-4 in
-  # winter, so we wake up at both candidate hours and the "Check run time"
-  # step below only continues at 11:xx and 17:xx Chile time.
-  # (:07 instead of :00 because GitHub delays top-of-hour runs the most.)
+  # GitHub schedules run in UTC and are often started late (sometimes
+  # hours late). So instead of exact times we wake up every hour and run
+  # once per time slot: the first wake-up after 11:00 Chile time does the
+  # morning run, the first after 17:00 does the evening run, and every
+  # other wake-up stops after a few seconds. A late start just means a
+  # later run, never a skipped one.
+  # Covers 10:17-23:17 Chile time in winter (UTC-4) and 11:17-23:17 in
+  # summer (UTC-3).
   schedule:
-    - cron: "7 14,15,20,21 * * *"
+    - cron: "17 14-23 * * *"
+    - cron: "17 0-3 * * *"
 
 permissions:
   contents: write
@@ -17,7 +22,9 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  RUN_HOURS_CHILE: "11,17"
+  # Slot start hours, Chile time. Each slot lasts until the next one
+  # starts (the last one until midnight).
+  SLOT_START_HOURS_CHILE: "11,17"
 
 jobs:
   radar:
@@ -25,6 +32,9 @@ jobs:
     timeout-minutes: 45
 
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Check run time
         id: gate
         shell: pwsh
@@ -35,19 +45,49 @@ jobs:
             $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById("Pacific SA Standard Time")
           }
           $local = [System.TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $tz)
-          $hours = $env:RUN_HOURS_CHILE -split "," | ForEach-Object { [int]$_.Trim() }
+          $today = $local.ToString("yyyy-MM-dd")
           Write-Host "Chile time now: $($local.ToString('yyyy-MM-dd HH:mm'))"
 
-          if ("${{ github.event_name }}" -eq "workflow_dispatch" -or $hours -contains $local.Hour) {
+          if ("${{ github.event_name }}" -eq "workflow_dispatch") {
+            Write-Host "Started by hand: running."
             "run=true" >> $env:GITHUB_OUTPUT
-          } else {
-            Write-Host "Not a scheduled hour in Chile ($($env:RUN_HOURS_CHILE)); skipping."
-            "run=false" >> $env:GITHUB_OUTPUT
+            exit 0
           }
 
-      - name: Check out repository
-        if: steps.gate.outputs.run == 'true'
-        uses: actions/checkout@v4
+          $starts = $env:SLOT_START_HOURS_CHILE -split "," |
+            ForEach-Object { [int]$_.Trim() } | Sort-Object
+
+          # Which slot are we in right now?
+          $slot = $null
+          foreach ($s in $starts) { if ($local.Hour -ge $s) { $slot = $s } }
+          if ($null -eq $slot) {
+            Write-Host "Before the first slot of the day; skipping."
+            "run=false" >> $env:GITHUB_OUTPUT
+            exit 0
+          }
+          $next = $starts | Where-Object { $_ -gt $slot } | Select-Object -First 1
+          if ($null -eq $next) { $next = 24 }
+
+          # Has a run already happened in this slot today? (run_log.csv has
+          # one row per search, with run_time_chile like "2026-11-05 11:23")
+          $done = $false
+          if (Test-Path "data/run_log.csv") {
+            foreach ($row in Import-Csv "data/run_log.csv") {
+              $t = $row.run_time_chile
+              if ($t -and $t.Length -ge 13 -and $t.Substring(0, 10) -eq $today) {
+                $h = [int]$t.Substring(11, 2)
+                if ($h -ge $slot -and $h -lt $next) { $done = $true; break }
+              }
+            }
+          }
+
+          if ($done) {
+            Write-Host "The $($slot):00 slot already ran today; skipping."
+            "run=false" >> $env:GITHUB_OUTPUT
+          } else {
+            Write-Host "First wake-up in the $($slot):00 slot today: running."
+            "run=true" >> $env:GITHUB_OUTPUT
+          }
 
       - name: Set up R
         if: steps.gate.outputs.run == 'true'
