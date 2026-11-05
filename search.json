@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "How it works",
+    "section": "",
+    "text": "Twice a day (once after 11:00 and once after 17:00 Chile time) a GitHub Actions workflow runs run_radar.R:"
+  },
+  {
+    "objectID": "about.html#reading-the-numbers",
+    "href": "about.html#reading-the-numbers",
+    "title": "How it works",
+    "section": "Reading the numbers",
+    "text": "Reading the numbers\n\nGrowth is Google’s rising percentage: how much more the query was searched in this window than in the period of the same length just before it. Breakout means more than +5,000%.\nWindows shows in which of the three windows (1h, 4h, 24h) the query was rising. A query rising in all three is a sustained story, not a one-off spike.\nFit is an opinion, not a fact. Check the Everything rising table for ideas the scoring missed."
+  },
+  {
+    "objectID": "about.html#changing-settings",
+    "href": "about.html#changing-settings",
+    "title": "How it works",
+    "section": "Changing settings",
+    "text": "Changing settings\n\n\n\nWhat\nWhere\n\n\n\n\nSeed searches\nseeds.txt (one per line)\n\n\nRun times\n.github/workflows/radar.yml (SLOT_START_HOURS_CHILE)\n\n\nAlert rules, pauses, model\ntop of run_radar.R\n\n\nWhat counts as a good topic\nCHANNEL_BRIEF in R/scoring.R\n\n\n\nGoogle Trends data comes from unofficial web endpoints, so Google can rate-limit or change them at any time. The Run health page shows whether recent runs got through."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Trend radar",
+    "section": "",
+    "text": "Tip\n\n\n\nLast run: 2026-11-05 12:22 (Chile time) · Google answered 18 of 18 searches"
+  },
+  {
+    "objectID": "index.html#best-ideas-right-now",
+    "href": "index.html#best-ideas-right-now",
+    "title": "Trend radar",
+    "section": "Best ideas right now",
+    "text": "Best ideas right now\nQueries from the latest run that worked, with a channel-fit score of 40 or more. Fit is scored once per query; growth is Google’s “rising” percentage compared with the previous period of the same length."
+  },
+  {
+    "objectID": "index.html#ideas-that-keep-coming-back-last-7-days",
+    "href": "index.html#ideas-that-keep-coming-back-last-7-days",
+    "title": "Trend radar",
+    "section": "Ideas that keep coming back (last 7 days)",
+    "text": "Ideas that keep coming back (last 7 days)\nQueries seen in two or more runs. A query that stays on the rising list for days is usually a bigger story than a one-hour spike.\n\n\nNothing has appeared in more than one run yet."
+  },
+  {
+    "objectID": "index.html#everything-rising-in-the-latest-run",
+    "href": "index.html#everything-rising-in-the-latest-run",
+    "title": "Trend radar",
+    "section": "Everything rising in the latest run",
+    "text": "Everything rising in the latest run\nAll rising queries, including the ones that are not a fit, so you can spot what the scoring missed. Use the search box to filter by window or seed."
+  },
+  {
+    "objectID": "health.html",
+    "href": "health.html",
+    "title": "Run health",
+    "section": "",
+    "text": "Google Trends sometimes refuses automated requests with HTTP 429 (“too many requests”). A run where most searches show rate_limited was blocked; the next run usually works. If this happens for several runs in a row, increase the pauses in run_radar.R or remove seeds from seeds.txt."
+  },
+  {
+    "objectID": "health.html#recent-runs",
+    "href": "health.html#recent-runs",
+    "title": "Run health",
+    "section": "Recent runs",
+    "text": "Recent runs"
+  },
+  {
+    "objectID": "health.html#latest-run-search-by-search",
+    "href": "health.html#latest-run-search-by-search",
+    "title": "Run health",
+    "section": "Latest run, search by search",
+    "text": "Latest run, search by search"
+  }
+]
