@@ -240,3 +240,188 @@ run_id,run_time_chile,window,seed,rank,query,value_raw,growth_pct,is_breakout,tr
 2026-11-05 15:22,2026-11-05 12:22,24h,bankrupt,3,did trump bankrupt a casino,+150%,150,FALSE,https://trends.google.com/trends/explore?q=did%20trump%20bankrupt%20a%20casino&date=now%201-d&geo=US&hl=en-US
 2026-11-05 15:22,2026-11-05 12:22,24h,bankrupt,4,wendy's bankrupt,+110%,110,FALSE,https://trends.google.com/trends/explore?q=wendy%27s%20bankrupt&date=now%201-d&geo=US&hl=en-US
 2026-11-05 15:22,2026-11-05 12:22,24h,bankrupt,5,morally bankrupt,+100%,100,FALSE,https://trends.google.com/trends/explore?q=morally%20bankrupt&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,why,1,why did the stock market drop today,+180%,180,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20drop%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,why,2,why did the market drop today,+110%,110,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20market%20drop%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,why,3,why did stock market go down today,+100%,100,FALSE,https://trends.google.com/trends/explore?q=why%20did%20stock%20market%20go%20down%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,why,4,why did the market go down today,+100%,100,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20market%20go%20down%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,why,5,why did the stock market go down today,+90%,90,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20go%20down%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,why,6,why did stocks drop today,+60%,60,FALSE,https://trends.google.com/trends/explore?q=why%20did%20stocks%20drop%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,how does,1,how does ranked choice voting work in alaska,+50%,50,FALSE,https://trends.google.com/trends/explore?q=how%20does%20ranked%20choice%20voting%20work%20in%20alaska&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,1,dow jones stock markets,"+1,100%",1100,FALSE,https://trends.google.com/trends/explore?q=dow%20jones%20stock%20markets&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,2,axon stock,+130%,130,FALSE,https://trends.google.com/trends/explore?q=axon%20stock&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,3,aaoi stock,+120%,120,FALSE,https://trends.google.com/trends/explore?q=aaoi%20stock&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,4,why did the stock market go down today,+110%,110,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20go%20down%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,5,iren stock,+100%,100,FALSE,https://trends.google.com/trends/explore?q=iren%20stock&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,6,net stock,+80%,80,FALSE,https://trends.google.com/trends/explore?q=net%20stock&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,7,team stock,+80%,80,FALSE,https://trends.google.com/trends/explore?q=team%20stock&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,stock,8,what happened to the stock market today,+60%,60,FALSE,https://trends.google.com/trends/explore?q=what%20happened%20to%20the%20stock%20market%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,1,aaoi stock earnings,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=aaoi%20stock%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,2,soun earnings,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=soun%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,3,aaoi earnings report,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=aaoi%20earnings%20report&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,4,dvn earnings,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=dvn%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,5,umac earnings,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=umac%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,6,natera earnings,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=natera%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,7,aaoi earnings date,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=aaoi%20earnings%20date&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,8,dkng stock earnings,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=dkng%20stock%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,9,net earnings date,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=net%20earnings%20date&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,10,cloudflare earnings,"+2,000%",2000,FALSE,https://trends.google.com/trends/explore?q=cloudflare%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,11,dkng earnings,+450%,450,FALSE,https://trends.google.com/trends/explore?q=dkng%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,12,iren earnings call,+350%,350,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20call&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,13,aaoi earnings,+350%,350,FALSE,https://trends.google.com/trends/explore?q=aaoi%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,14,iren earnings,+300%,300,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,15,iren stock earnings,+250%,250,FALSE,https://trends.google.com/trends/explore?q=iren%20stock%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,16,iren earnings date,+200%,200,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20date&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,17,iren earnings today,+200%,200,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,18,ionq earnings,+160%,160,FALSE,https://trends.google.com/trends/explore?q=ionq%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,19,axon earnings,+140%,140,FALSE,https://trends.google.com/trends/explore?q=axon%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,20,net stock earnings,+110%,110,FALSE,https://trends.google.com/trends/explore?q=net%20stock%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,21,earnings today,+70%,70,FALSE,https://trends.google.com/trends/explore?q=earnings%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,22,stock earnings today,+50%,50,FALSE,https://trends.google.com/trends/explore?q=stock%20earnings%20today&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,earnings,23,net earnings,+40%,40,FALSE,https://trends.google.com/trends/explore?q=net%20earnings&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,1,premier inc layoffs,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=premier%20inc%20layoffs&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,2,verizon layoffs,+200%,200,FALSE,https://trends.google.com/trends/explore?q=verizon%20layoffs&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,3,canva layoffs 2026,+130%,130,FALSE,https://trends.google.com/trends/explore?q=canva%20layoffs%202026&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,4,premier layoffs,+80%,80,FALSE,https://trends.google.com/trends/explore?q=premier%20layoffs&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,5,block layoffs,+70%,70,FALSE,https://trends.google.com/trends/explore?q=block%20layoffs&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,6,qualcomm layoffs,+60%,60,FALSE,https://trends.google.com/trends/explore?q=qualcomm%20layoffs&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,1h,layoffs,7,cigna layoffs,+40%,40,FALSE,https://trends.google.com/trends/explore?q=cigna%20layoffs&date=now%201-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,1,why did harmeet dhillon resign,+700%,700,FALSE,https://trends.google.com/trends/explore?q=why%20did%20harmeet%20dhillon%20resign&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,2,why did the stock market crash today,+170%,170,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20crash%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,3,why did the market crash today,+160%,160,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20market%20crash%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,4,why did the stock market go down today,+110%,110,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20go%20down%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,5,why did the stock market drop today,+80%,80,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20drop%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,6,why did stocks drop today,+80%,80,FALSE,https://trends.google.com/trends/explore?q=why%20did%20stocks%20drop%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,7,why did the market drop today,+70%,70,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20market%20drop%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,why,8,why is the stock market down so much today,+70%,70,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20stock%20market%20down%20so%20much%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,stock,1,dow jones stock markets,"+3,400%",3400,FALSE,https://trends.google.com/trends/explore?q=dow%20jones%20stock%20markets&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,stock,2,stock markets,+300%,300,FALSE,https://trends.google.com/trends/explore?q=stock%20markets&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,stock,3,stock market crash,+80%,80,FALSE,https://trends.google.com/trends/explore?q=stock%20market%20crash&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,stock,4,us stock market,+40%,40,FALSE,https://trends.google.com/trends/explore?q=us%20stock%20market&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,1,aaoi earnings call,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=aaoi%20earnings%20call&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,2,iren earnings report today,"+1,050%",1050,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20report%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,3,aaoi earnings report,"+1,000%",1000,FALSE,https://trends.google.com/trends/explore?q=aaoi%20earnings%20report&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,4,ionq earnings call,+700%,700,FALSE,https://trends.google.com/trends/explore?q=ionq%20earnings%20call&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,5,iren earnings call,+550%,550,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20call&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,6,affirm earnings,+550%,550,FALSE,https://trends.google.com/trends/explore?q=affirm%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,7,atlassian earnings,+500%,500,FALSE,https://trends.google.com/trends/explore?q=atlassian%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,8,opendoor earnings,+400%,400,FALSE,https://trends.google.com/trends/explore?q=opendoor%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,9,dkng earnings,+400%,400,FALSE,https://trends.google.com/trends/explore?q=dkng%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,10,ryan whitney career earnings,+400%,400,FALSE,https://trends.google.com/trends/explore?q=ryan%20whitney%20career%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,11,iren earnings time,+350%,350,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20time&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,12,axon earnings,+300%,300,FALSE,https://trends.google.com/trends/explore?q=axon%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,13,iren earnings today,+300%,300,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,14,aaoi earnings,+300%,300,FALSE,https://trends.google.com/trends/explore?q=aaoi%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,15,umac earnings,+300%,300,FALSE,https://trends.google.com/trends/explore?q=umac%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,16,cloudflare earnings,+300%,300,FALSE,https://trends.google.com/trends/explore?q=cloudflare%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,17,iren earnings,+250%,250,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,18,akamai earnings,+180%,180,FALSE,https://trends.google.com/trends/explore?q=akamai%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,19,team earnings,+180%,180,FALSE,https://trends.google.com/trends/explore?q=team%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,20,natera earnings,+180%,180,FALSE,https://trends.google.com/trends/explore?q=natera%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,21,draftkings earnings,+170%,170,FALSE,https://trends.google.com/trends/explore?q=draftkings%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,22,ionq earnings,+160%,160,FALSE,https://trends.google.com/trends/explore?q=ionq%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,23,iren stock earnings,+120%,120,FALSE,https://trends.google.com/trends/explore?q=iren%20stock%20earnings&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,24,iren earnings date,+80%,80,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20date&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,earnings,25,earnings calendar,+40%,40,FALSE,https://trends.google.com/trends/explore?q=earnings%20calendar&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,1,block layoffs today,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=block%20layoffs%20today&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,2,intel layoffs 2026,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=intel%20layoffs%202026&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,3,anthem layoffs,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=anthem%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,4,block inc layoffs,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=block%20inc%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,5,cisco layoffs,+300%,300,FALSE,https://trends.google.com/trends/explore?q=cisco%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,6,intel layoffs,+110%,110,FALSE,https://trends.google.com/trends/explore?q=intel%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,7,truist layoffs,+100%,100,FALSE,https://trends.google.com/trends/explore?q=truist%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,8,servicenow layoffs,+90%,90,FALSE,https://trends.google.com/trends/explore?q=servicenow%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,9,wells fargo layoffs,+80%,80,FALSE,https://trends.google.com/trends/explore?q=wells%20fargo%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,10,service now layoffs,+80%,80,FALSE,https://trends.google.com/trends/explore?q=service%20now%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,11,nike layoffs,+70%,70,FALSE,https://trends.google.com/trends/explore?q=nike%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,12,comcast layoffs 2026,+70%,70,FALSE,https://trends.google.com/trends/explore?q=comcast%20layoffs%202026&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,13,amazon layoffs 2026,+60%,60,FALSE,https://trends.google.com/trends/explore?q=amazon%20layoffs%202026&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,14,block layoffs,+60%,60,FALSE,https://trends.google.com/trends/explore?q=block%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,layoffs,15,us bank layoffs,+50%,50,FALSE,https://trends.google.com/trends/explore?q=us%20bank%20layoffs&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,bankrupt,1,bald and bankrupt,+90%,90,FALSE,https://trends.google.com/trends/explore?q=bald%20and%20bankrupt&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,4h,bankrupt,2,is crumbl going bankrupt,+40%,40,FALSE,https://trends.google.com/trends/explore?q=is%20crumbl%20going%20bankrupt&date=now%204-H&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,1,why is the market down today,"+3,100%",3100,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,2,why did cruz leave chicago fire,"+2,950%",2950,FALSE,https://trends.google.com/trends/explore?q=why%20did%20cruz%20leave%20chicago%20fire&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,3,why is stock market down today,"+2,600%",2600,FALSE,https://trends.google.com/trends/explore?q=why%20is%20stock%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,4,why is the stock market down today,"+2,500%",2500,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20stock%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,5,why is the market crashing today,"+2,450%",2450,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20market%20crashing%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,6,why is market down today,"+2,450%",2450,FALSE,https://trends.google.com/trends/explore?q=why%20is%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,7,why stock market down today,"+2,250%",2250,FALSE,https://trends.google.com/trends/explore?q=why%20stock%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,8,why market down today,"+2,250%",2250,FALSE,https://trends.google.com/trends/explore?q=why%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,9,why are markets down today,"+1,600%",1600,FALSE,https://trends.google.com/trends/explore?q=why%20are%20markets%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,10,why is the market down,"+1,350%",1350,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20market%20down&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,11,why is cruz leaving chicago fire,"+1,300%",1300,FALSE,https://trends.google.com/trends/explore?q=why%20is%20cruz%20leaving%20chicago%20fire&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,12,why are the markets down today,"+1,050%",1050,FALSE,https://trends.google.com/trends/explore?q=why%20are%20the%20markets%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,13,why is the stock market down so much today,"+1,000%",1000,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20stock%20market%20down%20so%20much%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,14,why is joe cruz leaving chicago fire,+900%,900,FALSE,https://trends.google.com/trends/explore?q=why%20is%20joe%20cruz%20leaving%20chicago%20fire&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,15,why did the stock market go down today,+850%,850,FALSE,https://trends.google.com/trends/explore?q=why%20did%20the%20stock%20market%20go%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,16,why are stocks down today,+400%,400,FALSE,https://trends.google.com/trends/explore?q=why%20are%20stocks%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,17,why is nvidia stock going down,+400%,400,FALSE,https://trends.google.com/trends/explore?q=why%20is%20nvidia%20stock%20going%20down&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,why,18,why is alaska taking so long,+200%,200,FALSE,https://trends.google.com/trends/explore?q=why%20is%20alaska%20taking%20so%20long&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,how does,1,how many goals does ronaldo have,+80%,80,FALSE,https://trends.google.com/trends/explore?q=how%20many%20goals%20does%20ronaldo%20have&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,1,why is the stock market down today,"+2,350%",2350,FALSE,https://trends.google.com/trends/explore?q=why%20is%20the%20stock%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,2,why is stock market down today,"+2,050%",2050,FALSE,https://trends.google.com/trends/explore?q=why%20is%20stock%20market%20down%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,3,vix stock,+250%,250,FALSE,https://trends.google.com/trends/explore?q=vix%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,4,stock market crash,+200%,200,FALSE,https://trends.google.com/trends/explore?q=stock%20market%20crash&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,5,applovin stock,+170%,170,FALSE,https://trends.google.com/trends/explore?q=applovin%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,6,soxx stock,+90%,90,FALSE,https://trends.google.com/trends/explore?q=soxx%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,7,app stock,+80%,80,FALSE,https://trends.google.com/trends/explore?q=app%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,8,sandisk stock,+70%,70,FALSE,https://trends.google.com/trends/explore?q=sandisk%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,9,micron stock,+70%,70,FALSE,https://trends.google.com/trends/explore?q=micron%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,10,nasdaq,+60%,60,FALSE,https://trends.google.com/trends/explore?q=nasdaq&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,11,sp500,+60%,60,FALSE,https://trends.google.com/trends/explore?q=sp500&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,12,nvidia stock,+60%,60,FALSE,https://trends.google.com/trends/explore?q=nvidia%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,13,qcom stock,+60%,60,FALSE,https://trends.google.com/trends/explore?q=qcom%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,14,stock market today,+50%,50,FALSE,https://trends.google.com/trends/explore?q=stock%20market%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,15,nvidia,+50%,50,FALSE,https://trends.google.com/trends/explore?q=nvidia&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,16,snap stock,+50%,50,FALSE,https://trends.google.com/trends/explore?q=snap%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,17,qqq,+40%,40,FALSE,https://trends.google.com/trends/explore?q=qqq&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,18,arm stock,+40%,40,FALSE,https://trends.google.com/trends/explore?q=arm%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,19,sndk stock,+40%,40,FALSE,https://trends.google.com/trends/explore?q=sndk%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,stock,20,qualcomm stock,+40%,40,FALSE,https://trends.google.com/trends/explore?q=qualcomm%20stock&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,1,mat ishbia uwm earnings q3,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=mat%20ishbia%20uwm%20earnings%20q3&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,2,uber driver incentives earnings call,"+2,350%",2350,FALSE,https://trends.google.com/trends/explore?q=uber%20driver%20incentives%20earnings%20call&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,3,rocket lab q3 2026 earnings,+550%,550,FALSE,https://trends.google.com/trends/explore?q=rocket%20lab%20q3%202026%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,4,iren earnings call,+550%,550,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings%20call&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,5,cigna earnings,+450%,450,FALSE,https://trends.google.com/trends/explore?q=cigna%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,6,hertz earnings,+400%,400,FALSE,https://trends.google.com/trends/explore?q=hertz%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,7,smci earnings report $19.9 billion,+350%,350,FALSE,https://trends.google.com/trends/explore?q=smci%20earnings%20report%20%2419.9%20billion&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,8,axon earnings,+300%,300,FALSE,https://trends.google.com/trends/explore?q=axon%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,9,iren earnings,+250%,250,FALSE,https://trends.google.com/trends/explore?q=iren%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,10,sony earnings,+250%,250,FALSE,https://trends.google.com/trends/explore?q=sony%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,11,ionq earnings,+200%,200,FALSE,https://trends.google.com/trends/explore?q=ionq%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,12,cloudflare earnings,+200%,200,FALSE,https://trends.google.com/trends/explore?q=cloudflare%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,13,celsius earnings,+200%,200,FALSE,https://trends.google.com/trends/explore?q=celsius%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,14,aaoi earnings,+190%,190,FALSE,https://trends.google.com/trends/explore?q=aaoi%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,15,htz earnings,+130%,130,FALSE,https://trends.google.com/trends/explore?q=htz%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,16,celh earnings,+120%,120,FALSE,https://trends.google.com/trends/explore?q=celh%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,17,nvidia earnings,+70%,70,FALSE,https://trends.google.com/trends/explore?q=nvidia%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,18,nvda earnings date,+60%,60,FALSE,https://trends.google.com/trends/explore?q=nvda%20earnings%20date&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,19,nvda,+60%,60,FALSE,https://trends.google.com/trends/explore?q=nvda&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,20,nvda earnings,+60%,60,FALSE,https://trends.google.com/trends/explore?q=nvda%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,earnings,21,qualcomm earnings,+50%,50,FALSE,https://trends.google.com/trends/explore?q=qualcomm%20earnings&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,1,sherritt layoffs,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=sherritt%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,2,block inc layoffs,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=block%20inc%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,3,block layoffs today,+900%,900,FALSE,https://trends.google.com/trends/explore?q=block%20layoffs%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,4,block layoffs,+650%,650,FALSE,https://trends.google.com/trends/explore?q=block%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,5,cash app layoffs,+500%,500,FALSE,https://trends.google.com/trends/explore?q=cash%20app%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,6,heidi layoffs,+500%,500,FALSE,https://trends.google.com/trends/explore?q=heidi%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,7,citibank layoffs,+300%,300,FALSE,https://trends.google.com/trends/explore?q=citibank%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,8,premier layoffs,+300%,300,FALSE,https://trends.google.com/trends/explore?q=premier%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,9,square layoffs today,+250%,250,FALSE,https://trends.google.com/trends/explore?q=square%20layoffs%20today&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,10,uhc layoffs,+250%,250,FALSE,https://trends.google.com/trends/explore?q=uhc%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,11,elevance health layoffs,+200%,200,FALSE,https://trends.google.com/trends/explore?q=elevance%20health%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,12,citi layoffs,+200%,200,FALSE,https://trends.google.com/trends/explore?q=citi%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,13,geico layoffs,+190%,190,FALSE,https://trends.google.com/trends/explore?q=geico%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,14,premier inc layoffs,+190%,190,FALSE,https://trends.google.com/trends/explore?q=premier%20inc%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,15,servicenow layoffs,+180%,180,FALSE,https://trends.google.com/trends/explore?q=servicenow%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,16,uhg layoffs,+160%,160,FALSE,https://trends.google.com/trends/explore?q=uhg%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,17,paypal layoffs,+130%,130,FALSE,https://trends.google.com/trends/explore?q=paypal%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,18,square layoffs,+120%,120,FALSE,https://trends.google.com/trends/explore?q=square%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,19,soundhound layoffs,+110%,110,FALSE,https://trends.google.com/trends/explore?q=soundhound%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,20,intel layoffs,+70%,70,FALSE,https://trends.google.com/trends/explore?q=intel%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,layoffs,21,google layoffs,+60%,60,FALSE,https://trends.google.com/trends/explore?q=google%20layoffs&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,bankrupt,1,is wendy's going bankrupt,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=is%20wendy%27s%20going%20bankrupt&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,bankrupt,2,how many times has trump been bankrupt,Breakout,5000,TRUE,https://trends.google.com/trends/explore?q=how%20many%20times%20has%20trump%20been%20bankrupt&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,bankrupt,3,anthropic bankrupt,+250%,250,FALSE,https://trends.google.com/trends/explore?q=anthropic%20bankrupt&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,bankrupt,4,define bankrupt,+130%,130,FALSE,https://trends.google.com/trends/explore?q=define%20bankrupt&date=now%201-d&geo=US&hl=en-US
+2026-11-05 21:29,2026-11-05 18:29,24h,bankrupt,5,wendy's bankrupt,+100%,100,FALSE,https://trends.google.com/trends/explore?q=wendy%27s%20bankrupt&date=now%201-d&geo=US&hl=en-US
