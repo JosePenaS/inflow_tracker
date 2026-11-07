@@ -339,3 +339,87 @@ bankrupt on selling lyrics,12,not_a_fit,,,Query is unclear; no specific company 
 nfl bankrupt,68,industry,NFL,Use league and team finances to explain why an NFL 'bankruptcy' claim is unlikely.,"Money story about league revenues, valuations and solvency concerns.",gpt-5-mini,2026-11-06T20:40:13Z
 rashee rice bankruptcy,59,personal_finance,Rashee Rice,"Assess his potential liabilities, insurance coverages and whether bankruptcy would shelter damages.",Individual legal-financial situation explainable with numbers.,gpt-5-mini,2026-11-06T20:40:13Z
 is france bankrupt,90,economy,France,"Explain France's debt, deficits, bond yields and why 'bankrupt' isn't the right framing.",National finances can be explained with debt and GDP metrics.,gpt-5-mini,2026-11-06T20:40:13Z
+why does the byu qb wear 47,10,not_a_fit,,,Sports jersey trivia with no company or money angle.,gpt-5-mini,2026-11-07T19:01:43Z
+why do cats make biscuits,5,not_a_fit,,,"Animal behavior, no finance or company story.",gpt-5-mini,2026-11-07T19:01:43Z
+why is bear bachmeier number 47,10,not_a_fit,,,"Sports trivia, not relevant to company or financial stories.",gpt-5-mini,2026-11-07T19:01:43Z
+why women kill,8,not_a_fit,,,Likely entertainment/crime topic without a money angle.,gpt-5-mini,2026-11-07T19:01:43Z
+what is diwali and why is it celebrated,10,not_a_fit,,,"Cultural/religious explanation, not a finance topic.",gpt-5-mini,2026-11-07T19:01:43Z
+mstr stock,85,markets,MicroStrategy (MSTR),Explain MicroStrategy's business model and how its Bitcoin exposure affects its financials.,Clear company finance story; Bitcoin holdings affect balance sheet.,gpt-5-mini,2026-11-07T19:01:43Z
+jim cramer nvidia stock advice,80,markets,NVIDIA,Use recent advice as hook to explain Nvidia's revenue drivers and valuation risks.,Market-moving advice tied to company's valuation.,gpt-5-mini,2026-11-07T19:01:43Z
+etrade,70,company,E*TRADE,"How E*TRADE/Brokerages make money: commissions, interest, and customer assets economics.",Brokerage revenue model and fee trends are a clear finance topic.,gpt-5-mini,2026-11-07T19:01:43Z
+asml stock,85,markets,ASML,Break down ASML's lithography monopoly and how it converts tech leadership into profits.,Strong company/industry financial story with pricing power.,gpt-5-mini,2026-11-07T19:01:43Z
+lly stock,85,markets,Eli Lilly (LLY),Explain Eli Lilly's revenue mix and how key drugs drive sales and margins.,Big pharma earnings and product-driven revenue story.,gpt-5-mini,2026-11-07T19:01:43Z
+brkb stock,90,markets,Berkshire Hathaway (BRKB),Show how Berkshire's operating businesses and investment returns create overall value.,"Conglomerate with complex, finance-rich narrative.",gpt-5-mini,2026-11-07T19:01:43Z
+smh stock,80,markets,SMH (semiconductor ETF),Map semiconductor industry revenues and how SMH's holdings capture that exposure.,ETF reflects semiconductor industry finances and concentration risks.,gpt-5-mini,2026-11-07T19:01:43Z
+gme stock,80,markets,GameStop (GME),Explain GameStop's business economics versus meme-stock valuation narratives.,Ongoing valuation-versus-fundamentals market story.,gpt-5-mini,2026-11-07T19:01:43Z
+marvell stock,75,markets,Marvell Technology,Break down Marvell's product lines and how data center demand drives revenue.,Company financials tied to secular tech demand.,gpt-5-mini,2026-11-07T19:01:43Z
+wdc stock,80,markets,Western Digital (WDC),"Explain Western Digital's storage product cycles, revenue drivers, and inventory effects.",Hardware company with clear cyclical revenue dynamics.,gpt-5-mini,2026-11-07T19:01:43Z
+coreweave stock,65,markets,CoreWeave,What CoreWeave sells and how GPU-cloud demand could affect its valuation and revenue.,GPU-cloud provider with financing/valuation interest.,gpt-5-mini,2026-11-07T19:01:43Z
+chicken stock vs broth,5,not_a_fit,,,"Cooking question, no company or finance story.",gpt-5-mini,2026-11-07T19:01:43Z
+why does bear bachmeier wear number 47,10,not_a_fit,,,Sports trivia without a monetary angle.,gpt-5-mini,2026-11-07T19:01:43Z
+why does byu qb wear 47,10,not_a_fit,,,"Repeated sports trivia, not relevant to finance content.",gpt-5-mini,2026-11-07T19:01:43Z
+why is it called the holy war byu vs utah,10,not_a_fit,,,"Rivalry/sports history, no company or money angle.",gpt-5-mini,2026-11-07T19:01:43Z
+why is utah byu called the holy war,10,not_a_fit,,,"Sports rivalry explanation, not a finance topic.",gpt-5-mini,2026-11-07T19:01:43Z
+why is byu vs utah the holy war,10,not_a_fit,,,"Sports rivalry content, lacks financial narrative.",gpt-5-mini,2026-11-07T19:01:43Z
+why is it called the holy war,10,not_a_fit,,,"Generic rivalry question, no money story.",gpt-5-mini,2026-11-07T19:01:43Z
+why is utah vs byu called the holy war,10,not_a_fit,,,"Sports-focused, no company/government finance angle.",gpt-5-mini,2026-11-07T19:01:43Z
+why is jason sudeikis the guest picker,8,not_a_fit,,,Entertainment/TV query without financial relevance.,gpt-5-mini,2026-11-07T19:01:43Z
+why are the flags at half mast today,5,not_a_fit,,,"Civic/ceremonial topic, no fiscal/company angle.",gpt-5-mini,2026-11-07T19:01:43Z
+wildwood earnings,60,company,Wildwood,"If public, summarize Wildwood's latest earnings: revenues, margins, cash flow drivers.",Earnings query implies a financial story if company exists.,gpt-5-mini,2026-11-07T19:01:43Z
+chase daniel career earnings,60,personal_finance,Chase Daniel,Rank NFL backup QBs by career earnings and breakdown Chase Daniel's pay sources.,Player career earnings are numeric and comparable.,gpt-5-mini,2026-11-07T19:01:43Z
+joe montana career earnings,65,personal_finance,Joe Montana,Break down Joe Montana's contract and endorsement earnings in historical dollars.,Historic athlete earnings provide a clear money story.,gpt-5-mini,2026-11-07T19:01:43Z
+palantir amd third quarter earnings,85,markets,Palantir; AMD,Use Q3 results search to compare Palantir and AMD revenue drivers and profitability trends.,Earnings-focused query for two public tech companies.,gpt-5-mini,2026-11-07T19:01:43Z
+daniel jones career earnings,60,personal_finance,Daniel Jones,Explain Daniel Jones' NFL contract earnings and signing-bonus structure to date.,Contract numbers and salary progression form a finance story.,gpt-5-mini,2026-11-07T19:01:43Z
+sny layoffs today,50,industry,Sanofi (SNY),"If confirmed, explain SNY layoffs' cost savings and impact on guidance and R&D spend.","Layoffs imply cost impact, but entity and details ambiguous.",gpt-5-mini,2026-11-07T19:01:43Z
+ai layoffs,90,industry,AI/tech industry,"Map AI-related layoffs: which firms, payroll savings, and implications for product roadmaps.",Clear industry-level money story about costs and restructuring.,gpt-5-mini,2026-11-07T19:01:43Z
+why did susie wiles leave,15,not_a_fit,,,"Political personnel question, lacks company/government finance focus.",gpt-5-mini,2026-11-07T19:01:43Z
+why alaska can be typed on one row of a qwerty keyboard,5,not_a_fit,,,"Keyboard trivia, not relevant to finances.",gpt-5-mini,2026-11-07T19:01:43Z
+î€„what is phantom vibration syndromeî „,5,not_a_fit,,,Health/psychology topic without monetary relevance.,gpt-5-mini,2026-11-07T19:01:43Z
+how agentic ai systems work in automation,60,industry,AI/automation industry,Explain agentic AI and estimate how automation could change labor costs and capital spending.,Technical trend with clear corporate cost/revenue implications.,gpt-5-mini,2026-11-07T19:01:43Z
+î€‡what are ai guardrails in software developmentî ‡,55,industry,Software industry,Explain AI guardrails and their impact on development costs and product risk management.,Guardrails imply compliance and development cost effects.,gpt-5-mini,2026-11-07T19:01:43Z
+what is micro-drama short form content,20,not_a_fit,,,Content trend without an obvious money or company narrative.,gpt-5-mini,2026-11-07T19:01:43Z
+what is sovereign ai strategy,70,government_finance,Governments,Explain sovereign AI strategies and government spending to build domestic AI capabilities.,Policy involves procurement budgets and industrial strategy spending.,gpt-5-mini,2026-11-07T19:01:43Z
+î€†meaning of the african word ubuntuî †,5,not_a_fit,,,"Cultural/linguistic question, not finance-focused.",gpt-5-mini,2026-11-07T19:01:43Z
+history of nintendo starting as a playing card company in 1889,75,company,Nintendo,Chart Nintendo's business evolution and how its revenue streams shifted since 1889.,Company history tied to evolving revenue models and products.,gpt-5-mini,2026-11-07T19:01:43Z
+how video game surgeons make fewer errors,10,not_a_fit,,,"Medical/tech procedure topic, lacks company/financial focus.",gpt-5-mini,2026-11-07T19:01:43Z
+î€…first vcr size compared to a pianoî …,5,not_a_fit,,,"Historical size trivia, not finance-related.",gpt-5-mini,2026-11-07T19:01:43Z
+î€ƒwhy gps costs $2 million a day to operateî ƒ,80,government_finance,GPS program / U.S. government,Break down GPS operating costs and how federal budgets fund satellite operations.,Clear government budget and operating-cost story.,gpt-5-mini,2026-11-07T19:01:43Z
+why compact discs read from the inside out,5,not_a_fit,,,"Technical optical explanation, not a money story.",gpt-5-mini,2026-11-07T19:01:43Z
+why google uses goats for lawn maintenance,60,company,Google,"Explain Google's goat-grazing programs as cost, leasing, and sustainability decisions.",Company operations choice with potential cost/sustainability savings.,gpt-5-mini,2026-11-07T19:01:43Z
+why was susie wiles replaced,15,not_a_fit,,,Political staffing matter without a clear financial angle.,gpt-5-mini,2026-11-07T19:01:43Z
+why did trump fire susie wiles,15,not_a_fit,,,"Political personnel question, not aligned with channel focus.",gpt-5-mini,2026-11-07T19:01:43Z
+origin of the png image file name pronunciation,5,not_a_fit,,,"Linguistic/technical pronunciation question, no money story.",gpt-5-mini,2026-11-07T19:01:43Z
+why is byu utah called the holy war,10,not_a_fit,,,"Sports rivalry explanation, lacks finance relevance.",gpt-5-mini,2026-11-07T19:01:43Z
+why is sammy kershaw not walking the red carpet,8,not_a_fit,,,"Celebrity/entertainment topic, not finance-related.",gpt-5-mini,2026-11-07T19:01:43Z
+î€‚why was the electric chair invented by a dentistî ‚,10,not_a_fit,,,"Historical curiosity, not a company/government finance topic.",gpt-5-mini,2026-11-07T19:01:43Z
+how does the nba cup work,25,not_a_fit,NBA,(If earnings-related) Explain tournament revenue distribution and prize economics.,Primarily sports format; only marginal finance angle.,gpt-5-mini,2026-11-07T19:01:43Z
+fintechdeets stock analysis,30,not_a_fit,FintechDeets,,Unclear public-company status; unlikely to tie to a firm-level finance story.,gpt-5-mini,2026-11-07T19:01:43Z
+fintechdeets stock market trading,25,not_a_fit,FintechDeets,,"Ambiguous query about a niche service, no clear company finance angle.",gpt-5-mini,2026-11-07T19:01:43Z
+jim rechtin humana earnings call,70,markets,Humana,Summarize key takeaways from Humana's earnings call and implications for margins and guidance.,Earnings call query directly tied to company financials.,gpt-5-mini,2026-11-07T19:01:43Z
+six flags third quarter earnings call,75,company,Six Flags,"Summarize Six Flags' Q3 results: attendance, ticketing revenue, and seasonality effects.",Theme-park earnings provide clear revenue and margin stories.,gpt-5-mini,2026-11-07T19:01:43Z
+kristaps porziņģis career earnings,60,personal_finance,Kristaps Porziņģis,Break down Porziņģis' NBA salaries and contract earnings to date.,Player salary and contract numbers are a direct money story.,gpt-5-mini,2026-11-07T19:01:43Z
+porzingis career earnings,60,personal_finance,Kristaps Porziņģis,Explain Porziņģis' cumulative NBA earnings and contract structure.,Same athlete earnings question; numeric finance content.,gpt-5-mini,2026-11-07T19:01:43Z
+kristaps porzingis career earnings,20,personal_finance,Kristaps Porziņģis,,Sports-focused earnings; outside channel's primary company/government coverage.,gpt-5-mini,2026-11-07T19:02:21Z
+turkish airlines q3 earnings 2026,90,company,Turkish Airlines,"Break down Turkish Airlines' Q3 2026 revenues, costs, and profit drivers.",Clear corporate earnings story with measurable financials.,gpt-5-mini,2026-11-07T19:02:21Z
+jordan cameron career earnings,20,personal_finance,Jordan Cameron,,Sports salary story; not core to company/government finance focus.,gpt-5-mini,2026-11-07T19:02:21Z
+berkshire hathaway earnings,95,company,Berkshire Hathaway,"Explain Berkshire's latest earnings by segment: insurance float, operations, and investments.",Major conglomerate earnings and capital allocation are high-interest finance topics.,gpt-5-mini,2026-11-07T19:02:21Z
+berkshire earnings,94,company,Berkshire Hathaway,"Summarize Berkshire's reported results and how insurance, rail, and investments contributed.",Same clear corporate/portfolio finance story as above.,gpt-5-mini,2026-11-07T19:02:21Z
+brk earnings,90,company,Berkshire Hathaway (BRK),Quick explainer of BRK's earnings drivers and reported investment gains/losses.,Ticker search implies earnings interest; strong company finance angle.,gpt-5-mini,2026-11-07T19:02:21Z
+brandon aiyuk career earnings,20,personal_finance,Brandon Aiyuk,,"Athlete earnings are sports-focused, not core channel content.",gpt-5-mini,2026-11-07T19:02:21Z
+nick young career earnings,20,personal_finance,Nick Young,,"Sports celebrity money, outside usual company/government topics.",gpt-5-mini,2026-11-07T19:02:21Z
+ramayana earnings,70,company,Ramayana (retailer),"Break down Ramayana's revenue, margins, and compare to Indonesian retail peers.",Public retail earnings story with explainable revenue and margin drivers.,gpt-5-mini,2026-11-07T19:02:21Z
+be stock,65,markets,BE (ticker),"Explain BE's business, recent share moves, and valuation drivers for investors.",Ticker search can be turned into a markets/valuation explainer.,gpt-5-mini,2026-11-07T19:02:21Z
+crwv earnings,60,company,CRWV (ticker/company),"If public, break down CRWV's reported revenue, margins, and profit trends.",Earnings query suggests a company-focused financial explainer.,gpt-5-mini,2026-11-07T19:02:21Z
+amazon rolling layoffs news,85,company,Amazon,"Quantify Amazon's rolling layoffs: headcount, estimated cost savings, and business impact.",Major company workforce reductions have clear financial implications.,gpt-5-mini,2026-11-07T19:02:21Z
+gm layoffs,85,company,General Motors,"Assess GM layoffs' cost savings, plant impacts, and effect on production margins.","Auto-industry layoffs change costs, capacity, and profit outlook.",gpt-5-mini,2026-11-07T19:02:21Z
+automattic layoffs,70,company,Automattic,"Analyze Automattic's layoffs in context of revenue, burn rate, and valuation pressure.",Private tech layoffs reveal runway and business-model stress.,gpt-5-mini,2026-11-07T19:02:21Z
+draftkings layoffs,75,company,DraftKings,Measure DraftKings' layoffs against customer-acquisition costs and path to profitability.,Operator layoffs tie directly to margin and marketing decisions.,gpt-5-mini,2026-11-07T19:02:21Z
+bny layoffs,80,company,BNY Mellon,Break down BNY Mellon's layoffs: expected cost savings and impact on AUC/AUM services.,Bank workforce changes affect operating costs and client service economics.,gpt-5-mini,2026-11-07T19:02:21Z
+spindlehorse layoffs,35,company,Spindlehorse,,Small/private company rumor; limited public financial data for a solid explainer.,gpt-5-mini,2026-11-07T19:02:21Z
+any layoffs,70,economy,,"Aggregate recent layoff totals and estimate payroll, consumer-spending, and GDP implications.","Macro layoff aggregates create a clear, numbers-driven economic story.",gpt-5-mini,2026-11-07T19:02:21Z
+amazon layoffs,85,company,Amazon,Quantify Amazon's layoffs by division and estimate near-term margin impact.,High-profile corporate layoffs have measurable financial consequences.,gpt-5-mini,2026-11-07T19:02:21Z
+is children's place going bankrupt,82,company,The Children's Place,"Assess The Children's Place's balance sheet, liquidity, and bankruptcy likelihood indicators.",Direct solvency question fits channel's finance and company analysis focus.,gpt-5-mini,2026-11-07T19:02:21Z
+character ai bankrupt,60,company,Character AI,"Evaluate Character AI's revenue model, burn rate, and runway against bankruptcy rumors.",Startup insolvency rumors invite runway and monetization examination.,gpt-5-mini,2026-11-07T19:02:21Z
+is wendys going bankrupt,80,company,Wendy's,"Examine Wendy's cash flow, debt, and franchise model to judge bankruptcy risk.",Restaurant chain finances and franchise structures are explainable with numbers.,gpt-5-mini,2026-11-07T19:02:21Z
+bankrupt definition,45,personal_finance,,"Explain bankruptcy types (Chapter 7 vs 11), process, and financial consequences concisely.",Useful general explainer but not anchored to company/government story.,gpt-5-mini,2026-11-07T19:02:21Z
+crumbl bankrupt,60,company,Crumbl,Analyze Crumbl's franchise economics and whether bankruptcy rumors are financially plausible.,Franchise model allows numbers-driven assessment of insolvency risk.,gpt-5-mini,2026-11-07T19:02:21Z
