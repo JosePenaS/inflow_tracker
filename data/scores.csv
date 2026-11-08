@@ -462,3 +462,70 @@ medtronic layoffs,72,company,Medtronic,"Medtronic layoffs: impact on R&D spend, 
 japan bankrupt,65,economy,Japan,"Is Japan bankrupt? Explaining government debt, debt-to-GDP, and bond-yield dynamics.",Macro fiscal solvency topic suitable for numbers-based explainer.,gpt-5-mini,2026-11-07T22:58:30Z
 is jetblue going bankrupt,75,company,JetBlue Airways,"Is JetBlue insolvent? Examine cash, debt maturities, and liquidity runway.",Solvency analysis is a direct company finance story.,gpt-5-mini,2026-11-07T22:58:30Z
 outback steakhouse bankrupt,70,company,Outback Steakhouse / Bloomin' Brands,"Is Outback bankrupt? Check parent balance sheet, franchise economics, and store profitability.",Bankruptcy rumors can be evaluated using corporate financials.,gpt-5-mini,2026-11-07T22:58:30Z
+why isn't deshaun watson playing,10,not_a_fit,,,"Sports injury/roster question, not a company or money story.",gpt-5-mini,2026-11-08T19:02:12Z
+why is shedeur sanders starting this week,10,not_a_fit,,,"Sports lineup news, no finance/company angle.",gpt-5-mini,2026-11-08T19:02:12Z
+why isn't george pickens playing,10,not_a_fit,,,"Player availability—sports topic, not relevant to finances.",gpt-5-mini,2026-11-08T19:02:12Z
+why is deshaun watson not playing,10,not_a_fit,,,Repeat sports injury/availability topic—no money story.,gpt-5-mini,2026-11-08T19:02:12Z
+why is pickens not playing today,10,not_a_fit,,,Game-day player status—no company/financial angle.,gpt-5-mini,2026-11-08T19:02:12Z
+why is shedeur starting,10,not_a_fit,,,"Sports roster question, not a fit for finance content.",gpt-5-mini,2026-11-08T19:02:12Z
+why is george pickens out today,10,not_a_fit,,,Sports/injury question without a corporate money story.,gpt-5-mini,2026-11-08T19:02:12Z
+why is sanders starting for the browns,10,not_a_fit,,,NFL roster decision—no relevant company or financial story.,gpt-5-mini,2026-11-08T19:02:12Z
+why is pickens not playing,10,not_a_fit,,,"Player availability; sports topic, not finance-focused.",gpt-5-mini,2026-11-08T19:02:12Z
+why is george pickens not playing,10,not_a_fit,,,Sports injury/availability—outside channel scope.,gpt-5-mini,2026-11-08T19:02:12Z
+home workout routines,5,not_a_fit,,,"Fitness content, no company or financial story.",gpt-5-mini,2026-11-08T19:02:12Z
+wall street stock market bubble risks,88,markets,US stock market,"Explain which sectors, valuations and flows make a bubble risk using Sankey diagrams.",Clear market valuation and flow story investors care about.,gpt-5-mini,2026-11-08T19:02:12Z
+merlion technologies .com,20,not_a_fit,,,Looks like a domain lookup; unclear company or finance relevance.,gpt-5-mini,2026-11-08T19:02:12Z
+yahoo finance stock market live quotes business & finance news,20,not_a_fit,Yahoo Finance,,"Service/search for live quotes, not a specific money story to cover.",gpt-5-mini,2026-11-08T19:02:12Z
+lockheed martin stock,82,company,Lockheed Martin,"Break down defense revenue, major contracts and government budget exposure.",Direct company stock interest tied to defense budgets and contracts.,gpt-5-mini,2026-11-08T19:02:12Z
+ttwo stock,74,company,Take-Two Interactive,"Show how game releases, recurring revenue and royalties drive future cash flow.",Gaming company fundamentals and release pipeline affect valuation.,gpt-5-mini,2026-11-08T19:02:12Z
+rivian stock forecast 2030,85,company,Rivian,Model multiple 2030 revenue and margin scenarios for Rivian with Sankey flows.,Long-term forecasts are a strong company-finance story for viewers.,gpt-5-mini,2026-11-08T19:02:12Z
+sndk stock price,50,company,SNDK,Explain which ticker/company this refers to and historical corporate events.,Ambiguous/possibly obsolete ticker; could be an earnings/history explainer.,gpt-5-mini,2026-11-08T19:02:12Z
+msft stock,92,company,Microsoft,"Map Microsoft's revenue mix (Cloud, Office, Gaming) to profits and valuation.",Major company with clear segment-level money story.,gpt-5-mini,2026-11-08T19:02:12Z
+disney layoffs,82,company,Disney,"Analyze cost cuts, streaming losses and how layoffs affect margins and cashflow.",Layoffs tie directly to company cost structure and strategy.,gpt-5-mini,2026-11-08T19:02:12Z
+how much goals does ronaldo have,5,not_a_fit,,,Sports statistic—no corporate or financial angle.,gpt-5-mini,2026-11-08T19:02:12Z
+top analyst dividend stock picks,72,markets,,"Rank high-yield stocks, show payout sustainability and cashflow coverage visually.","Ranking dividend stocks fits the channel's numerical, comparative format.",gpt-5-mini,2026-11-08T19:02:12Z
+stock vs broth,3,not_a_fit,,,Cooking pun—irrelevant to finance/company topics.,gpt-5-mini,2026-11-08T19:02:12Z
+vintage stock,20,not_a_fit,,,Ambiguous term (clothing/collector)—unlikely clear company finance story.,gpt-5-mini,2026-11-08T19:02:12Z
+chicken stock,3,not_a_fit,,,Cooking ingredient; no company/finance angle.,gpt-5-mini,2026-11-08T19:02:12Z
+fintechdeets official website,10,not_a_fit,FintechDeets,,Search for a site/brand; not obviously a money/company story to cover.,gpt-5-mini,2026-11-08T19:02:12Z
+fintechdeets,10,not_a_fit,FintechDeets,,Brand lookup—insufficient finance-news angle without context.,gpt-5-mini,2026-11-08T19:02:12Z
+nick folk career earnings,5,not_a_fit,,,Athlete earnings—sports/celebrity topic outside channel focus.,gpt-5-mini,2026-11-08T19:02:12Z
+earnings whisper,60,markets,Earnings Whisper,Explain how 'whisper' expectations influence earnings reactions and stock moves.,Concept affects earnings season market dynamics and viewer investing decisions.,gpt-5-mini,2026-11-08T19:02:12Z
+tom brady career earnings,5,not_a_fit,,,Celebrity/sports earnings—outside channel's corporate finance focus.,gpt-5-mini,2026-11-08T19:02:12Z
+joe flacco career earnings,5,not_a_fit,,,"Sports/celebrity earnings, not a company/market story.",gpt-5-mini,2026-11-08T19:02:12Z
+cbrs earnings,50,company,CBRS (ambiguous),"If a ticker/company, preview earnings drivers and revenue composition.",Ambiguous ticker/term but could be an earnings query worth checking.,gpt-5-mini,2026-11-08T19:02:12Z
+matt hasselbeck career earnings,5,not_a_fit,,,Sports/celebrity earnings unrelated to company finance content.,gpt-5-mini,2026-11-08T19:02:12Z
+when is nvidia earnings,86,company,NVIDIA,Preview Nvidia's next report: revenue by segment and AI demand sensitivity.,Nvidia earnings materially affect markets and have strong revenue segmentation.,gpt-5-mini,2026-11-08T19:02:12Z
+earnings growth,72,markets,,Explain drivers of corporate earnings growth and how investors measure sustainability.,Core financial concept fits the channel's explanatory style.,gpt-5-mini,2026-11-08T19:02:12Z
+chevron layoffs,78,company,Chevron,"Analyze cost-cutting motives, upstream vs downstream impacts on cashflow.",Layoffs reflect company strategy and affect future margins and capex.,gpt-5-mini,2026-11-08T19:02:12Z
+why was kevin costner at lsu today,5,not_a_fit,,,Celebrit y/appearance—no clear financial story.,gpt-5-mini,2026-11-08T19:02:12Z
+palantir stock eight day decline,76,company,Palantir,"Break down revenue cadence, customer concentration and timing causing recent declines.",Price action likely ties to fundamentals and contract timing.,gpt-5-mini,2026-11-08T19:02:12Z
+taiwan semiconductor ai stock buy,84,company,TSMC (Taiwan Semiconductor),Assess TSMC's AI-driven revenue and capex outlook for investors.,TSMC's AI exposure is a clear company/market money story.,gpt-5-mini,2026-11-08T19:02:12Z
+uspr stock,50,company,USPR (ambiguous),Check which company/ticker this is and summarize fundamentals and earnings.,Ticker ambiguous but could be a specific stock interest.,gpt-5-mini,2026-11-08T19:02:12Z
+is the stock market open on veterans day,66,markets,US stock market,Explain market holiday schedules and typical volume/liquidity effects on trading.,Practical markets question with trading implications for viewers.,gpt-5-mini,2026-11-08T19:02:12Z
+smci q1 revenue earnings report,82,company,SMCI (Super Micro Computer),"Analyze SMCI's quarter: server demand, AI exposure and margin trends.",Earnings report directly ties to company revenue and AI hardware demand.,gpt-5-mini,2026-11-08T19:02:12Z
+stephen curry career earnings,5,not_a_fit,,,Athlete earnings—sports/celebrity content outside core focus.,gpt-5-mini,2026-11-08T19:02:12Z
+rob gronkowski career earnings,5,not_a_fit,,,Sports/celebrity finances not aligned with channel topics.,gpt-5-mini,2026-11-08T19:02:12Z
+jack campbell career earnings,5,not_a_fit,,,Athlete earnings—no company or macro finance story.,gpt-5-mini,2026-11-08T19:02:12Z
+ncha horse earnings,10,not_a_fit,,,Horse racing earnings—niche sports topic not company-centered.,gpt-5-mini,2026-11-08T19:02:12Z
+earnings per share formula,75,markets,,"Explain EPS calculation, dilution and implications using numeric Sankey diagrams.",Fundamental metric that benefits from clear numerical explanation.,gpt-5-mini,2026-11-08T19:02:12Z
+joe johnson career earnings,5,not_a_fit,,,Athlete earnings—outside channel's focus on companies and governments.,gpt-5-mini,2026-11-08T19:02:12Z
+you can see everything earnings,10,not_a_fit,,,Phrase unclear; likely not a finance/company story without context.,gpt-5-mini,2026-11-08T19:02:12Z
+jeff teague career earnings,5,not_a_fit,,,Sports/celebrity topic—no corporate finance angle.,gpt-5-mini,2026-11-08T19:02:12Z
+ramayana movie earnings,40,industry,Film / Ramayana movie,Break down box office vs production/distribution costs and profit split.,"Box-office is a revenue story, but niche and potentially small-scale.",gpt-5-mini,2026-11-08T19:02:12Z
+earnings this week,85,markets,,Preview and rank this week's biggest earnings by revenue and market impact.,Timely earnings calendar fits channel's ranking and numbers format.,gpt-5-mini,2026-11-08T19:02:12Z
+amazon earnings,90,company,Amazon,"Dissect Amazon's segment revenues, margins and profit drivers this quarter.","Major company with clear, sizable segment-level money story.",gpt-5-mini,2026-11-08T19:02:12Z
+humana layoffs,76,company,Humana,"Analyze insurer cost cuts, Medicare exposure and long‑term margin implications.",Layoffs tie to company strategy and financial metrics.,gpt-5-mini,2026-11-08T19:02:12Z
+trade desk layoffs,74,company,The Trade Desk,Show ad-demand pressure on revenue and why layoffs alter margins.,Ad-tech layoffs reflect revenue cyclicality and cost structure shifts.,gpt-5-mini,2026-11-08T19:02:12Z
+marriott layoffs 2026,74,company,Marriott,Assess hospitality labor cuts versus occupancy recovery and cost per occupied room.,Layoffs affect margins and reflect strategy in a cyclical industry.,gpt-5-mini,2026-11-08T19:02:12Z
+servicenow layoffs reddit,70,company,ServiceNow,Explain how subscription revenue and restructuring drive headcount decisions.,Layoffs impact recurring revenue businesses and future margin trajectory.,gpt-5-mini,2026-11-08T19:02:12Z
+cigna layoffs 2026,74,company,Cigna,Evaluate cost reductions versus underwriting and health‑plan revenue implications.,Insurer layoffs relate directly to profitability and expense management.,gpt-5-mini,2026-11-08T19:02:12Z
+hpe layoffs,75,company,HPE,Analyze restructuring amid hybrid cloud competition and its effect on margins.,Workforce moves reflect strategy and capital allocation tradeoffs.,gpt-5-mini,2026-11-08T19:02:12Z
+marriott layoffs,74,company,Marriott,Assess hospitality labor cuts versus occupancy recovery and cost per occupied room.,Layoffs affect margins and reflect strategy in a cyclical industry.,gpt-5-mini,2026-11-08T19:02:12Z
+mgb layoffs,60,company,MGB,"If this refers to a specific firm, explain the layoffs' impact on revenue, costs and margins.",Ambiguous company name but layoffs imply a finance/cost-cutting story.,gpt-5-mini,2026-11-08T19:02:31Z
+charter communications layoffs,85,company,Charter Communications,"Show Charter's revenue mix (broadband, video), subscriber trends, margins, and why layoffs cut costs.",Layoffs tie directly to subscriber trends and telecom margins.,gpt-5-mini,2026-11-08T19:02:31Z
+boston scientific layoffs,80,company,Boston Scientific,"Break down device sales, R&D and regulatory costs and how layoffs change profitability.",Layoffs affect cost structure amid medical device financial pressures.,gpt-5-mini,2026-11-08T19:02:31Z
+visa layoffs,75,company,Visa,"Analyze Visa's revenue by product, fixed costs and how workforce reductions affect margins.",Payments firm efficiency moves are a clear company finance story.,gpt-5-mini,2026-11-08T19:02:31Z
+microsoft,95,company,Microsoft,"Visualize Microsoft's revenue and profit by segment (Azure, Office, Windows, gaming) and margin drivers.","Huge company with clear, numbers-driven revenue and cost breakdowns.",gpt-5-mini,2026-11-08T19:02:31Z
+is wendys bankrupt,70,company,Wendy's,"Fact‑check bankruptcy rumours using Wendy's balance sheet, cash flow, debt and franchise economics.",Directly concerns a company's solvency—classic finance explainable topic.,gpt-5-mini,2026-11-08T19:02:31Z
+liv golf bankrupt,80,company,LIV Golf,"Explain LIV's funding model, prize payouts, liabilities and whether bankruptcy is plausible financially.","League funding, payouts and liabilities make for a clear money story.",gpt-5-mini,2026-11-08T19:02:31Z
