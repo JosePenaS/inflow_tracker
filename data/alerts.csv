@@ -29,3 +29,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-08T18:50:32Z,2026-11-08 18:50,exxon layoffs,85,5000
 2026-11-08T18:50:32Z,2026-11-08 18:50,rklb earnings date,85,5000
 2026-11-08T18:50:32Z,2026-11-08 18:50,wells fargo layoffs,85,5000
+2026-11-08T22:54:44Z,2026-11-08 22:54,nvidia stock,92,300
+2026-11-08T22:54:44Z,2026-11-08 22:54,when does nvidia report earnings,90,5000
+2026-11-08T22:54:44Z,2026-11-08 22:54,nvdia stock,90,400
+2026-11-08T22:54:44Z,2026-11-08 22:54,truist layoffs,88,5000
+2026-11-08T22:54:44Z,2026-11-08 22:54,when is nvidia earnings,86,5000

@@ -529,3 +529,63 @@ visa layoffs,75,company,Visa,"Analyze Visa's revenue by product, fixed costs and
 microsoft,95,company,Microsoft,"Visualize Microsoft's revenue and profit by segment (Azure, Office, Windows, gaming) and margin drivers.","Huge company with clear, numbers-driven revenue and cost breakdowns.",gpt-5-mini,2026-11-08T19:02:31Z
 is wendys bankrupt,70,company,Wendy's,"Fact‑check bankruptcy rumours using Wendy's balance sheet, cash flow, debt and franchise economics.",Directly concerns a company's solvency—classic finance explainable topic.,gpt-5-mini,2026-11-08T19:02:31Z
 liv golf bankrupt,80,company,LIV Golf,"Explain LIV's funding model, prize payouts, liabilities and whether bankruptcy is plausible financially.","League funding, payouts and liabilities make for a clear money story.",gpt-5-mini,2026-11-08T19:02:31Z
+why is crypto crashing,85,markets,cryptocurrency market,"Explain recent crypto sell-off with flows: leverage, liquidations, ETF and exchange flows using Sankey diagrams.",Clear market-moving money story with explainable flows.,gpt-5-mini,2026-11-08T23:07:02Z
+why is josh jacobs not playing,10,not_a_fit,,,"Football lineup/injury query, no financial/company angle.",gpt-5-mini,2026-11-08T23:07:02Z
+why is crypto down today,80,markets,cryptocurrency market,"Real-time drivers of today's crypto drop: flows, whales, macro and liquidations visualized.",Daily market movement with quantifiable money flows.,gpt-5-mini,2026-11-08T23:07:02Z
+why is sam darnold out,10,not_a_fit,,,"Sports injury/roster news, not a money story.",gpt-5-mini,2026-11-08T23:07:02Z
+why isn't sam darnold playing,10,not_a_fit,,,Roster/injury question without company/finance focus.,gpt-5-mini,2026-11-08T23:07:02Z
+why are the chargers so bad,10,not_a_fit,,,"Team performance question, no clear financial angle.",gpt-5-mini,2026-11-08T23:07:02Z
+why is marshals not on tonight,5,not_a_fit,,,"Likely TV/entertainment scheduling question, not financial.",gpt-5-mini,2026-11-08T23:07:02Z
+why was a south carolina father arrested for leaving his child at target for pokémon cards?,5,not_a_fit,,,"Crime/viral human interest, no money/company/government budget angle.",gpt-5-mini,2026-11-08T23:07:02Z
+dow futures,85,markets,Dow Jones futures,"What’s moving Dow futures overnight: macro data, earnings, and positioning flows explained.",Clear markets story with quantifiable drivers.,gpt-5-mini,2026-11-08T23:07:02Z
+stock futures now,80,markets,U.S. stock futures,"Today’s futures snapshot: which sectors and stocks are driving pre-market moves, explained with numbers.",Timely market-movement/flow explanation fits channel style.,gpt-5-mini,2026-11-08T23:07:02Z
+nvdia stock,90,company,Nvidia,"Break down Nvidia’s revenue and profit drivers (data center, gaming, automotive) with Sankey diagrams.",Large company with clear financial story and interest.,gpt-5-mini,2026-11-08T23:07:02Z
+btc,80,markets,Bitcoin,"Bitcoin supply-demand flows: miners, ETFs, exchanges and on-chain selling pressure visualized.","High-interest asset, explainable money flows.",gpt-5-mini,2026-11-08T23:07:02Z
+us stock futures,80,markets,U.S. stock futures,"What overnight futures say about today's market open and sector winners/losers, explained numerically.",Direct market story with numbers to visualize.,gpt-5-mini,2026-11-08T23:07:02Z
+nvidia stock futures,85,markets,Nvidia,How Nvidia futures price in earnings/announcements and what that implies for expected flows.,Company-specific futures activity has clear money implications.,gpt-5-mini,2026-11-08T23:07:02Z
+stock futures today,80,markets,U.S. stock futures,"Today’s futures overview: macro, earnings, and positioning driving pre-market prices visualized.",Timely market analysis with numeric focus.,gpt-5-mini,2026-11-08T23:07:02Z
+nvidia stock price today,85,company,Nvidia,Explain today's Nvidia price move via recent revenue drivers and analyst expectations using Sankeys.,Timely company price move with clear financial drivers.,gpt-5-mini,2026-11-08T23:07:02Z
+nvidia stock after hours,80,company,Nvidia,"After-hours moves explained: earnings, guidance, and how after-hours flows affect market open.",Post-market price action ties to corporate news and money flows.,gpt-5-mini,2026-11-08T23:07:02Z
+yahoo finance,30,company,Yahoo Finance,How Yahoo Finance makes money and how it shapes retail investor information flows.,"Possible business-model angle, but query likely tool-focused.",gpt-5-mini,2026-11-08T23:07:02Z
+bitcoin price,85,markets,Bitcoin,"What’s moving Bitcoin price now: ETF flows, macro rates, miner sales, illustrated with numbers.",High-interest market topic with quantifiable drivers.,gpt-5-mini,2026-11-08T23:07:02Z
+xrp price,70,markets,XRP (Ripple),"Explain XRP price drivers: legal/regulatory developments, exchange listings, and token supply flows.",Crypto price story with regulatory and flow elements.,gpt-5-mini,2026-11-08T23:07:02Z
+regalbuzz .com miami,5,not_a_fit,,,"Unclear/local query, unlikely to have money/company angle.",gpt-5-mini,2026-11-08T23:07:02Z
+gardner minshew career earnings,80,personal_finance,Gardner Minshew,"Break down Gardner Minshew’s career earnings, contracts and endorsements with Sankey visuals.",Fits the channel’s 'career earnings' video format.,gpt-5-mini,2026-11-08T23:07:02Z
+why is jj mccarthy not playing,10,not_a_fit,,,"Sports-injury/roster story, not financial.",gpt-5-mini,2026-11-08T23:07:02Z
+why is drew lock starting,10,not_a_fit,,,"Coaching/roster question, not a money story.",gpt-5-mini,2026-11-08T23:07:02Z
+why is sam darnold not playing,10,not_a_fit,,,Duplicate roster/injury query without financial angle.,gpt-5-mini,2026-11-08T23:07:02Z
+why isn't george pickens playing today,10,not_a_fit,,,"Player availability question, no company/finance story.",gpt-5-mini,2026-11-08T23:07:02Z
+how does nfl overtime work,5,not_a_fit,,,"Rules explanation, not a financial/company topic.",gpt-5-mini,2026-11-08T23:07:02Z
+how does ot work in nfl,5,not_a_fit,,,"Sports rules topic, outside channel focus.",gpt-5-mini,2026-11-08T23:07:02Z
+how does overtime work in the nfl,5,not_a_fit,,,"Rule explanation, not finance-focused.",gpt-5-mini,2026-11-08T23:07:02Z
+jensen huang,75,company,Jensen Huang / Nvidia,"Profile Jensen Huang’s compensation, stock holdings and influence on Nvidia’s financials.",CEO-focused finance story tied to a major company.,gpt-5-mini,2026-11-08T23:07:02Z
+vanguard fidelity stock return forecast,75,markets,Vanguard; Fidelity,Compare Vanguard and Fidelity forecast methods and fees’ impact on expected returns.,Investment-providers and forecast methodology have clear financial relevance.,gpt-5-mini,2026-11-08T23:07:02Z
+stock market bubble,80,markets,stock market,"Assess bubble indicators: valuations, flows, margin debt, and where money is concentrated.",Macro markets topic well-suited to numeric analysis.,gpt-5-mini,2026-11-08T23:07:02Z
+nvda stock,90,company,Nvidia,"Explain Nvidia's financials: revenue mix, margins, and growth drivers with Sankey diagrams.",High-interest corporate finance story.,gpt-5-mini,2026-11-08T23:07:02Z
+nvda stock price,85,company,Nvidia,"What’s moving NVDA price today: earnings, guidance, and positioning explained with numbers.",Timely price-movement explanation fits channel.,gpt-5-mini,2026-11-08T23:07:02Z
+nvidia stock price,85,company,Nvidia,Break down the drivers behind Nvidia’s stock price changes using revenue and margin flows.,Direct company finance story.,gpt-5-mini,2026-11-08T23:07:02Z
+blades brown earnings,20,not_a_fit,,,Unclear entity; likely not a public-company finance query.,gpt-5-mini,2026-11-08T23:07:02Z
+dak prescott career earnings,80,personal_finance,Dak Prescott,"Visualize Dak Prescott’s career earnings by salary, bonuses and endorsements.",Fits channel's career-earnings format.,gpt-5-mini,2026-11-08T23:07:02Z
+harrison butker career earnings,70,personal_finance,Harrison Butker,Break down Harrison Butker’s NFL earnings and contract structure with Sankey charts.,"Direct career-earnings topic, smaller scale but relevant.",gpt-5-mini,2026-11-08T23:07:02Z
+drew brees career earnings,80,personal_finance,Drew Brees,"Show Drew Brees’s career earnings across contracts and endorsements, visualized.",Classic career-earnings video fit.,gpt-5-mini,2026-11-08T23:07:02Z
+russell wilson career earnings,80,personal_finance,Russell Wilson,"Breakdown of Russell Wilson’s contract earnings, bonuses and endorsements with Sankey diagrams.",Clear money story around a prominent athlete.,gpt-5-mini,2026-11-08T23:07:02Z
+cisco earnings date,75,company,Cisco,"Preview Cisco earnings: revenue mix, margins and what to watch numerically.",Earnings-event prep fits analytical channel format.,gpt-5-mini,2026-11-08T23:07:02Z
+how to make sushi,0,not_a_fit,,,"Cooking tutorial, unrelated to finance or companies.",gpt-5-mini,2026-11-08T23:07:02Z
+nvidia earnings report,90,company,Nvidia,"Dissect Nvidia’s earnings: revenue by segment, margins, guidance and cash flow visualized.",High-impact company earnings story with numbers to explain.,gpt-5-mini,2026-11-08T23:07:02Z
+how many kids does philip rivers have,10,not_a_fit,Philip Rivers,,"Personal life question, not a financial topic.",gpt-5-mini,2026-11-08T23:07:02Z
+geno smith career earnings,75,personal_finance,Geno Smith,Break down Geno Smith’s NFL earnings and contract timeline with Sankeys.,Fits channel's athlete earnings niche.,gpt-5-mini,2026-11-08T23:07:02Z
+jason witten career earnings,70,personal_finance,Jason Witten,"Visualize Jason Witten's career earnings, TV deals and endorsements.",Career-earnings subject fits channel style.,gpt-5-mini,2026-11-08T23:07:02Z
+carson wentz career earnings,75,personal_finance,Carson Wentz,"Show Carson Wentz’s contract payouts, guarantees and endorsements visually.",Athlete earnings analysis aligns with channel content.,gpt-5-mini,2026-11-08T23:07:02Z
+allen lazard career earnings,70,personal_finance,Allen Lazard,Break down Allen Lazard’s career earnings and contract history with Sankey diagrams.,Smaller-profile athlete but still fits earnings format.,gpt-5-mini,2026-11-08T23:07:02Z
+philip rivers career earnings,75,personal_finance,Philip Rivers,"Visualize Philip Rivers’ career earnings, contracts and post-career deals.",Career-earnings topic suitable for channel.,gpt-5-mini,2026-11-08T23:07:02Z
+take two earnings call,80,company,Take-Two Interactive,"Summarize Take-Two’s earnings: revenue mix, live services, and recurring sales breakdown.",Earnings call has clear revenue and profit story.,gpt-5-mini,2026-11-08T23:07:02Z
+l3harris layoffs,80,company,L3Harris,"Explain L3Harris layoffs: cost savings, segment impacts and financial implications.",Layoffs are a corporate finance story affecting costs and margins.,gpt-5-mini,2026-11-08T23:07:02Z
+pepsi layoffs,80,company,PepsiCo,Analyze PepsiCo layoffs: where savings come from and potential margin impact.,Company restructuring has direct financial implications.,gpt-5-mini,2026-11-08T23:07:02Z
+best laptop for work,5,not_a_fit,,,"Product recommendation, not a corporate/financial story.",gpt-5-mini,2026-11-08T23:07:02Z
+netflix layoffs 2026,85,company,Netflix,"Analyze Netflix’s 2026 layoffs: cost cuts, content spend and subscriber revenue trade-offs.",High-profile company restructuring with clear financial impacts.,gpt-5-mini,2026-11-08T23:07:02Z
+vz layoffs,75,company,Verizon (VZ),"Explain Verizon layoffs: expected savings, segment impacts, and capital expenditure implications.",Carrier layoffs affect costs and capital allocation.,gpt-5-mini,2026-11-08T23:07:02Z
+goldman sachs layoffs,80,company,Goldman Sachs,"Break down Goldman Sachs layoffs: revenue pressures, compensation trends, and profit implications.",Bank restructuring ties directly to financial performance.,gpt-5-mini,2026-11-08T23:07:02Z
+salesforce layoffs,80,company,Salesforce,"Analyze Salesforce layoffs: margins, subscription revenue impact and cost structure changes.",Layoffs reflect financial strategy and margin management.,gpt-5-mini,2026-11-08T23:07:02Z
+lumen layoffs,75,company,Lumen Technologies,Explain Lumen layoffs: network investments versus headcount cuts and near-term savings.,Telecom restructuring has capital and operating implications.,gpt-5-mini,2026-11-08T23:07:02Z
+hcsc layoffs,75,company,Health Care Service Corporation (HCSC),"Analyze HCSC layoffs: administrative costs, claims expenses, and insurer margins.",Insurer workforce changes tie to cost structure and profitability.,gpt-5-mini,2026-11-08T23:07:02Z
+paramount layoffs,80,company,Paramount,"Break down Paramount layoffs: streaming economics, content spend cuts, and cash flow effects.",Media layoffs connect to content spending and profitability.,gpt-5-mini,2026-11-08T23:07:02Z
