@@ -676,3 +676,60 @@ layoffs qualcomm,78,company,Qualcomm,Visualize Qualcomm's restructuring: R&D ver
 how many casinos did trump bankrupt,60,company,Trump's casino businesses,Count Trump's casino bankruptcies and explain bankruptcy mechanics in those restructurings.,Historical company bankruptcies illuminate restructuring mechanics and creditor outcomes.,gpt-5-mini,2026-11-09T23:41:32Z
 what does bankrupt mean,85,personal_finance,,"Explain bankruptcy types, effects on creditors and owners, with money-flow diagrams.",Core financial concept; visual explanation fits channel format.,gpt-5-mini,2026-11-09T23:41:32Z
 bankruptcy,80,economy,,Overview corporate and personal bankruptcy processes using Sankey diagrams of debts and recoveries.,Broad finance topic well-suited to visual money-flow explanations.,gpt-5-mini,2026-11-09T23:41:32Z
+why is mississippi taking so long,10,not_a_fit,,,Ambiguous question; no clear finance or budget angle.,gpt-5-mini,2026-11-10T21:04:04Z
+why did kirk cousins leave the vikings,10,not_a_fit,,,Sports roster news without a company/financial story.,gpt-5-mini,2026-11-10T21:04:04Z
+onds stock,70,company,ONDS (ticker),"Quick company profile: revenue mix, profitability and market-cap context for ONDS.",Stock interest implies a company financial story.,gpt-5-mini,2026-11-10T21:04:04Z
+kirk cousins total earnings,15,not_a_fit,,,Sports personal-earnings story; channel avoids sports topics.,gpt-5-mini,2026-11-10T21:04:04Z
+nvidia q3 earnings,95,company,NVIDIA,"Break down Nvidia Q3 revenues, AI segment contribution, costs and margin Sankey.","Clear, major corporate earnings story.",gpt-5-mini,2026-11-10T21:04:04Z
+kirk cousins total nfl earnings,15,not_a_fit,,,Athlete earnings are sports-focused and not a channel fit.,gpt-5-mini,2026-11-10T21:04:04Z
+aaron rodgers career earnings,15,not_a_fit,,,Sports personal-earnings topic; outside channel scope.,gpt-5-mini,2026-11-10T21:04:04Z
+nasdaq earnings calendar,75,markets,Nasdaq,Highlight the biggest Nasdaq-listed companies reporting this week and likely revenue impacts.,Earnings calendar drives market and valuation stories.,gpt-5-mini,2026-11-10T21:04:04Z
+coreweave earnings expectations,82,company,CoreWeave/CRWV,"Explain CoreWeave's revenue drivers, GPU-cloud demand and how earnings could change valuation.",Company earnings tie to GPU-cloud industry economics.,gpt-5-mini,2026-11-10T21:04:04Z
+crwv earnings date,85,company,CRWV (CoreWeave),"When CRWV reports and what to watch: revenue, margins, and growth metrics.",Earnings timing matters for investor and valuation narratives.,gpt-5-mini,2026-11-10T21:04:04Z
+kyler murray career earnings,15,not_a_fit,,,Sports earnings topic; not aligned with channel focus.,gpt-5-mini,2026-11-10T21:04:04Z
+kirk cousins lifetime earnings,15,not_a_fit,,,"Personal sports earnings, not a suitable channel topic.",gpt-5-mini,2026-11-10T21:04:04Z
+coreweave earnings time,80,company,CoreWeave/CRWV,Confirm CoreWeave's earnings time and explain expected revenue/cost signals.,Direct company earnings query with clear financial angle.,gpt-5-mini,2026-11-10T21:04:04Z
+kirk cousins nfl earnings,15,not_a_fit,,,Sports-focused money topic; channel avoids sports stories.,gpt-5-mini,2026-11-10T21:04:04Z
+kirk cousins earnings,15,not_a_fit,,,Personal athlete earnings; outside channel coverage.,gpt-5-mini,2026-11-10T21:04:04Z
+ibm news layoffs,90,company,IBM,"Analyze IBM layoffs: cost savings, restructuring charges, and effects on margins.",Layoffs have direct company financial consequences.,gpt-5-mini,2026-11-10T21:04:04Z
+omh stock,65,company,OMH (ticker),"Profile OMH's business model, revenue trends and valuation context for investors.",Stock searches signal interest in company financials.,gpt-5-mini,2026-11-10T21:04:04Z
+social security maximum taxable earnings 2026,92,government_finance,U.S. Social Security,Explain the 2026 maximum taxable earnings change and its payroll-tax revenue effects.,Direct government finance policy with budget implications.,gpt-5-mini,2026-11-10T21:04:04Z
+avgo earnings date,90,company,Broadcom (AVGO),Preview Broadcom's earnings date and key revenue drivers across chips and software.,Major corporate earnings date matters for markets and finance analysis.,gpt-5-mini,2026-11-10T21:04:04Z
+nvidia earnings expectations,94,company,NVIDIA,"Survey expectations for Nvidia earnings: revenue mix, AI demand, and margin outlook.",Clear company earnings/market story.,gpt-5-mini,2026-11-10T21:04:04Z
+usa rare earth q3 2026 earnings,75,company,USA Rare Earth,"Assess USA Rare Earth's Q3 2026 outlook: production costs, rare-earth prices and margins.",Mining earnings reveal commodity economics and cash flow.,gpt-5-mini,2026-11-10T21:04:04Z
+coreweave earnings call,83,company,CoreWeave/CRWV,"Summarize CoreWeave's earnings call: growth metrics, GPU utilization and guidance implications.",Calls reveal operational metrics and financial guidance.,gpt-5-mini,2026-11-10T21:04:04Z
+nvidia stock earnings date,92,company,NVIDIA,When Nvidia reports and how results might shift valuation and segment revenue shares.,Timing matters for a market-moving company.,gpt-5-mini,2026-11-10T21:04:04Z
+ibm layoffs reddit,78,company,IBM,Separate Reddit chatter from confirmed IBM layoff impacts and estimate financial effects.,Social posts spark financial-impact analysis of layoffs.,gpt-5-mini,2026-11-10T21:04:04Z
+uber freight layoffs,76,company,Uber Freight / Uber,"Analyze Uber Freight cuts, unit economics and implications for Uber's consolidated results.",Division layoffs affect segment profitability and parent margins.,gpt-5-mini,2026-11-10T21:04:04Z
+layoffs fyi,60,economy,,Aggregate recent tech/company layoffs and quantify payroll savings and sector effects.,Macro layoffs change costs and employment trends relevant to finances.,gpt-5-mini,2026-11-10T21:04:04Z
+msft layoffs,88,company,Microsoft,"Break down Microsoft's layoffs: expected savings, restructuring charges, and cloud revenue implications.",Major corporate restructuring impacts finances and strategy.,gpt-5-mini,2026-11-10T21:04:04Z
+salesforce layoffs today,82,company,Salesforce,"Evaluate Salesforce layoffs' effect on sales capacity, subscription revenue and margins.",Layoffs alter operating expenses and growth trajectory.,gpt-5-mini,2026-11-10T21:04:04Z
+astra zeneca layoffs,72,company,AstraZeneca,Estimate AstraZeneca layoffs' impact on R&D spend and drug-profitability timelines.,Pharma layoffs affect R&D budgets and future revenues.,gpt-5-mini,2026-11-10T21:04:04Z
+quantum metric layoffs,72,company,Quantum Metric,Explain Quantum Metric layoffs and what they imply for SaaS unit economics.,SaaS layoffs relate directly to growth and margin dynamics.,gpt-5-mini,2026-11-10T21:04:04Z
+salesloft layoffs,70,company,Salesloft,Assess Salesloft cuts and the implications for recurring revenue and sales efficiency.,SaaS company layoffs affect recurring revenue economics.,gpt-5-mini,2026-11-10T21:04:04Z
+bankrupt in spanish,5,not_a_fit,,,Language translation query without a finance-story focus.,gpt-5-mini,2026-11-10T21:04:04Z
+why is kyler murray not playing,10,not_a_fit,,,Sports injury/availability question; not relevant to channel themes.,gpt-5-mini,2026-11-10T21:04:04Z
+why isn't kyler murray playing today,10,not_a_fit,,,"Immediate sports game question, no company/government finance angle.",gpt-5-mini,2026-11-10T21:04:04Z
+why is carson wentz starting,10,not_a_fit,,,Sports lineup topic without financial relevance.,gpt-5-mini,2026-11-10T21:04:04Z
+why was james gunn fired,10,not_a_fit,,,Entertainment personnel news; not focused on finance or budgets.,gpt-5-mini,2026-11-10T21:04:04Z
+why do we celebrate veterans day,8,not_a_fit,,,"Historical/holiday question, not a financial budget story.",gpt-5-mini,2026-11-10T21:04:04Z
+anthropic stock,78,company,Anthropic,"Explain Anthropic's revenue model, potential monetization and valuation if public.",Rising AI company stock interest has clear finance/valuation angle.,gpt-5-mini,2026-11-10T21:04:04Z
+anthropic ipo,86,company,Anthropic,"What an Anthropic IPO would mean: valuation, revenue prospects and investor expectations.",IPO topic directly ties to company valuation and revenue forecasts.,gpt-5-mini,2026-11-10T21:04:04Z
+take two stock,80,company,Take-Two Interactive,"Break down Take-Two's revenue streams (games, live services) and valuation before results.",Gaming company revenues and recurring monetization affect valuation.,gpt-5-mini,2026-11-10T21:04:04Z
+adrian peterson career earnings,15,not_a_fit,,,"Athlete earnings are sports-focused, outside channel scope.",gpt-5-mini,2026-11-10T21:04:04Z
+josh johnson nfl career earnings,15,not_a_fit,,,Personal sports earnings; not aligned with channel topics.,gpt-5-mini,2026-11-10T21:04:04Z
+josh johnson career earnings,15,not_a_fit,,,Sports earnings topic; channel avoids sports stories.,gpt-5-mini,2026-11-10T21:04:04Z
+ast spacemobile q3 2026 earnings,78,company,AST SpaceMobile (AST),"Preview AST SpaceMobile Q3: launch costs, revenue prospects and cash-burn timeline.",Aerospace earnings reveal capital-intensive economics and cash flow.,gpt-5-mini,2026-11-10T21:04:04Z
+qbts earnings,65,company,QBTS (ticker),Quickly explain QBTS business and what to watch in upcoming earnings.,Earnings search indicates investor interest in company financials.,gpt-5-mini,2026-11-10T21:04:04Z
+justin gaethje career earnings,15,not_a_fit,,,"Fighter's earnings are a sports/personnel topic, not a fit.",gpt-5-mini,2026-11-10T21:04:04Z
+nexteer layoffs,76,company,Nexteer Automotive,Analyze Nexteer layoffs and implications for auto-supplier margins during EV transition.,Supplier layoffs affect industry margins and capital needs.,gpt-5-mini,2026-11-10T21:04:04Z
+ibm layoffs today,90,company,IBM,"Detail IBM's reported layoffs today, expected savings and effects on earnings.",Immediate layoff news has direct financial consequences.,gpt-5-mini,2026-11-10T21:04:04Z
+coursera layoffs,75,company,Coursera,"Examine Coursera layoffs' impact on content costs, customer acquisition and margins.",Edtech cuts affect growth and unit economics.,gpt-5-mini,2026-11-10T21:04:04Z
+ibm,80,company,IBM,"Overview of IBM's finances: revenue mix, margins, and restructuring implications.",Major company with ongoing financial/story developments.,gpt-5-mini,2026-11-10T21:04:04Z
+ibm layoffs 2026,85,company,IBM,Contextualize IBM's 2026 layoffs and quantify their expected financial impact.,Year-specific layoff queries invite financial analysis.,gpt-5-mini,2026-11-10T21:04:04Z
+frito lay layoffs,70,company,Frito-Lay (PepsiCo),Assess Frito-Lay layoffs and consequences for PepsiCo's snack margins and costs.,Division-level layoffs alter parent company cost structure.,gpt-5-mini,2026-11-10T21:04:04Z
+disney layoffs today,83,company,Disney,Break down Disney layoffs: near-term cost savings versus long-term content and revenue effects.,Major media layoffs reshape expenses and revenue potential.,gpt-5-mini,2026-11-10T21:04:04Z
+pennymac layoffs,72,company,PennyMac,Analyze PennyMac layoffs and what they mean for mortgage servicing profitability.,Mortgage-sector layoffs affect servicing margins and costs.,gpt-5-mini,2026-11-10T21:04:04Z
+pepsico layoffs today,82,company,PepsiCo,"Examine PepsiCo layoffs' effect across beverages and snacks, and margin implications.",Large consumer company layoffs change operating expenses.,gpt-5-mini,2026-11-10T21:04:04Z
+qualcomm layoffs today,82,company,Qualcomm,Discuss Qualcomm layoffs and potential impacts on R&D and future chip revenues.,Chipmaker cuts influence long-term competitiveness and costs.,gpt-5-mini,2026-11-10T21:04:04Z
+boeing,82,company,Boeing,"Update on Boeing's finances: delivery rates, production costs and cash flow position.",Aerospace company with significant finance and cash-flow stories.,gpt-5-mini,2026-11-10T21:04:04Z
