@@ -44,3 +44,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-10T20:50:52Z,2026-11-10 20:50,social security maximum taxable earnings 2026,92,400
 2026-11-10T20:50:52Z,2026-11-10 20:50,ibm layoffs today,90,5000
 2026-11-10T20:50:52Z,2026-11-10 20:50,ibm news layoffs,90,5000
+2026-11-11T21:27:20Z,2026-11-11 21:27,earnings today after hours,90,5000
+2026-11-11T21:27:20Z,2026-11-11 21:27,who has earnings today,90,5000
+2026-11-11T21:27:20Z,2026-11-11 21:27,who reports earnings today,90,5000
+2026-11-11T21:27:20Z,2026-11-11 21:27,earnings today after the bell,90,500
+2026-11-11T21:27:20Z,2026-11-11 21:27,microsoft layoffs 2026,90,450
