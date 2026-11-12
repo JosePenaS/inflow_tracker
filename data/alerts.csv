@@ -49,3 +49,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-11T21:27:20Z,2026-11-11 21:27,who reports earnings today,90,5000
 2026-11-11T21:27:20Z,2026-11-11 21:27,earnings today after the bell,90,500
 2026-11-11T21:27:20Z,2026-11-11 21:27,microsoft layoffs 2026,90,450
+2026-11-12T21:29:15Z,2026-11-12 21:29,microsoft stock,95,1050
+2026-11-12T21:29:15Z,2026-11-12 21:29,what happens when a country goes bankrupt,92,5000
+2026-11-12T21:29:15Z,2026-11-12 21:29,cisco earnings,92,300
+2026-11-12T21:29:15Z,2026-11-12 21:29,amat earnings call,90,5000
+2026-11-12T21:29:15Z,2026-11-12 21:29,amat earnings report,90,5000
