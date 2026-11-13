@@ -54,3 +54,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-12T21:29:15Z,2026-11-12 21:29,cisco earnings,92,300
 2026-11-12T21:29:15Z,2026-11-12 21:29,amat earnings call,90,5000
 2026-11-12T21:29:15Z,2026-11-12 21:29,amat earnings report,90,5000
+2026-11-13T20:54:48Z,2026-11-13 20:54,when does nvda report earnings,90,5000
+2026-11-13T20:54:48Z,2026-11-13 20:54,when is nvidia next earnings report,90,300
+2026-11-13T20:54:48Z,2026-11-13 20:54,panw earnings date,85,5000
+2026-11-13T20:54:48Z,2026-11-13 20:54,why did microsoft go down,85,1550
+2026-11-13T20:54:48Z,2026-11-13 20:54,why did microsoft go down today,85,1500
