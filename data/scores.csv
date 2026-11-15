@@ -1052,3 +1052,56 @@ cps layoffs,66,government_finance,CPS (likely Chicago Public Schools),Explain bu
 exxonmobil layoffs,82,company,ExxonMobil,"Illustrate ExxonMobil's cost cuts, downstream/upstream impacts and capital allocation shifts.",Major energy company layoffs have clear corporate finance implications.,gpt-5-mini,2026-11-14T23:10:45Z
 cognizant layoffs,78,company,Cognizant,"Show Cognizant's revenue pressures, restructuring costs and margin-saving targets.",IT services layoffs relate to company finances and client demand.,gpt-5-mini,2026-11-14T23:10:45Z
 did wendys go bankrupt,74,company,Wendy's,"Debunk bankruptcy rumor and recap Wendy's balance sheet, store economics and cash flow.",Rumor-check with company financials fits channel's explanatory style.,gpt-5-mini,2026-11-14T23:10:45Z
+why was chris harrison fired from the bachelor,10,not_a_fit,,,Celebrity gossip with no clear company or finance angle.,gpt-5-mini,2026-11-15T19:59:25Z
+why did chris harrison get fired from the bachelor,10,not_a_fit,,,Entertainment/celebrity story lacking a money or financial structure.,gpt-5-mini,2026-11-15T19:59:25Z
+why did hokit flip off bruce buffer,5,not_a_fit,,,"Isolated incident/sports drama, no financial story.",gpt-5-mini,2026-11-15T19:59:25Z
+why did chris harrison leave the bachelor,12,not_a_fit,,,"Personnel/PR story, limited company/financial relevance.",gpt-5-mini,2026-11-15T19:59:25Z
+latest news,5,not_a_fit,,,Too broad to pin to a company/finance-focused story.,gpt-5-mini,2026-11-15T19:59:25Z
+travel destinations,5,not_a_fit,,,Lifestyle topic without a clear money/company angle.,gpt-5-mini,2026-11-15T19:59:25Z
+healthy recipes,5,not_a_fit,,,"Food/health topic, not aligned with channel finance focus.",gpt-5-mini,2026-11-15T19:59:25Z
+weather today,3,not_a_fit,,,Immediate weather info unrelated to finance or budgets.,gpt-5-mini,2026-11-15T19:59:25Z
+gardening ideas,4,not_a_fit,,,Hobby content with no clear company or money story.,gpt-5-mini,2026-11-15T19:59:25Z
+coffee shops nearby,4,not_a_fit,,,"Local listings search, not a finance/company explainable topic.",gpt-5-mini,2026-11-15T19:59:25Z
+growth stock,65,markets,,Explain what investors mean by 'growth stock' and sector revenue drivers.,General markets concept; needs contextual company examples.,gpt-5-mini,2026-11-15T19:59:25Z
+summit therapeutics stock,80,company,Summit Therapeutics,"Break down Summit Therapeutics' finances, cash runway and pipeline risk.",Biotech cash burn and binary outcomes make a clear money story.,gpt-5-mini,2026-11-15T19:59:25Z
+micron stock price,85,markets,Micron Technology,Explain Micron's revenue mix and DRAM/NAND cycle impact on stock moves.,Memory industry cyclicality directly impacts company financials and stock.,gpt-5-mini,2026-11-15T19:59:25Z
+learn programming,5,not_a_fit,,,Educational topic outside finance/company explanation scope.,gpt-5-mini,2026-11-15T19:59:25Z
+laquon treadwell career earnings,60,personal_finance,Laquon Treadwell,Estimate Treadwell's NFL career earnings and compare to receiver averages.,Player earnings fit channel's numbers-and-ranking style.,gpt-5-mini,2026-11-15T19:59:25Z
+brandon jennings career earnings,60,personal_finance,Brandon Jennings,Calculate Jennings' NBA career earnings and endorsement estimates.,Basketball earnings provide a quantifiable money story.,gpt-5-mini,2026-11-15T19:59:25Z
+why did kirk cousins leave the raiders,80,personal_finance,Kirk Cousins,"Explain the contract, cap implications and team reasons behind the move.",NFL trades driven by contracts and salary-cap considerations.,gpt-5-mini,2026-11-15T19:59:25Z
+why was kirk cousins traded,80,personal_finance,Kirk Cousins,"Break down the trade terms, guaranteed money and cap effects for teams.",Trade likely motivated by financial and cap management factors.,gpt-5-mini,2026-11-15T19:59:25Z
+why did raiders trade kirk cousins,80,personal_finance,Kirk Cousins,Analyze the Raiders' payroll strategy and savings from the Cousins trade.,Team roster moves usually have measurable budget impacts.,gpt-5-mini,2026-11-15T19:59:25Z
+wall street long term stock picks,70,markets,,Discuss long-term sector trends and metrics investors use instead of picks.,Markets-focused; needs positioning rather than single-company stories.,gpt-5-mini,2026-11-15T19:59:25Z
+skydance stock,60,company,Skydance,Outline Skydance's business model and potential IPO/valuation considerations.,"Media studio finances could be explained, but public status unclear.",gpt-5-mini,2026-11-15T19:59:25Z
+stephen thompson career earnings,55,personal_finance,Stephen Thompson,"Estimate Thompson's MMA purses, bonuses and sponsorship earnings.",Fight purses and PPV shares create quantifiable earnings narratives.,gpt-5-mini,2026-11-15T19:59:25Z
+kirk.cousins career earnings,75,personal_finance,Kirk Cousins,"Calculate Kirk Cousins' career NFL earnings, guarantees and bonuses.","High-profile QB contracts yield clear, sizeable financial figures.",gpt-5-mini,2026-11-15T19:59:25Z
+patrick mahomes career earnings,85,personal_finance,Patrick Mahomes,"Break down Mahomes' NFL salary, bonuses and endorsement income to date.",Mega-contracts and endorsements make a compelling money story.,gpt-5-mini,2026-11-15T19:59:25Z
+nfl career earnings leaders,90,personal_finance,NFL,"Rank NFL career earnings leaders including contracts, bonuses and endorsements.",Perfect ranking format for channel with clear numerical analysis.,gpt-5-mini,2026-11-15T19:59:25Z
+kirk cousins career nfl earnings,75,personal_finance,Kirk Cousins,"Show Cousins' yearly contracts, guarantees and total career pay.",Directly quantifiable player-contract breakdown.,gpt-5-mini,2026-11-15T19:59:25Z
+highest career earnings nfl,90,personal_finance,NFL,"Top-10 NFL career earners: contracts, signing bonuses and endorsement totals.",Great fit for ranking and Sankey-style money flows.,gpt-5-mini,2026-11-15T19:59:25Z
+target layoffs,85,company,Target,"Quantify Target's layoffs, expected cost savings and quarterly profit impact.",Layoffs are a clear company financial story with measurable effects.,gpt-5-mini,2026-11-15T19:59:25Z
+irobot bankrupt,70,company,iRobot,Assess iRobot's balance sheet and whether bankruptcy risk is realistic.,"Company solvency is a direct finance topic, even if speculative.",gpt-5-mini,2026-11-15T19:59:25Z
+why is drake maye not playing,15,not_a_fit,Drake Maye,,Likely injury/tactical sports news not centered on finances.,gpt-5-mini,2026-11-15T19:59:25Z
+why isn't drake maye playing,15,not_a_fit,Drake Maye,,Sports availability question without an inherent money angle.,gpt-5-mini,2026-11-15T19:59:25Z
+why is drake maye not playing today,15,not_a_fit,Drake Maye,,"Short-term sports news, not a finance/company topic.",gpt-5-mini,2026-11-15T19:59:25Z
+why are the lions playing in germany,60,industry,NFL / Detroit Lions,"Explain NFL's international expansion, revenue motives and Germany market economics.",League monetization and market expansion provide finance context.,gpt-5-mini,2026-11-15T19:59:25Z
+why is ole miss playing on sunday,20,not_a_fit,Ole Miss,,"Scheduling/college sports nuance, limited finance relevance.",gpt-5-mini,2026-11-15T19:59:25Z
+take two interactive stock,80,company,Take-Two Interactive,"Break down Take-Two's revenue split: games, live services and margins.",Major games publisher with explicit revenue streams and stock relevance.,gpt-5-mini,2026-11-15T19:59:25Z
+jj redick career earnings,60,personal_finance,JJ Redick,Estimate Redick's NBA career earnings and post-playing income sources.,Player earnings and media career produce quantifiable numbers.,gpt-5-mini,2026-11-15T19:59:25Z
+jj reddick career earnings,60,personal_finance,JJ Redick,Estimate Redick's NBA career earnings and post-playing income sources.,Alternate spelling of same query; finance-relevant.,gpt-5-mini,2026-11-15T19:59:25Z
+tommy devito career earnings,50,personal_finance,Tommy DeVito,Approximate DeVito's NFL earnings and compare to journeyman QB norms.,Smaller-scale player earnings still allow numeric breakdowns.,gpt-5-mini,2026-11-15T19:59:25Z
+arch manning nil earnings,85,personal_finance,Arch Manning,Estimate Arch Manning's NIL deals and explain the college-athlete earnings market.,"NIL is a big, timely money story with clear numbers to explain.",gpt-5-mini,2026-11-15T19:59:25Z
+jim miller career earnings,55,personal_finance,Jim Miller,"Estimate Miller's MMA purses, longevity pay and sponsorship income.",Veteran fighter earnings offer an instructive financial breakdown.,gpt-5-mini,2026-11-15T19:59:25Z
+joshua dobbs career earnings,55,personal_finance,Joshua Dobbs,Calculate Dobbs' NFL earnings and compare to backup QB market rates.,Backup QB contracts are a quantifiable player-pay story.,gpt-5-mini,2026-11-15T19:59:25Z
+julian edelman career earnings,60,personal_finance,Julian Edelman,Break down Edelman's Patriots contracts and endorsement income totals.,Notable player's contracts and endorsements create a clear money story.,gpt-5-mini,2026-11-15T19:59:25Z
+arch manning earnings,85,personal_finance,Arch Manning,Estimate Arch Manning's NIL and potential long-term earnings trajectory.,College QB earnings via NIL are timely and finance-relevant.,gpt-5-mini,2026-11-15T19:59:25Z
+amanda nunes career earnings,60,personal_finance,Amanda Nunes,"Estimate Nunes' fight purses, PPV shares and sponsorship earnings.",Top fighter with measurable income streams.,gpt-5-mini,2026-11-15T19:59:25Z
+josh hokit nfl earnings,30,personal_finance,Josh Hokit,"If data exists, estimate his NFL earnings and compare to peers.",Unclear player recognition; limited available financial data likely.,gpt-5-mini,2026-11-15T19:59:25Z
+jpmorgan layoffs,85,company,JPMorgan Chase,"Quantify the layoffs' cost savings, severance hit and profit implications.",Major bank layoffs are a clear corporate finance story.,gpt-5-mini,2026-11-15T19:59:25Z
+jp morgan layoffs,85,company,JPMorgan Chase,"Quantify the layoffs' cost savings, severance hit and profit implications.",Alternate spelling of same corporate finance topic.,gpt-5-mini,2026-11-15T19:59:25Z
+jpmc layoffs,85,company,JPMorgan Chase,"Quantify the layoffs' cost savings, severance hit and profit implications.",Abbreviated company ticker query for the same story.,gpt-5-mini,2026-11-15T19:59:25Z
+sherwin williams layoffs,80,company,Sherwin-Williams,"Explain who was cut, expected savings and effect on margins and operations.",Corporate layoffs have measurable financial consequences.,gpt-5-mini,2026-11-15T19:59:25Z
+pwc layoffs,80,industry,PwC,Assess PwC's cuts and implications for Big Four revenue and utilization rates.,Professional services restructuring affects industry metrics and margins.,gpt-5-mini,2026-11-15T19:59:25Z
+verizon layoffs 2026,85,company,Verizon,"Explain Verizon's layoffs, severance costs and the impact on capex plans.",Telecom layoffs change operating costs and investment priorities.,gpt-5-mini,2026-11-15T19:59:25Z
+athena health,70,company,athenahealth,"What athenahealth does, revenue model and valuation or acquisition prospects.",Healthcare IT firm's business and finances are explainable and timely.,gpt-5-mini,2026-11-15T19:59:25Z
+fidelity layoffs,80,company,Fidelity Investments,Quantify Fidelity layoffs and implications for product costs and AUM growth.,Major asset manager workforce moves affect expenses and strategy.,gpt-5-mini,2026-11-15T19:59:25Z
