@@ -79,3 +79,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-15T23:58:29Z,2026-11-15 23:58,att layoffs,89,5000
 2026-11-15T23:58:29Z,2026-11-15 23:58,jp morgan chase layoffs,85,5000
 2026-11-15T23:58:29Z,2026-11-15 23:58,pepsico layoffs,85,5000
+2026-11-16T23:24:02Z,2026-11-16 23:24,when is the nvidia earnings call,95,400
+2026-11-16T23:24:02Z,2026-11-16 23:24,when are nvidia earnings,94,400
+2026-11-16T23:24:02Z,2026-11-16 23:24,when nvidia earnings,94,300
+2026-11-16T23:24:02Z,2026-11-16 23:24,nvda stock earnings,93,300
+2026-11-16T23:24:02Z,2026-11-16 23:24,nvda stock earnings date,92,300
