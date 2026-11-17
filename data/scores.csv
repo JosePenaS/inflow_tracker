@@ -1217,3 +1217,72 @@ aetna layoffs,82,company,Aetna (CVS Health),"Aetna layoffs: how insurer cost red
 pnc layoffs,85,company,PNC Financial Services,"PNC layoffs: bank cost-cutting, efficiency ratios, and impact on branch operations and profits.",Major bank layoffs affect financials and sector dynamics.,gpt-5-mini,2026-11-16T23:37:33Z
 mongodb layoffs,84,company,MongoDB,MongoDB layoffs: SaaS revenue growth vs. cost structure and path to sustainable profits.,Public tech company layoffs tie to profitability and investor expectations.,gpt-5-mini,2026-11-16T23:37:33Z
 applebees bankrupt,62,company,Applebee's (Dine Brands / franchisees),"Assess 'Applebee's bankrupt' claims: franchise model, who bears losses, supplier impacts and finances.",Potentially finance-relevant rumor; explain franchise economics and consequences.,gpt-5-mini,2026-11-16T23:37:33Z
+nvidia after hours stock price,75,markets,Nvidia,After-hours NVDA move explained: which revenue streams and news drive the price swing.,Market reaction tied to company financials and news.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda stock after hours,75,markets,Nvidia,After-hours NVDA move explained: which revenue streams and news drive the price swing.,Market reaction tied to company financials and news.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda after hours stock price,75,markets,Nvidia,After-hours NVDA move explained: which revenue streams and news drive the price swing.,Market reaction tied to company financials and news.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda earnings call live,80,company,Nvidia,Live/real-time breakdown of NVDA earnings call numbers into Sankey diagrams.,"Earnings calls reveal revenue, margins, and guidance — core channel material.",gpt-5-mini,2026-11-17T22:37:23Z
+apple stock,80,company,Apple,"What's moving Apple's stock now: product mix, services, and margin dynamics explained.",Large-company revenue and profit drivers are central channel topics.,gpt-5-mini,2026-11-17T22:37:23Z
+nvidia earnings call link,60,company,Nvidia,Where to find NVDA's call plus quick guide to the numbers to watch.,Viewer utility plus numbers-focused context works for the channel.,gpt-5-mini,2026-11-17T22:37:23Z
+nvidia earnings call live,80,company,Nvidia,Live/real-time breakdown of NVDA earnings call numbers into Sankey diagrams.,"Earnings calls reveal revenue, margins, and guidance — core channel material.",gpt-5-mini,2026-11-17T22:37:23Z
+nvida earnings call,70,company,Nvidia,NVDA earnings call explained: convert guidance and segment results into cash flows.,Misspelling but clearly an earnings/financial story.,gpt-5-mini,2026-11-17T22:37:23Z
+pg&e layoffs,70,company,PG&E,"PG&E layoffs explained: cost-cutting, liabilities, and impacts on future earnings.","Layoffs affect company costs, liabilities, and investor economics.",gpt-5-mini,2026-11-17T22:37:23Z
+why didn't the alert go off today,10,not_a_fit,,,"Not about money, companies, or government budgets.",gpt-5-mini,2026-11-17T22:37:23Z
+why didn't the alarm go off,10,not_a_fit,,,Not a finance/company topic.,gpt-5-mini,2026-11-17T22:37:23Z
+why didn't the national alarm go off on my phone,10,not_a_fit,,,"Technical/personal alert issue, not a finance story.",gpt-5-mini,2026-11-17T22:37:23Z
+why is there so many outages,20,not_a_fit,,,General outages lack clear money/company angle usually.,gpt-5-mini,2026-11-17T22:37:23Z
+why so many outages,20,not_a_fit,,,General outages lack clear money/company angle usually.,gpt-5-mini,2026-11-17T22:37:23Z
+why would i deceive you,0,not_a_fit,,,"Not relevant to company, markets, or government finance.",gpt-5-mini,2026-11-17T22:37:23Z
+why are so many outages happening,20,not_a_fit,,,"Typically a tech/service issue, not a money story.",gpt-5-mini,2026-11-17T22:37:23Z
+why is apple down,40,company,Apple,"If stock-related: show revenue/guidance drivers; if service outage, explain business implications.",Ambiguous intent — could be stock or services outage.,gpt-5-mini,2026-11-17T22:37:23Z
+why are there so many outages recently,20,not_a_fit,,,"Usually technical, not focused on company financials.",gpt-5-mini,2026-11-17T22:37:23Z
+why is everything down,10,not_a_fit,,,Too vague and not finance-centered.,gpt-5-mini,2026-11-17T22:37:23Z
+why is everyone talking about a blackout,20,not_a_fit,,,Usually social panic; only fit if tied to government/power finances.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda earnings live,80,company,Nvidia,"Live breakdown of NVDA earnings: revenue mix, margins, and guidance explained visually.",Earnings are perfect for revenue/cost breakdown videos.,gpt-5-mini,2026-11-17T22:37:23Z
+listen to nvda earnings call,60,company,Nvidia,How to listen plus the key numbers to track and what they mean financially.,Utility intent; add numbers-focused interpretation.,gpt-5-mini,2026-11-17T22:37:23Z
+did nvidia beat earnings,90,company,Nvidia,Did NVDA beat? Break down results vs. expectations and cash/profit drivers.,Direct earnings performance question — ideal for financial explainer.,gpt-5-mini,2026-11-17T22:37:23Z
+where to watch nvidia earnings call,60,company,Nvidia,Where to find the call and a quick guide to the financial metrics that matter.,Viewer utility with added finance context fits channel.,gpt-5-mini,2026-11-17T22:37:23Z
+nvidia earnings live,80,company,Nvidia,"Live breakdown of NVDA earnings: revenue mix, margins, and guidance explained visually.",Earnings are perfect for revenue/cost breakdown videos.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda earnings results,85,company,Nvidia,"NVDA earnings results explained visually: segment revenues, margins, and guidance impact.",Quarterly results provide direct finance breakdown opportunities.,gpt-5-mini,2026-11-17T22:37:23Z
+listen to nvidia earnings call,60,company,Nvidia,How to listen plus the key numbers to track and what they mean financially.,Utility intent; add numbers-focused interpretation.,gpt-5-mini,2026-11-17T22:37:23Z
+how to watch nvidia earnings call,60,company,Nvidia,How to watch plus the key numbers to track and what they mean financially.,Viewer utility; pair with an explainer of financial items.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda q3 earnings,85,company,Nvidia,"NVDA Q3 explained: data center vs. gaming revenue, margins, and guidance implications.",Quarter-specific results are directly about revenues and profits.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda earnings release time,60,company,Nvidia,When NVDA releases results and which headline numbers to watch for financial impact.,Timing queries suit a short utility-plus-explainer video.,gpt-5-mini,2026-11-17T22:37:23Z
+nvdia earnings call,70,company,Nvidia,NVDA earnings call explained: translate guidance and results into cashflow diagrams.,Misspelling but clearly relevant to company finances.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda earnings release,75,company,Nvidia,"NVDA earnings release explained visually: revenue, costs, and profit drivers.",Earnings release offers a direct financial breakdown opportunity.,gpt-5-mini,2026-11-17T22:37:23Z
+what time does nvda report earnings today,55,company,Nvidia,When NVDA reports and quick guide to the numbers that move the stock.,Timing question; can add a short numbers-focused explainer.,gpt-5-mini,2026-11-17T22:37:23Z
+what time does nvda report earnings,55,company,Nvidia,When NVDA reports and quick guide to the numbers that move the stock.,Timing question; can add a short numbers-focused explainer.,gpt-5-mini,2026-11-17T22:37:23Z
+what time does nvidia report earnings today,55,company,Nvidia,When NVDA reports and quick guide to the numbers that move the stock.,Timing question; can add a short numbers-focused explainer.,gpt-5-mini,2026-11-17T22:37:23Z
+aig layoffs,65,company,AIG,"AIG layoffs explained: cost structure, reserve trends, and profit implications.",Layoffs reflect company cost strategy and insurance reserve dynamics.,gpt-5-mini,2026-11-17T22:37:23Z
+fedex layoffs,70,company,FedEx,"FedEx layoffs explained: demand, pricing, and implications for shipping margins.",Operational cuts tie directly to revenue and margin dynamics.,gpt-5-mini,2026-11-17T22:37:23Z
+usaa layoffs,65,company,USAA,"USAA layoffs explained: cost savings, customer impacts, and balance-sheet effects.",Company-level layoffs have clear financial consequences to explain.,gpt-5-mini,2026-11-17T22:37:23Z
+why are people saying the world is ending,5,not_a_fit,,,"Not related to company, markets, or government finance.",gpt-5-mini,2026-11-17T22:37:23Z
+why is the world ending tomorrow,5,not_a_fit,,,Not a finance/topic for channel.,gpt-5-mini,2026-11-17T22:37:23Z
+why do people think the world is ending tomorrow,5,not_a_fit,,,Not a finance/topic for channel.,gpt-5-mini,2026-11-17T22:37:23Z
+why are people talking about a blackout,15,not_a_fit,,,Mostly social/news panic; only relevant if tied to utilities budgets.,gpt-5-mini,2026-11-17T22:37:23Z
+why is my apple pay not working,10,not_a_fit,Apple,,"Personal technical issue, not a financial explainer topic.",gpt-5-mini,2026-11-17T22:37:23Z
+why are the chargers so bad this year,5,not_a_fit,,,Sports performance — outside channel scope.,gpt-5-mini,2026-11-17T22:37:23Z
+dis stock,80,company,Disney,"What's moving DIS stock: streaming spending, parks recovery, and advertising revenue.",Major company's revenue and cost dynamics fit channel well.,gpt-5-mini,2026-11-17T22:37:23Z
+crm stock,75,company,Salesforce (CRM),"CRM stock drivers explained: subscription revenue, deal sizes, and margin trends.",Clear SaaS revenue and margin story to visualize.,gpt-5-mini,2026-11-17T22:37:23Z
+hd stock,75,company,Home Depot,"HD stock explained: home improvement demand, sales mix, and margin pressures.",Retail demand and margins create a clear finance narrative.,gpt-5-mini,2026-11-17T22:37:23Z
+nke stock,70,company,Nike,NKE stock drivers: wholesale vs. direct-to-consumer revenues and margin impacts.,Consumer goods revenue/margin story fits channel.,gpt-5-mini,2026-11-17T22:37:23Z
+home depot stock,75,company,Home Depot,"Home Depot's performance explained: sales, professional vs. DIY mix, and margins.",Retail revenue and margin shifts are explainable with numbers.,gpt-5-mini,2026-11-17T22:37:23Z
+servicenow q3 earnings drop,85,company,ServiceNow,"ServiceNow Q3 drop explained: subscription trends, bookings, and margin effects.",Earnings decline directly ties to revenue and profit breakdowns.,gpt-5-mini,2026-11-17T22:37:23Z
+nvidia stock earnings options volatility,85,markets,Nvidia,"How NVDA earnings drive stock and options volatility, with payoff and risk visuals.",Options and earnings link markets to company financial uncertainty.,gpt-5-mini,2026-11-17T22:37:23Z
+nvidia earnings report today time,55,company,Nvidia,When NVDA reports and which headline metrics will move the market.,Timing query with potential for brief financial explainer.,gpt-5-mini,2026-11-17T22:37:23Z
+did nvidia report earnings today,65,company,Nvidia,If reported: quick visual breakdown of the key revenue and profit numbers.,Post-report summary is directly in-channel content.,gpt-5-mini,2026-11-17T22:37:23Z
+what time is the nvidia earnings call,55,company,Nvidia,When NVDA's call is and the key numbers to watch during the call.,Timing utility plus finance-focused context.,gpt-5-mini,2026-11-17T22:37:23Z
+nvidia earnings call today,80,company,Nvidia,Live/real-time breakdown of NVDA earnings call numbers into Sankey diagrams.,"Earnings calls reveal revenue, margins, and guidance — core channel material.",gpt-5-mini,2026-11-17T22:37:23Z
+what time nvidia earnings today,55,company,Nvidia,When NVDA reports and which headline metrics will move the market.,Timing query with potential for brief financial explainer.,gpt-5-mini,2026-11-17T22:37:23Z
+what time is nvda earnings call,55,company,Nvidia,When NVDA's call is and the key numbers to watch during the call.,Timing utility plus finance-focused context.,gpt-5-mini,2026-11-17T22:37:23Z
+nvda earnings call time,55,company,Nvidia,When NVDA's call is and the key numbers to watch during the call.,Timing utility plus finance-focused context.,gpt-5-mini,2026-11-17T22:37:23Z
+has nvidia reported earnings yet,65,company,Nvidia,"If reported: quick visual summary of revenue, segment performance, and profit drivers.",Post-report summaries and explainers fit channel well.,gpt-5-mini,2026-11-17T22:37:23Z
+how to listen to nvidia earnings call,55,company,,,keyword match,keywords,2026-11-17T22:37:23Z
+firaxis layoffs,70,company,Firaxis,Break down Firaxis's revenue and development costs; show how payroll cuts affect studio margins with a Sankey.,Studio cost-cutting maps directly to revenue/cost story.,gpt-5-mini,2026-11-17T22:37:48Z
+teradata layoffs,75,company,Teradata,Explain Teradata's revenue mix and cloud transition costs; quantify how layoffs change profitability.,Strategy shift and earnings likely behind reductions.,gpt-5-mini,2026-11-17T22:37:48Z
+altice layoffs,75,company,Altice,"Show Altice's subscriber, advertising and network costs; illustrate savings from layoffs with a cost-flow diagram.",Cable operator cost structure directly relevant to layoffs.,gpt-5-mini,2026-11-17T22:37:48Z
+cisco layoffs today,90,company,Cisco,Use Cisco's product/service revenue breakdown and payroll to show where cuts reduce costs and affect segments.,"Large tech employer; clear, timely finance story.",gpt-5-mini,2026-11-17T22:37:48Z
+western digital layoffs,85,company,Western Digital,"Map HDD/SSD revenues, manufacturing costs and R&D; show how layoffs move margins and cash flow.",Storage demand and high fixed costs tie to layoffs.,gpt-5-mini,2026-11-17T22:37:48Z
+american express layoffs,85,company,American Express,Visualize AmEx's fee vs interest revenue and operating costs; quantify impact of headcount cuts on margins.,Major financial firm — layoffs affect expense ratios and profits.,gpt-5-mini,2026-11-17T22:37:48Z
+intel stock,80,markets,Intel,"Explain recent Intel stock move using revenue trends, capex (fabs) and margin evolution with simple diagrams.",Stock reflects clear company financial and capital-spend story.,gpt-5-mini,2026-11-17T22:37:48Z
+intel layoffs today,90,company,Intel,"Break down Intel's capex, divisional revenue and costs; show how layoffs fit into restructuring and cash savings.",Material restructuring with significant financial implications.,gpt-5-mini,2026-11-17T22:37:48Z
+wendys going bankrupt,70,company,Wendy's,"Assess Wendy's balance sheet, cash flow and debt to evaluate bankruptcy likelihood and implications for franchisees.",Rumor allows a numbers-based bankruptcy risk explainer.,gpt-5-mini,2026-11-17T22:37:48Z

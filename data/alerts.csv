@@ -84,3 +84,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-16T23:24:02Z,2026-11-16 23:24,when nvidia earnings,94,300
 2026-11-16T23:24:02Z,2026-11-16 23:24,nvda stock earnings,93,300
 2026-11-16T23:24:02Z,2026-11-16 23:24,nvda stock earnings date,92,300
+2026-11-17T22:25:39Z,2026-11-17 22:25,nvidia earnings,93,400
+2026-11-17T22:25:39Z,2026-11-17 22:25,did nvidia beat earnings,90,950
+2026-11-17T22:25:39Z,2026-11-17 22:25,cisco layoffs today,90,850
+2026-11-17T22:25:39Z,2026-11-17 22:25,nvidia earnings report today,90,550
+2026-11-17T22:25:39Z,2026-11-17 22:25,nvidia earnings call,90,300
