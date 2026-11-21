@@ -104,3 +104,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-20T21:52:52Z,2026-11-20 21:52,ebay layoffs,85,5000
 2026-11-20T21:52:52Z,2026-11-20 21:52,zscaler stock,85,1250
 2026-11-20T21:52:52Z,2026-11-20 21:52,why are stocks down?,85,650
+2026-11-21T20:32:24Z,2026-11-21 20:32,will nvidia stock go back up?,92,5000
+2026-11-21T20:32:24Z,2026-11-21 20:32,why did greece go bankrupt,88,5000
+2026-11-21T20:32:24Z,2026-11-21 20:32,morgan stanley layoffs,86,2000
+2026-11-21T20:32:24Z,2026-11-21 20:32,rockstar games layoffs,85,5000
+2026-11-21T20:32:24Z,2026-11-21 20:32,uhg layoffs,84,300
