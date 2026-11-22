@@ -109,3 +109,8 @@ alerted_at_utc,run_id,query,fit_score,max_growth
 2026-11-21T20:32:24Z,2026-11-21 20:32,morgan stanley layoffs,86,2000
 2026-11-21T20:32:24Z,2026-11-21 20:32,rockstar games layoffs,85,5000
 2026-11-21T20:32:24Z,2026-11-21 20:32,uhg layoffs,84,300
+2026-11-22T20:44:43Z,2026-11-22 20:44,nvidia stock dip investment analysis,90,3500
+2026-11-22T20:44:43Z,2026-11-22 20:44,nvidia earnings date,88,5000
+2026-11-22T20:44:43Z,2026-11-22 20:44,arch manning nil earnings,85,5000
+2026-11-22T20:44:43Z,2026-11-22 20:44,nvidia layoffs,85,5000
+2026-11-22T20:44:43Z,2026-11-22 20:44,travis kelce career earnings,85,5000

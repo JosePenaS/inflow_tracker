@@ -1566,3 +1566,51 @@ gta 6 layoffs,78,company,Rockstar Games,Examine studio layoffs during GTA6 devel
 why did greece go bankrupt,88,economy,Greece,"Explain Greece's debt crisis origins: borrowing, deficits, bailout terms, and economic consequences.",Classic sovereign finance story with measurable fiscal data.,gpt-5-mini,2026-11-21T20:45:30Z
 is taco bell bankrupt,70,company,Taco Bell / Yum! Brands,Clarify corporate vs franchise finances and whether Taco Bell (brand) faces bankruptcy risk.,Bankruptcy question invites useful corporate-structure financial explanation.,gpt-5-mini,2026-11-21T20:45:30Z
 is turning point going bankrupt,55,company,Turning Point (organization),"Investigate reported financial stress: revenue sources, liabilities, and donor dependence.",Possible organizational solvency story but details uncertain.,gpt-5-mini,2026-11-21T20:45:30Z
+why was metcalf ejected,10,not_a_fit,,,Sports incident with no direct money story.,gpt-5-mini,2026-11-22T20:56:38Z
+why did metcalf get ejected,10,not_a_fit,,,No clear company or money angle.,gpt-5-mini,2026-11-22T20:56:38Z
+why did dk get ejected,10,not_a_fit,,,"Pure sports/behavior question, not finance.",gpt-5-mini,2026-11-22T20:56:38Z
+why did dk metcalf get ejected,10,not_a_fit,,,No financial hook in the query.,gpt-5-mini,2026-11-22T20:56:38Z
+why did metcalf get ejected from game today,10,not_a_fit,,,"Timely sports incident, not a money story.",gpt-5-mini,2026-11-22T20:56:38Z
+why was dk metcalf ejected today,10,not_a_fit,,,Event-focused sports query without financial angle.,gpt-5-mini,2026-11-22T20:56:38Z
+why did dk metcalf get ejected from game today,10,not_a_fit,,,No company/finance content implied.,gpt-5-mini,2026-11-22T20:56:38Z
+why was metcalf ejected from game today,10,not_a_fit,,,Purely sporting incident; no monetary narrative.,gpt-5-mini,2026-11-22T20:56:38Z
+why was dk metcalf ejected,10,not_a_fit,,,"Behavioral/sports question, not finance-focused.",gpt-5-mini,2026-11-22T20:56:38Z
+why did cbs switch the game today,55,company,CBS,"Why networks switch live games: rights, local affiliates, and ad-revenue tradeoffs.",Broadcast switches often driven by rights and advertising economics.,gpt-5-mini,2026-11-22T20:56:38Z
+how much does dk metcalf make a year,80,personal_finance,DK Metcalf,"Break down Metcalf's annual pay: salary, bonuses, endorsements, and cap hit.",Direct money story: salary plus endorsements.,gpt-5-mini,2026-11-22T20:56:38Z
+oracle stock price,85,markets,Oracle,Snapshot: Oracle's stock move and the business segments behind valuation shifts.,Clear company/market story.,gpt-5-mini,2026-11-22T20:56:38Z
+gld stock,85,markets,SPDR Gold Shares (GLD),"What GLD tracks, investor flows, and how gold prices affect the ETF.",ETF/market money story with clear data angles.,gpt-5-mini,2026-11-22T20:56:38Z
+dk metcalf career earnings,80,personal_finance,DK Metcalf,"Sankey of DK Metcalf's career earnings: contracts, signing bonuses, and endorsements.",Athlete career earnings are a straightforward finance topic.,gpt-5-mini,2026-11-22T20:56:38Z
+why is carson beck not starting,10,not_a_fit,,,Player lineup question without monetary implications.,gpt-5-mini,2026-11-22T20:56:38Z
+why is laney choboy not playing,10,not_a_fit,,,"Sports availability question, no financial angle.",gpt-5-mini,2026-11-22T20:56:38Z
+how long does gear 5 last,5,not_a_fit,,,"Gaming/anime mechanic, not a money story.",gpt-5-mini,2026-11-22T20:56:38Z
+how much does naruto weigh,5,not_a_fit,,,"Fandom trivia, no financial relevance.",gpt-5-mini,2026-11-22T20:56:38Z
+jeff bezos amazon stock donation,65,company,Amazon / Jeff Bezos,"If Bezos donates Amazon stock: ownership, tax implications, and market impact.","Share donations affect ownership, tax treatment and market perceptions.",gpt-5-mini,2026-11-22T20:56:38Z
+ps5 in stock near me,20,not_a_fit,,,"Local availability search, not suited to company finance content.",gpt-5-mini,2026-11-22T20:56:38Z
+amd stock price,85,markets,AMD,"AMD stock snapshot: revenue drivers across PC, console, and data center chips.",Clear corporate/market story.,gpt-5-mini,2026-11-22T20:56:38Z
+josh johnson football career earnings,60,personal_finance,Josh Johnson,Estimate Josh Johnson's career earnings from NFL contracts and any endorsements.,Smaller-profile athlete earnings are a valid money story.,gpt-5-mini,2026-11-22T20:56:38Z
+travis kelce career earnings,85,personal_finance,Travis Kelce,"Track Travis Kelce's career earnings: contracts, endorsements, and media deals.",High-profile athlete with clear earnings interest.,gpt-5-mini,2026-11-22T20:56:38Z
+amare stoudemire career earnings,75,personal_finance,Amar'e Stoudemire,Sankey of Amar'e Stoudemire's NBA earnings and post-career business income.,Retired star's earnings and businesses are finance-relevant.,gpt-5-mini,2026-11-22T20:56:38Z
+josh johnson earnings,60,personal_finance,Josh Johnson,Overview of Josh Johnson's NFL earnings and notable contracts.,Player earnings are a straightforward finance topic.,gpt-5-mini,2026-11-22T20:56:38Z
+josh johnson qb career earnings,60,personal_finance,Josh Johnson,Estimate the QB's career earnings from contracts and roster movements.,Career earnings can be compiled and explained.,gpt-5-mini,2026-11-22T20:56:38Z
+josh johnson nfl earnings,60,personal_finance,Josh Johnson,Aggregate Josh Johnson's NFL pay across seasons and teams.,Earnings aggregation fits channel format.,gpt-5-mini,2026-11-22T20:56:38Z
+josh johnson quarterback career earnings,60,personal_finance,Josh Johnson,Breakdown of the quarterback's career earnings by contract year.,Clear money-focused angle on a player's career pay.,gpt-5-mini,2026-11-22T20:56:38Z
+earnings per share,90,company,,"Explainer: how EPS is calculated, adjusted EPS, and valuation impacts.",Core company finance concept used in valuations.,gpt-5-mini,2026-11-22T20:56:38Z
+why is miami wearing camo today,10,not_a_fit,,,Uniform choice; no direct financial angle.,gpt-5-mini,2026-11-22T20:56:38Z
+why is florida state wearing blue,10,not_a_fit,,,"Uniform/color question, not financial.",gpt-5-mini,2026-11-22T20:56:38Z
+why is fsu wearing blue,10,not_a_fit,,,Sports uniform question without monetary relevance.,gpt-5-mini,2026-11-22T20:56:38Z
+why is florida state wearing blue today,10,not_a_fit,,,No finance story implied.,gpt-5-mini,2026-11-22T20:56:38Z
+why is fsu wearing turquoise today,10,not_a_fit,,,"Uniform color query, not a money topic.",gpt-5-mini,2026-11-22T20:56:38Z
+how long does it take for moses to deal with a car gta 6,5,not_a_fit,,,"Video game walkthrough question, no finance angle.",gpt-5-mini,2026-11-22T20:56:38Z
+nvidia 2027 stock price forecast,70,markets,NVIDIA,"Scenario-based 2027 NVIDIA forecast: revenue, margin, and AI adoption assumptions.",Forecasting possible using revenue and market assumptions.,gpt-5-mini,2026-11-22T20:56:38Z
+nvidia stock dip investment analysis,90,markets,NVIDIA,"Is NVIDIA's dip a buy? Analyze revenue, margins, and AI exposure.",Clear investment analysis topic tied to company finances.,gpt-5-mini,2026-11-22T20:56:38Z
+turkey stock,70,markets,Turkish stock market,"What's driving Turkey's stock market: currency, exports, and investor flows.",Country-market story with macro-financial drivers.,gpt-5-mini,2026-11-22T20:56:38Z
+monte harrison career earnings,50,personal_finance,Monte Harrison,Estimate Monte Harrison's pro baseball earnings including minors and majors.,Smaller-profile athlete; still a workable earnings story.,gpt-5-mini,2026-11-22T20:56:38Z
+brock osweiler career earnings,60,personal_finance,Brock Osweiler,Break down Brock Osweiler's NFL contracts and total career earnings.,Notable past contract makes for an earnings story.,gpt-5-mini,2026-11-22T20:56:38Z
+fortnite earnings tracker,80,industry,Fortnite / Epic Games,"Track Fortnite's revenue: gross game receipts, platform splits, and developer take.",Direct games-industry revenue topic with data angles.,gpt-5-mini,2026-11-22T20:56:38Z
+matt barnes career earnings,55,personal_finance,Matt Barnes,Estimate Matt Barnes' NBA career earnings and post-playing income sources.,Former player's earnings are moderately interesting.,gpt-5-mini,2026-11-22T20:56:38Z
+brandin cooks career earnings,75,personal_finance,Brandin Cooks,Detail Brandin Cooks' NFL contracts and cumulative career earnings.,Active player's earnings provide clear financial content.,gpt-5-mini,2026-11-22T20:56:38Z
+you can see everything box office earnings,70,industry,You Can See Everything (film),"Box office breakdown: grosses, distributor/exhibitor splits, and profit threshold.",Film box office is a direct revenue story.,gpt-5-mini,2026-11-22T20:56:38Z
+victor cruz career earnings,65,personal_finance,Victor Cruz,Summarize Victor Cruz's NFL earnings and endorsement income over his career.,Ex-player earnings and endorsements form a money story.,gpt-5-mini,2026-11-22T20:56:38Z
+elon layoffs,70,company,Elon Musk companies,"How layoffs at Musk-run firms change cash burn, margins, and investor expectations.",Layoffs materially affect company finances and investor outlook.,gpt-5-mini,2026-11-22T20:56:38Z
+tech layoffs 2026,90,industry,Tech industry,"Sankey of 2026 tech layoffs: severance costs, hiring freezes, and investor impacts.",Industry-level financial trend with clear numbers and consequences.,gpt-5-mini,2026-11-22T20:56:38Z
+hooters bankrupt,80,company,Hooters,"If Hooters is bankrupt: debts, franchise impacts, and creditor recoveries explained.",Bankruptcy is a clear company/creditor money story.,gpt-5-mini,2026-11-22T20:56:38Z
