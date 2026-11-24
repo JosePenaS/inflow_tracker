@@ -1665,3 +1665,83 @@ amazon layoffs january 2027,60,company,Amazon,"If planned, model cost savings ve
 google india layoffs,65,company,Google / Alphabet (India),Explain drivers behind Google India's layoffs and local cost-structure effects.,Regional layoffs reveal corporate cost-cutting strategies.,gpt-5-mini,2026-11-24T01:57:39Z
 bed bath and beyond bankrupt,80,company,Bed Bath & Beyond,"Explain bankruptcy mechanics, creditor classes, store closures and value recovery prospects.",Bankruptcy directly involves balance sheets and creditor outcomes.,gpt-5-mini,2026-11-24T01:57:39Z
 roomba bankrupt,30,company,iRobot (Roomba),"If bankruptcy rumors persist, review iRobot's revenue trends and balance sheet health.","Potential bankruptcy is financial, but requires confirmation.",gpt-5-mini,2026-11-24T01:57:39Z
+why is the michigan game delayed,10,not_a_fit,,,"Sports scheduling, no company/government finance angle.",gpt-5-mini,2026-11-24T23:44:25Z
+why is steam down,60,company,Valve / Steam,Estimate Steam outage's likely short‑term revenue loss and affected publishers.,Platform outage can be tied to revenue impact and publisher sales.,gpt-5-mini,2026-11-24T23:44:25Z
+why is the army detonating lead,20,not_a_fit,,,"Environmental/safety story, little immediate finance/company angle.",gpt-5-mini,2026-11-24T23:44:25Z
+why did razvan get kicked off hunt for love,5,not_a_fit,,,"Reality TV/celebrity gossip, not a money story.",gpt-5-mini,2026-11-24T23:44:25Z
+why is the army detonating lead in iowa,20,not_a_fit,,,"Local military disposal, not inherently a fiscal story.",gpt-5-mini,2026-11-24T23:44:25Z
+why are they blowing up lead azide,15,not_a_fit,,,"Explosive disposal/environmental issue, not a finance topic.",gpt-5-mini,2026-11-24T23:44:25Z
+why is it called a beaver moon,5,not_a_fit,,,"Astronomy/cultural origin, not finance-related.",gpt-5-mini,2026-11-24T23:44:25Z
+why are they detonating in iowa,15,not_a_fit,,,"Local detonations are operational/safety, not financial.",gpt-5-mini,2026-11-24T23:44:25Z
+why is lead being detonated in iowa,15,not_a_fit,,,"Environmental/munitions disposal topic, not a money story.",gpt-5-mini,2026-11-24T23:44:25Z
+why are the detonating lead in iowa,15,not_a_fit,,,Repeated phrasing of the same non‑finance event.,gpt-5-mini,2026-11-24T23:44:25Z
+why is it called beaver moon,5,not_a_fit,,,"Cultural/astronomy question, not financial.",gpt-5-mini,2026-11-24T23:44:25Z
+how long does steam maintenance last,45,company,Valve / Steam,Contextualize typical Steam maintenance windows and potential revenue effects.,Operational downtime can be tied to sales and publisher impact.,gpt-5-mini,2026-11-24T23:44:25Z
+how long does a 15 lb turkey take to cook,2,not_a_fit,,,"Cooking question, no company/finance angle.",gpt-5-mini,2026-11-24T23:44:25Z
+how late does ups deliver,20,not_a_fit,UPS,,Customer service question; weak for channel unless tied to business operations.,gpt-5-mini,2026-11-24T23:44:25Z
+how long does covid last,5,not_a_fit,,,"Medical question, not a company/finance story.",gpt-5-mini,2026-11-24T23:44:25Z
+is the stock market open tomorrow,70,markets,US markets,"Quick explainer: holiday schedule, market closures, and effects on trading volume.",Clear market schedule question with trading impact implications.,gpt-5-mini,2026-11-24T23:44:25Z
+tommy pham career earnings,30,personal_finance,Tommy Pham,Breakdown of Tommy Pham's career earnings and salary progression (player finances).,Sports payroll numbers are financial but outside core channel topics.,gpt-5-mini,2026-11-24T23:44:25Z
+dltr earnings,88,company,Dollar Tree (DLTR),"Sankey of Dollar Tree's revenue, costs and profit after latest earnings.",Corporate earnings present clear revenue/cost/profit story.,gpt-5-mini,2026-11-24T23:44:25Z
+why is the moon so big today,5,not_a_fit,,,"Astronomy/optical illusion, not finance.",gpt-5-mini,2026-11-24T23:44:25Z
+why is tiktok not working,60,company,TikTok / ByteDance,Estimate outage's ad revenue impact and which advertisers are affected.,Platform outages can be connected to advertising revenue losses.,gpt-5-mini,2026-11-24T23:44:25Z
+why is my tiktok not working,55,company,TikTok / ByteDance,Explain likely outage causes and potential brief ad revenue impact.,User outage question with modest company revenue angle.,gpt-5-mini,2026-11-24T23:44:25Z
+why does the moon look so big tonight,5,not_a_fit,,,"Astronomy/visual perception topic, no money story.",gpt-5-mini,2026-11-24T23:44:25Z
+why is tiktok not working today,60,company,TikTok / ByteDance,Discuss outage timeline and estimated short‑term impact on TikTok's ad business.,Timely outage can be framed as a revenue/advertiser issue.,gpt-5-mini,2026-11-24T23:44:25Z
+why did jk dobbins get suspended,10,not_a_fit,J.K. Dobbins,,"Sports suspension news, not a company/government finance story.",gpt-5-mini,2026-11-24T23:44:25Z
+why is jk dobbins suspended,10,not_a_fit,J.K. Dobbins,,"Athlete disciplinary story, not a financial topic.",gpt-5-mini,2026-11-24T23:44:25Z
+why does my tiktok keep saying something went wrong,50,company,TikTok / ByteDance,Explain frequent error causes and what an outage means for key advertisers.,Technical error framed with modest ad revenue relevance.,gpt-5-mini,2026-11-24T23:44:25Z
+why was jk dobbins suspended,10,not_a_fit,J.K. Dobbins,,"Sports disciplinary news, non‑financial.",gpt-5-mini,2026-11-24T23:44:25Z
+why is my tiktok saying something went wrong try again later,50,company,TikTok / ByteDance,Explain common outage errors and potential advertiser reach disruption.,User error correlates to platform reliability and advertiser impact.,gpt-5-mini,2026-11-24T23:44:25Z
+why isn't tiktok loading,55,company,TikTok / ByteDance,Timeline of outage and short analysis of likely revenue consequences.,Platform downtime is relevant to ad-driven revenue.,gpt-5-mini,2026-11-24T23:44:25Z
+why isn't tiktok working,55,company,TikTok / ByteDance,Cover outage causes and estimate advertiser/user engagement impacts.,Operational outage tied to monetization concerns.,gpt-5-mini,2026-11-24T23:44:25Z
+why is the moon so bright tonight,5,not_a_fit,,,"Astronomy topic, no finance tie.",gpt-5-mini,2026-11-24T23:44:25Z
+why isnt my tiktok working,55,company,TikTok / ByteDance,Explain outage symptoms and estimate short‑term ad revenue impact.,Repeated outage query with similar ad revenue angle.,gpt-5-mini,2026-11-24T23:44:25Z
+why is my tiktok not loading even though i have internet,50,company,TikTok / ByteDance,Technical causes and what prolonged outages mean for advertisers.,Technical troubleshooting framed with monetization context.,gpt-5-mini,2026-11-24T23:44:25Z
+why is the moon so big tonight,5,not_a_fit,,,"Duplicate astronomy question, not finance.",gpt-5-mini,2026-11-24T23:44:25Z
+why is the moon so big right now,5,not_a_fit,,,"Astronomy/visual perception, no company/government angle.",gpt-5-mini,2026-11-24T23:44:25Z
+why is it called the beaver moon,5,not_a_fit,,,"Cultural/astronomy explanation, not finance.",gpt-5-mini,2026-11-24T23:44:25Z
+why is the military detonating lead,20,not_a_fit,,,"Military disposal/environmental safety, limited fiscal angle.",gpt-5-mini,2026-11-24T23:44:25Z
+how long does cooked chicken last in the fridge,2,not_a_fit,,,"Food safety question, no finance relevance.",gpt-5-mini,2026-11-24T23:44:25Z
+amba stock,82,company,Ambarella (AMBA),Short profile of Ambarella's business and drivers behind recent stock moves.,Ticker search implies investor interest; clear company story.,gpt-5-mini,2026-11-24T23:44:25Z
+wday stock,88,company,Workday (WDAY),Explain Workday's revenue mix and what's driving current stock action.,Investor query with clear company financial story.,gpt-5-mini,2026-11-24T23:44:25Z
+dell stock price,80,company,Dell Technologies,Update on Dell's valuation drivers and recent earnings implications.,Stock price interest ties to company fundamentals and earnings.,gpt-5-mini,2026-11-24T23:44:25Z
+ambarella earnings,85,company,Ambarella,"Sankey of Ambarella's latest quarter: revenue streams, margins, and guidance.",Earnings provide solid revenue/cost/profit visuals for channel.,gpt-5-mini,2026-11-24T23:44:25Z
+ntnx earnings,82,company,Nutanix (NTNX),Breakdown of Nutanix's subscription vs. product revenue trends this quarter.,Earnings give clear financial story for analysis.,gpt-5-mini,2026-11-24T23:44:25Z
+hp earnings call,85,company,HP Inc. (HPQ),Key takeaways from HP's earnings call and implications for margins.,"Earnings calls offer comment on revenue, costs, and guidance.",gpt-5-mini,2026-11-24T23:44:25Z
+wday earnings call,90,company,Workday (WDAY),Summarize Workday's earnings call and visualize revenue/cost drivers.,High relevance: earnings call gives direct company finance story.,gpt-5-mini,2026-11-24T23:44:25Z
+jared dudley career earnings,30,personal_finance,Jared Dudley,Break down Jared Dudley's reported career earnings and endorsements.,Player earnings are financial but primarily sports-focused.,gpt-5-mini,2026-11-24T23:44:25Z
+hpq earnings call,85,company,HP Inc. (HPQ),"Highlights from HP's call with numbers on printers, PCs, and margins.",Earnings call offers clear revenue/margin discussion.,gpt-5-mini,2026-11-24T23:44:25Z
+dell earnings call,85,company,Dell Technologies,Key Dell earnings call takeaways and how revenues break down by segment.,Earnings calls are directly on-topic.,gpt-5-mini,2026-11-24T23:44:25Z
+adsk earnings,82,company,Autodesk (ADSK),Visualize Autodesk's subscription revenue and profitability this quarter.,Earnings are a solid fit for revenue/cost analysis.,gpt-5-mini,2026-11-24T23:44:25Z
+wday earnings,90,company,Workday (WDAY),"Sankey of Workday's latest earnings: revenue mix, margins, and guidance.",Earnings provide a money story ideal for the channel.,gpt-5-mini,2026-11-24T23:44:25Z
+workday earnings,90,company,Workday,Explain Workday's quarter with revenue breakdown and margin drivers.,Direct company earnings question; high fit.,gpt-5-mini,2026-11-24T23:44:25Z
+workday earnings call,90,company,Workday,Summarize the earnings call and visualize key financial metrics.,Earnings calls are rich with financial detail for videos.,gpt-5-mini,2026-11-24T23:44:25Z
+amba earnings,85,company,Ambarella (AMBA),Ambarella earnings breakdown: product vs. licensing revenue and profitability.,Earnings-focused query fits channel format.,gpt-5-mini,2026-11-24T23:44:25Z
+autodesk earnings,82,company,Autodesk,Visualize Autodesk's revenue subscriptions and margin trends this quarter.,Company earnings are core content for the channel.,gpt-5-mini,2026-11-24T23:44:25Z
+dell,70,company,Dell Technologies,Profile Dell's business segments and recent financial performance.,General company interest suitable for an explainer video.,gpt-5-mini,2026-11-24T23:44:25Z
+dell stock earnings,85,company,Dell Technologies,Tie Dell's earnings to recent stock moves and valuation changes.,Investors search linking stock and earnings is a clear fit.,gpt-5-mini,2026-11-24T23:44:25Z
+hp earnings,85,company,HP Inc. (HPQ),Show HP's revenue by segment and margin evolution after earnings.,Earnings provide a concrete company finance story.,gpt-5-mini,2026-11-24T23:44:25Z
+hpq earnings,85,company,HP Inc. (HPQ),Break down HPQ's quarter with revenue/cost/profit visualization.,"Direct ticker earnings query, high relevance.",gpt-5-mini,2026-11-24T23:44:25Z
+dell earnings report,85,company,Dell Technologies,Walk through Dell's earnings report with Sankey diagrams of cash flows.,Earnings reports are ideal channel content.,gpt-5-mini,2026-11-24T23:44:25Z
+south shore line layoffs,65,government_finance,South Shore Line / Regional transit,"Explain layoffs' budgetary causes: funding, ridership, and operating costs.",Transit layoffs can be tied to budgets and funding issues.,gpt-5-mini,2026-11-24T23:44:25Z
+why did spotify log me out,10,not_a_fit,,,User account support issue; no company-level finance story.,gpt-5-mini,2026-11-24T23:45:00Z
+why is lsu getting kicked out of the sec,5,not_a_fit,,,"College sports controversy, not a financial/company topic.",gpt-5-mini,2026-11-24T23:45:00Z
+why did my spotify log me out,10,not_a_fit,,,"Personal account problem, not a finance/market story.",gpt-5-mini,2026-11-24T23:45:00Z
+why did i get logged out of spotify,10,not_a_fit,,,"Individual technical issue, no revenue/cost angle.",gpt-5-mini,2026-11-24T23:45:00Z
+why is lsu in trouble with sec,5,not_a_fit,,,"Likely NCAA/athletics issue, not a government or corporate finance story.",gpt-5-mini,2026-11-24T23:45:00Z
+why does jayden daniels have the japanese flag on his helmet,5,not_a_fit,,,"Sports symbolism question, not related to money or budgets.",gpt-5-mini,2026-11-24T23:45:00Z
+best buy earnings call,90,company,Best Buy,"Break down Best Buy's revenue mix, margins and guidance from the earnings call with Sankey visuals.",Clear company earnings story with numbers to visualize.,gpt-5-mini,2026-11-24T23:45:00Z
+kohls earnings,88,company,Kohl's,"Visualize Kohl's sales by channel, margin trends and inventory impacts using Sankeys.",Retail earnings with clear revenue/cost breakdown.,gpt-5-mini,2026-11-24T23:45:00Z
+dell earnings expectations,80,company,Dell Technologies,Compare Dell's expected results to historical: enterprise vs consumer revenue and margin drivers.,Earnings expectations provide market and revenue-structure story.,gpt-5-mini,2026-11-24T23:45:00Z
+dollar tree earnings,85,company,Dollar Tree,"Show Dollar Tree's sales mix, pricing strategy and margin implications visually.",Discount retail earnings have clear price and margin implications.,gpt-5-mini,2026-11-24T23:45:00Z
+medtronic earnings call,85,company,Medtronic,"Map Medtronic's product-segment revenues, costs and guidance from the earnings call.",Medical-device earnings allow product-level financial breakdowns.,gpt-5-mini,2026-11-24T23:45:00Z
+analog devices earnings,80,company,Analog Devices,"Break down Analog Devices' end-market revenue mix (industrial, auto, comms) and margin trends.",Semiconductor earnings tie to market demand and margins.,gpt-5-mini,2026-11-24T23:45:00Z
+dycom earnings,70,company,Dycom Industries,"Analyze Dycom's telecom infrastructure project revenues, cost structure and profitability drivers.",Project-based telecom services have distinguishable revenue and cost patterns.,gpt-5-mini,2026-11-24T23:45:00Z
+mdt earnings,85,company,Medtronic,"Map Medtronic's product-segment revenues, costs and guidance from the earnings call.",Ticker query for Medtronic; same strong earnings story.,gpt-5-mini,2026-11-24T23:45:00Z
+dks earnings,75,company,Dick's Sporting Goods,"Visualize Dick's revenue by category, inventory levels and consumer-spending impacts.",Retailer earnings show seasonal and category revenue shifts.,gpt-5-mini,2026-11-24T23:45:00Z
+clsk earnings,70,company,CleanSpark (CLSK),"Show CleanSpark's bitcoin-mining revenue, energy costs and cash-flow sensitivity to BTC price.",Crypto/mining firm has clear revenue and cost levers.,gpt-5-mini,2026-11-24T23:45:00Z
+eastern washington university lecturer layoffs,60,government_finance,Eastern Washington University,"Explain EWU's budget pressures, where cuts happened and the financial rationale for layoffs.",University budget shortfalls and staffing cuts are finance-relevant.,gpt-5-mini,2026-11-24T23:45:00Z
+amazon january layoffs,90,company,Amazon,"Quantify Amazon's January layoffs: headcount, expected cost savings and unit-economics impact.",Large-company layoffs have direct financial implications.,gpt-5-mini,2026-11-24T23:45:00Z
+kpmg layoffs,75,company,KPMG,"Estimate KPMG's layoffs' effect on revenue, margins and long-term service capacity.",Professional-services cuts affect revenue and profitability.,gpt-5-mini,2026-11-24T23:45:00Z
+ford layoffs,85,company,Ford Motor Company,"Break down Ford layoffs' impact on production costs, restructuring charges and long-term margins.",Auto-manufacturer layoffs meaningfully affect costs and cash flow.,gpt-5-mini,2026-11-24T23:45:00Z
