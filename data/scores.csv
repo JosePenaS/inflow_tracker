@@ -1745,3 +1745,83 @@ eastern washington university lecturer layoffs,60,government_finance,Eastern Was
 amazon january layoffs,90,company,Amazon,"Quantify Amazon's January layoffs: headcount, expected cost savings and unit-economics impact.",Large-company layoffs have direct financial implications.,gpt-5-mini,2026-11-24T23:45:00Z
 kpmg layoffs,75,company,KPMG,"Estimate KPMG's layoffs' effect on revenue, margins and long-term service capacity.",Professional-services cuts affect revenue and profitability.,gpt-5-mini,2026-11-24T23:45:00Z
 ford layoffs,85,company,Ford Motor Company,"Break down Ford layoffs' impact on production costs, restructuring charges and long-term margins.",Auto-manufacturer layoffs meaningfully affect costs and cash flow.,gpt-5-mini,2026-11-24T23:45:00Z
+why is the moon orange tonight,5,not_a_fit,,,Astronomy topic with no business or money angle.,gpt-5-mini,2026-11-25T23:19:12Z
+why is dobbins suspended,10,not_a_fit,Dobbins,,"Sports disciplinary news, not a finance/company story.",gpt-5-mini,2026-11-25T23:19:12Z
+why did the army detonate lead in iowa,70,government_finance,Iowa / US Army,"Explain cleanup rationale, estimated remediation costs, and who’s funding it.",Environmental cleanup has public-cost and budget allocation implications.,gpt-5-mini,2026-11-25T23:19:12Z
+why was the macy's thanksgiving day parade canceled,60,company,Macy's,"Break down financial impact on Macy's, advertisers, TV partners and local vendors.",Parade cancellation affects Macy's revenue and ad economics.,gpt-5-mini,2026-11-25T23:19:12Z
+why is thanksgiving always on a thursday,10,not_a_fit,,,"Historical/calendar question, not a money story.",gpt-5-mini,2026-11-25T23:19:12Z
+why is gamora,0,not_a_fit,,,Fictional character topic with no financial story.,gpt-5-mini,2026-11-25T23:19:12Z
+why did sauron kneel,0,not_a_fit,,,"Fictional lore, no company or money angle.",gpt-5-mini,2026-11-25T23:19:12Z
+why did the steelers release aaron rodgers,65,personal_finance,Aaron Rodgers / Pittsburgh Steelers,"Break down contract guarantees, cap hit, and financial reasons for the release.",Releasing a high-paid player has clear payroll and cap consequences.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 16 lb turkey,5,not_a_fit,,,"Cooking time question, no monetary angle.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to boil sweet potatoes,5,not_a_fit,,,Cooking question without financial relevance.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 12 lb turkey,5,not_a_fit,,,"Cooking question, not relevant to channel focus.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does a 14 lb turkey take to cook,5,not_a_fit,,,Pure cooking timing query.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 14 lb turkey,5,not_a_fit,,,"Duplicate cooking timing query, no finance angle.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does turkey take to cook,5,not_a_fit,,,"General cooking question, not a money story.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to smoke a spatchcock turkey,5,not_a_fit,,,"Cooking technique question, not finance-related.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a ham,5,not_a_fit,,,"Cooking timing, no monetary relevance.",gpt-5-mini,2026-11-25T23:19:12Z
+zaza pachulia career earnings,70,personal_finance,Zaza Pachulia,Chart Pachulia's NBA career earnings and compare to similar role players.,Direct earnings/ranking topic fits channel style.,gpt-5-mini,2026-11-25T23:19:12Z
+why did aaron rodgers get released,65,personal_finance,Aaron Rodgers / Pittsburgh Steelers,"Explain contract mechanics, guaranteed money, and the team's cap rationale for release.",Release decision ties to contract and payroll considerations.,gpt-5-mini,2026-11-25T23:19:12Z
+why was aaron rodgers released,65,personal_finance,Aaron Rodgers / Pittsburgh Steelers,Break down the financial implications of Rodgers' release for team and player.,Monetary consequences and roster economics are relevant.,gpt-5-mini,2026-11-25T23:19:12Z
+why is the thanksgiving parade postponed,60,company,Macy's,"Analyze financial effects on Macy's, broadcasters, and parade vendors from postponement.",Postponement impacts advertising and retail partner revenues.,gpt-5-mini,2026-11-25T23:19:12Z
+why did steelers release aaron rodgers,65,personal_finance,Aaron Rodgers / Pittsburgh Steelers,"Detail the contract, guarantees, and cap impact behind the Steelers' decision.",Player release creates measurable payroll effects.,gpt-5-mini,2026-11-25T23:19:12Z
+why is macy's thanksgiving day parade cancelled,60,company,Macy's,"Assess lost ad revenue, sponsorship refunds, and vendor impacts from cancellation.",Cancellation ties directly to Macy's and partners' finances.,gpt-5-mini,2026-11-25T23:19:12Z
+why are the steelers releasing aaron rodgers,65,personal_finance,Aaron Rodgers / Pittsburgh Steelers,"Explain financial motives — cap relief, guarantees, and future payroll flexibility.",Release motivations often have financial drivers.,gpt-5-mini,2026-11-25T23:19:12Z
+why did aaron rodgers get cut,65,personal_finance,Aaron Rodgers,"Break down contract terms, guarantees and the fiscal consequences of the cut.",Contract cuts create clear money effects for both sides.,gpt-5-mini,2026-11-25T23:19:12Z
+why did aaron rodgers get benched,20,not_a_fit,Aaron Rodgers,,"Primarily performance/football topic, not financial.",gpt-5-mini,2026-11-25T23:19:12Z
+why did rodgers get benched,20,not_a_fit,Aaron Rodgers,,"Performance/news-focused, limited money angle.",gpt-5-mini,2026-11-25T23:19:12Z
+how many mvps does aaron rodgers have,10,not_a_fit,Aaron Rodgers,,"Statistical sports question, not a finance topic.",gpt-5-mini,2026-11-25T23:19:12Z
+how many super bowls does aaron rodgers have,10,not_a_fit,Aaron Rodgers,,Sports achievement query without monetary focus.,gpt-5-mini,2026-11-25T23:19:12Z
+how many teaspoons does it take to make a tablespoon,0,not_a_fit,,,"Cooking conversion, no relevance to money or companies.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 20 pound turkey,5,not_a_fit,,,"Cooking duration question, not a finance story.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does a turkey take to cook in the oven,5,not_a_fit,,,"Purely culinary, no money angle.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 15 pound turkey,5,not_a_fit,,,"Cooking time question, not relevant to channel focus.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 22 pound turkey,5,not_a_fit,,,Cooking question without financial content.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a turkey in the oven,5,not_a_fit,,,Redundant cooking timing query.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to cook a 13 lb turkey,5,not_a_fit,,,"Cooking-focused, no company/finance angle.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to fry a turkey,5,not_a_fit,,,"Cooking method question, no monetary relevance.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does a 16 pound turkey take to cook,5,not_a_fit,,,Another cooking timing query.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does ham take to cook,5,not_a_fit,,,"Cooking time, not relevant to finances.",gpt-5-mini,2026-11-25T23:19:12Z
+how long does a 20 pound turkey take to cook,5,not_a_fit,,,Cooking timing question repeated.,gpt-5-mini,2026-11-25T23:19:12Z
+how long does it take to boil potatoes,5,not_a_fit,,,Culinary question without financial angle.,gpt-5-mini,2026-11-25T23:19:12Z
+is the stock market open the day after thanksgiving,75,markets,US stock market,"Explain US market holiday schedule, shortened sessions, and historical volume effects.",Market holiday schedule affects trading and liquidity.,gpt-5-mini,2026-11-25T23:19:12Z
+is stock market open black friday,75,markets,US stock market,"Outline Black Friday trading hours, typical market behavior, and investor implications.","Holiday trading impacts ETFs, volume, and order timing.",gpt-5-mini,2026-11-25T23:19:12Z
+aaron rodgers lifetime earnings,85,personal_finance,Aaron Rodgers,"Chart Rodgers' lifetime on-field earnings, guarantees and compare to NFL peers.",Clear money-ranking topic suited to the channel.,gpt-5-mini,2026-11-25T23:19:12Z
+mike mccarthy career earnings,70,personal_finance,Mike McCarthy,Show McCarthy's coaching pay history and compare to other NFL head coaches' earnings.,Coaches' pay is a direct financial/comparative topic.,gpt-5-mini,2026-11-25T23:19:12Z
+aaron rodgers earnings,85,personal_finance,Aaron Rodgers,"Break down Rodgers' salary, signing bonuses, guarantees and recent contract changes.",Directly money-focused and fits channel style.,gpt-5-mini,2026-11-25T23:19:12Z
+cnn,50,company,CNN,"Overview CNN's business model, revenue streams, and recent strategic changes.",Single-word query but company-focused content is possible.,gpt-5-mini,2026-11-25T23:19:12Z
+crown castle layoffs,85,company,Crown Castle,Explain the financial reasons for Crown Castle layoffs and cost-savings impact.,Layoffs are a clear company cost-management story.,gpt-5-mini,2026-11-25T23:19:12Z
+haro bikes bankrupt,85,company,Haro Bikes,"Explain Haro's bankruptcy, creditor implications, asset disposition, and industry fallout.",Bankruptcy is a direct financial/company story.,gpt-5-mini,2026-11-25T23:19:12Z
+aaron rodgers benched why,20,not_a_fit,Aaron Rodgers,,Performance/news topic; limited relevance to finance.,gpt-5-mini,2026-11-25T23:19:12Z
+why is aaron rodgers benched,20,not_a_fit,Aaron Rodgers,,"Primarily sports performance coverage, not financial.",gpt-5-mini,2026-11-25T23:19:12Z
+why was rodgers benched,20,not_a_fit,Aaron Rodgers,,"Game/selection issue, not a monetary story.",gpt-5-mini,2026-11-25T23:19:12Z
+why was aaron rodgers benched,20,not_a_fit,Aaron Rodgers,,"Sports-specific, limited fit for finance channel.",gpt-5-mini,2026-11-25T23:19:12Z
+why did the steelers bench rodgers,20,not_a_fit,Pittsburgh Steelers / Aaron Rodgers,,"Team selection question, not a direct money story.",gpt-5-mini,2026-11-25T23:19:12Z
+why is aaron rodgers not playing,20,not_a_fit,Aaron Rodgers,,"Health/selection news, not finance-focused.",gpt-5-mini,2026-11-25T23:19:12Z
+why did the steelers bench aaron rodgers,20,not_a_fit,Pittsburgh Steelers / Aaron Rodgers,,Primarily sports news without a monetary angle.,gpt-5-mini,2026-11-25T23:19:12Z
+why did they detonate lead in iowa,70,government_finance,Iowa / US Army,"Discuss remediation decision, expected costs, and which government budgets pay.",Cleanup operations create public expenditure questions.,gpt-5-mini,2026-11-25T23:19:12Z
+why is aaron rodgers inactive,20,not_a_fit,Aaron Rodgers,,"Inactivity is roster/health news, not finance-focused.",gpt-5-mini,2026-11-25T23:19:12Z
+why is iowa detonating lead,70,government_finance,Iowa / US Army,"Explain safety rationale, clean-up costs and funding sources for the detonation.",Public safety cleanup has budgetary implications.,gpt-5-mini,2026-11-25T23:19:12Z
+iowa lead detonation why,70,government_finance,Iowa,Cover why officials chose detonation and the estimated public costs involved.,Detonation decision affects government spending and liabilities.,gpt-5-mini,2026-11-25T23:19:12Z
+lead bomb iowa why,70,government_finance,Iowa,"Examine the remediation method, liability, and budgetary consequences for local governments.",Environmental remediation raises financing and responsibility questions.,gpt-5-mini,2026-11-25T23:19:12Z
+how many mirrorballs does daniella have,5,not_a_fit,,,"Celebrity/entertainment trivia, no financial story.",gpt-5-mini,2026-11-25T23:19:53Z
+how many mirrorballs does pasha have,5,not_a_fit,,,"Celebrity/entertainment trivia, no money angle.",gpt-5-mini,2026-11-25T23:19:53Z
+how long does lead stay in the air,20,not_a_fit,,,"Primarily environmental/health science, weak finance tie.",gpt-5-mini,2026-11-25T23:19:53Z
+how long does it take to cook a 12 pound turkey,5,not_a_fit,,,"Cooking question, no company/financial angle.",gpt-5-mini,2026-11-25T23:19:53Z
+how long does it take to cook a 20 lb turkey,5,not_a_fit,,,"Pure cooking guidance, not relevant to channel.",gpt-5-mini,2026-11-25T23:19:53Z
+how long does a 20 lb turkey take to cook,5,not_a_fit,,,Duplicate cooking query; no finance story.,gpt-5-mini,2026-11-25T23:19:53Z
+how long does it take to cook a 13 pound turkey,5,not_a_fit,,,Cooking question without monetary/industry context.,gpt-5-mini,2026-11-25T23:19:53Z
+how long does it take to bake a turkey,5,not_a_fit,,,"Cooking topic, no company or money angle.",gpt-5-mini,2026-11-25T23:19:53Z
+how long does it take to cook a 15 lb turkey,5,not_a_fit,,,Pure recipe timing; not relevant to channel focus.,gpt-5-mini,2026-11-25T23:19:53Z
+how long does it take to boil eggs,5,not_a_fit,,,"Basic cooking question, no finance/company angle.",gpt-5-mini,2026-11-25T23:19:53Z
+what time does the stock market close today,80,markets,US stock market (NYSE/Nasdaq),Quick explainer: US market close time today and implications for after-hours trading and volume.,Direct markets question; fits timely market-focused content.,gpt-5-mini,2026-11-25T23:19:53Z
+mason rudolph career earnings,72,personal_finance,Mason Rudolph,"Sankey of Mason Rudolph's NFL contract earnings: salary, signing bonuses, guarantees by year.",Player salary/contract numbers can be visualized and ranked.,gpt-5-mini,2026-11-25T23:19:53Z
+dj augustin career earnings,72,personal_finance,DJ Augustin,Break down DJ Augustin's NBA contracts and career earnings in a Sankey diagram.,NBA salary history is numeric and fits earnings visualization.,gpt-5-mini,2026-11-25T23:19:53Z
+alec bohm career earnings,70,personal_finance,Alec Bohm,Visualize Alec Bohm's MLB salary progression and signing bonus versus guarantees.,MLB contract numbers provide a clear money story to visualize.,gpt-5-mini,2026-11-25T23:19:53Z
+john deere earnings call,92,company,Deere & Company (John Deere),"Break down Deere's latest earnings call: revenue by segment, margins, and guidance impact.",Direct corporate earnings — perfect for Sankey and revenue/cost breakdowns.,gpt-5-mini,2026-11-25T23:19:53Z
+jeremy lin career earnings,75,personal_finance,Jeremy Lin,"Map Jeremy Lin's career earnings, endorsements, and post-NBA income flow with visuals.",High-interest player with measurable contract and endorsement figures.,gpt-5-mini,2026-11-25T23:19:53Z
+deere earnings,92,company,Deere & Company (John Deere),"Explain Deere's quarterly results: revenue mix, profit drivers, and segment trends.",Company earnings search; strong fit for financial breakdown content.,gpt-5-mini,2026-11-25T23:19:53Z
+john deere earnings,92,company,Deere & Company (John Deere),"Visualize John Deere's earnings: agricultural vs construction revenue, costs, profitability.",Clear corporate finance story suited to channel style.,gpt-5-mini,2026-11-25T23:19:53Z
+kent bazemore career earnings,68,personal_finance,Kent Bazemore,Show Kent Bazemore's NBA earnings timeline and contract guarantees visually.,Player salaries available but lower mainstream interest.,gpt-5-mini,2026-11-25T23:19:53Z
+ryan anderson career earnings,70,personal_finance,Ryan Anderson,Visualize Ryan Anderson's NBA career earnings and contract structure by season.,Career salary numbers fit Sankey-style earnings breakdowns.,gpt-5-mini,2026-11-25T23:19:53Z
