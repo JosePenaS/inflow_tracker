@@ -1825,3 +1825,99 @@ deere earnings,92,company,Deere & Company (John Deere),"Explain Deere's quarterl
 john deere earnings,92,company,Deere & Company (John Deere),"Visualize John Deere's earnings: agricultural vs construction revenue, costs, profitability.",Clear corporate finance story suited to channel style.,gpt-5-mini,2026-11-25T23:19:53Z
 kent bazemore career earnings,68,personal_finance,Kent Bazemore,Show Kent Bazemore's NBA earnings timeline and contract guarantees visually.,Player salaries available but lower mainstream interest.,gpt-5-mini,2026-11-25T23:19:53Z
 ryan anderson career earnings,70,personal_finance,Ryan Anderson,Visualize Ryan Anderson's NBA career earnings and contract structure by season.,Career salary numbers fit Sankey-style earnings breakdowns.,gpt-5-mini,2026-11-25T23:19:53Z
+why is saquon barkley not playing,25,not_a_fit,New York Giants,,"Primarily injury/news about playing status, little financial angle.",gpt-5-mini,2026-11-26T23:14:11Z
+why isn't saquon barkley playing,25,not_a_fit,New York Giants,,"Playing-status query, not a clear money/company topic.",gpt-5-mini,2026-11-26T23:14:11Z
+why didn't john madden fly,10,not_a_fit,,,Human-interest/biography question with no financial story.,gpt-5-mini,2026-11-26T23:14:11Z
+why isn't jalen hurts playing,25,not_a_fit,Philadelphia Eagles,,Injury/status question; weak direct finance angle.,gpt-5-mini,2026-11-26T23:14:11Z
+why is jalen hurts not playing,25,not_a_fit,Philadelphia Eagles,,Status/injury query; not a company/finance story.,gpt-5-mini,2026-11-26T23:14:11Z
+why are the eagles so bad,20,not_a_fit,Philadelphia Eagles,,"Sports performance question, not money-focused.",gpt-5-mini,2026-11-26T23:14:11Z
+why is turkey associated with thanksgiving,65,industry,U.S. turkey industry,"Holiday turkey economics: how production, pricing and supply shaped the Thanksgiving tradition.","Tradition ties into seasonal supply, demand and industry economics.",gpt-5-mini,2026-11-26T23:14:11Z
+why did japan attack pearl harbor,10,not_a_fit,,,Historical/military question without an immediate finance angle.,gpt-5-mini,2026-11-26T23:14:11Z
+why does turkey make you tired,5,not_a_fit,,,"Physiology/food question, not relevant to finances or companies.",gpt-5-mini,2026-11-26T23:14:11Z
+how many playoff wins does dak prescott have,10,not_a_fit,Dallas Cowboys,,"Pure sports stat, not a company/finance angle.",gpt-5-mini,2026-11-26T23:14:11Z
+how much does devonta smith weigh,5,not_a_fit,Philadelphia Eagles,,"Player physical stat, no financial story.",gpt-5-mini,2026-11-26T23:14:11Z
+how much does starlink cost,85,company,SpaceX / Starlink,"Breakdown of Starlink pricing, ARPU, and how service revenue fits SpaceX's business model.",Clear company pricing and revenue story.,gpt-5-mini,2026-11-26T23:14:11Z
+how much does tom brady make as an announcer,70,personal_finance,Tom Brady,Estimate Brady's announcer pay and compare to his playing and endorsement income.,Direct earnings question with clear money angle.,gpt-5-mini,2026-11-26T23:14:11Z
+smci stock,85,company,Super Micro Computer (SMCI),"Explain SMCI's revenue drivers, margins and why its stock moved recently.",Ticker-focused company story suitable for valuation breakdown.,gpt-5-mini,2026-11-26T23:14:11Z
+apple stock price,90,company,Apple,"Quick explainer of Apple's price move, market cap and key revenue drivers.",High-interest company/market topic for investors and viewers.,gpt-5-mini,2026-11-26T23:14:11Z
+jensen huang foundation stock value jump,75,markets,NVIDIA / Jensen Huang,Why Jensen Huang's foundation holdings jumped and implications for NVIDIA shares and taxes.,Charitable holdings affecting market value ties to company finances.,gpt-5-mini,2026-11-26T23:14:11Z
+iep stock,80,company,Icahn Enterprises (IEP),"Icahn Enterprises: portfolio, asset values and why IEP stock moved.",Ticker/company story with asset and holding analysis potential.,gpt-5-mini,2026-11-26T23:14:11Z
+is the stock market open this friday,80,markets,U.S. stock markets,Which market holidays affect trading hours and how closures change volumes and flows.,Timing/market hours have clear investor relevance.,gpt-5-mini,2026-11-26T23:14:11Z
+intel stock price,90,company,Intel,"Intel stock moves explained: earnings, capex, foundry plans and valuation context.",Top-tier company with clear financial narrative.,gpt-5-mini,2026-11-26T23:14:11Z
+palantir stock,85,company,Palantir,"Palantir's revenue split (government vs commercial), contracts and valuation explained.",Company valuation story fits channel format well.,gpt-5-mini,2026-11-26T23:14:11Z
+sap layoffs,85,company,SAP,"SAP layoffs: cost savings, cloud transition and expected margin/earnings impact.",Corporate restructuring with clear financial implications.,gpt-5-mini,2026-11-26T23:14:11Z
+why is parker washington questionable,15,not_a_fit,Pittsburgh Steelers,,Injury/status sports query with minimal finance relevance.,gpt-5-mini,2026-11-26T23:14:11Z
+why is swift not playing right now,20,not_a_fit,,,Ambiguous (artist or player) and no clear financial angle.,gpt-5-mini,2026-11-26T23:14:11Z
+why is d'andre swift not playing,20,not_a_fit,Philadelphia Eagles,,Player availability question without corporate/financial framing.,gpt-5-mini,2026-11-26T23:14:11Z
+why do rappers grab their crotch all the time,5,not_a_fit,,,Cultural/behavioral question not tied to money or companies.,gpt-5-mini,2026-11-26T23:14:11Z
+why did barry sanders retire,20,not_a_fit,Barry Sanders,,Historical sports decision; limited immediate finance angle.,gpt-5-mini,2026-11-26T23:14:11Z
+why does turkey make you sleepy,5,not_a_fit,,,Duplicate physiology question; not finance-related.,gpt-5-mini,2026-11-26T23:14:11Z
+why do the lions always play on thanksgiving,60,industry,Detroit Lions / NFL,"Thanksgiving tradition's economics: TV ratings, ad revenue and franchise exposure for the Lions.",Tradition ties into advertising and franchise revenue.,gpt-5-mini,2026-11-26T23:14:11Z
+why do lions always play on thanksgiving,60,industry,Detroit Lions / NFL,"Thanksgiving tradition's economics: TV ratings, ad revenue and franchise exposure for the Lions.",Tradition ties into advertising and franchise revenue.,gpt-5-mini,2026-11-26T23:14:11Z
+why do the lions play on thanksgiving,60,industry,Detroit Lions / NFL,"Thanksgiving tradition's economics: TV ratings, ad revenue and franchise exposure for the Lions.",Tradition ties into advertising and franchise revenue.,gpt-5-mini,2026-11-26T23:14:11Z
+how many kids does seth meyers have,5,not_a_fit,Seth Meyers,,Personal/family question without financial relevance.,gpt-5-mini,2026-11-26T23:14:11Z
+how much does a nfl referee make,70,personal_finance,NFL,"Breakdown of NFL referee pay, per-game rates, benefits and union arrangements.",Direct earnings topic with clear numbers potential.,gpt-5-mini,2026-11-26T23:14:11Z
+how much does an nfl referee make,70,personal_finance,NFL,"Breakdown of NFL referee pay, per-game rates, benefits and union arrangements.",Direct earnings topic with clear numbers potential.,gpt-5-mini,2026-11-26T23:14:11Z
+how many touchdowns does gibbs have,10,not_a_fit,Player Gibbs,,"Pure sports stat, not a company/finance story.",gpt-5-mini,2026-11-26T23:14:11Z
+how many pumpkin pies does costco sell,65,company,Costco,"Estimate Costco's pumpkin pie seasonal sales, revenue contribution and inventory economics.","Retail seasonal sales is a quantifiable, money-focused angle.",gpt-5-mini,2026-11-26T23:14:11Z
+how many stomachs does a cow have,5,not_a_fit,,,Biology question unrelated to finance.,gpt-5-mini,2026-11-26T23:14:11Z
+how long does alcohol stay in your system,10,not_a_fit,,,"Health/forensics topic, no clear corporate or financial angle.",gpt-5-mini,2026-11-26T23:14:11Z
+how long does weed stay in your system urine test,10,not_a_fit,,,Drug-testing question; not relevant to company/finance stories.,gpt-5-mini,2026-11-26T23:14:11Z
+nvidia stock buying opportunity analysis,95,markets,NVIDIA,"Is NVIDIA a buy? Revenue growth, AI demand, margins and valuation scenarios analyzed.",High-interest investment/valuation topic that fits channel strengths.,gpt-5-mini,2026-11-26T23:14:11Z
+how to get spacex stock for kids,85,personal_finance,SpaceX,"Ways to give kids exposure to SpaceX: secondary markets, trusts, custodial accounts explained.",Practical private-company investing/gifting topic with clear steps.,gpt-5-mini,2026-11-26T23:14:11Z
+stock market open tomorrow,80,markets,U.S. stock markets,Which holidays affect trading hours and how closures alter market flows.,Timely trading-hours info relevant to investors.,gpt-5-mini,2026-11-26T23:14:11Z
+is stock market open tomorrow,80,markets,U.S. stock markets,Which holidays affect trading hours and how closures alter market flows.,Timely trading-hours info relevant to investors.,gpt-5-mini,2026-11-26T23:14:11Z
+barry sanders career earnings,60,personal_finance,Barry Sanders,"Estimate Barry Sanders' NFL salaries and endorsements, compare to modern RB earnings.",Career-earnings topic fits the channel's salary-explainer format.,gpt-5-mini,2026-11-26T23:14:11Z
+jj watt career earnings,60,personal_finance,J.J. Watt,"Total career earnings and endorsement income, plus comparison to peers.",Earnings breakdown is a clear money story.,gpt-5-mini,2026-11-26T23:14:11Z
+jalen hurts career earnings,60,personal_finance,Jalen Hurts,Jalen Hurts' career contract totals and endorsement estimates explained.,Player earnings are quantifiable and relevant to fans/investors.,gpt-5-mini,2026-11-26T23:14:11Z
+peyton manning endorsement earnings,70,personal_finance,Peyton Manning,Break down Peyton Manning's endorsement income and its share of total wealth.,Endorsement earnings are a strong money story.,gpt-5-mini,2026-11-26T23:14:11Z
+ezekiel elliott career earnings,60,personal_finance,Ezekiel Elliott,Estimate Zeke's NFL contract earnings and endorsement revenue over his career.,Career-salary breakdown fits channel format.,gpt-5-mini,2026-11-26T23:14:11Z
+tom brady nfl earnings,75,personal_finance,Tom Brady,"Detail Tom Brady's NFL salaries, signing bonuses and compare to endorsements.","High-profile player with sizable, explainable earnings.",gpt-5-mini,2026-11-26T23:14:11Z
+peyton manning career earnings,70,personal_finance,Peyton Manning,Total NFL salary plus endorsements and post-career business income explained.,Classic earnings explainer fits channel strengths.,gpt-5-mini,2026-11-26T23:14:11Z
+jared goff career earnings,55,personal_finance,Jared Goff,Summarize Jared Goff's contract earnings and how QB pay has evolved.,Smaller-profile but still a salary/contract story.,gpt-5-mini,2026-11-26T23:14:11Z
+why was macy's parade postponed,65,company,Macy's,"Why Macy's Parade postponed and the economic impact on Macy's, advertisers and tourism.",Operational delay with measurable revenue and ad consequences.,gpt-5-mini,2026-11-26T23:14:11Z
+why was the macy's parade postponed,65,company,Macy's,"Why Macy's Parade postponed and the economic impact on Macy's, advertisers and tourism.",Operational delay with measurable revenue and ad consequences.,gpt-5-mini,2026-11-26T23:14:11Z
+why was the parade postponed,30,not_a_fit,,,Too vague without context; hard to make a money story.,gpt-5-mini,2026-11-26T23:14:11Z
+why did they cancel the macy's day parade,65,company,Macy's,Why Macy's Parade cancelled/postponed and the financial impact on advertisers and vendors.,Event cancellation has clear commercial impacts.,gpt-5-mini,2026-11-26T23:14:11Z
+why is macy's parade postponed,65,company,Macy's,"Why Macy's Parade postponed and the economic impact on Macy's, advertisers and tourism.",Operational delay with measurable revenue and ad consequences.,gpt-5-mini,2026-11-26T23:14:11Z
+why is the macy's parade postponed,65,company,Macy's,"Why Macy's Parade postponed and the economic impact on Macy's, advertisers and tourism.",Operational delay with measurable revenue and ad consequences.,gpt-5-mini,2026-11-26T23:14:11Z
+why was the thanksgiving day parade postponed,65,company,Macy's,"Why Macy's Parade postponed and the economic impact on Macy's, advertisers and tourism.","Event postponement affects advertisers, ticketing and retail partners.",gpt-5-mini,2026-11-26T23:14:11Z
+why is the macy's day parade postponed,65,company,Macy's,"Why Macy's Parade postponed and the economic impact on Macy's, advertisers and tourism.",Operational delay with measurable revenue and ad consequences.,gpt-5-mini,2026-11-26T23:14:11Z
+why is fighting allowed in hockey,25,not_a_fit,NHL,,Rule/culture question; limited direct financial angle.,gpt-5-mini,2026-11-26T23:14:11Z
+why is the parade postponed,30,not_a_fit,,,Vague without specifying which parade; hard to craft financial angle.,gpt-5-mini,2026-11-26T23:14:11Z
+why did they postpone the macy's day parade,70,company,Macy's,"Estimate the revenue, sponsorship and local economic impact from postponing the Macy's parade.","Event affects Macy's revenues, sponsors and local economic activity.",gpt-5-mini,2026-11-26T23:14:58Z
+why do the lions and cowboys always play on thanksgiving,80,industry,NFL / Detroit Lions / Dallas Cowboys,"Explain why those Thanksgiving slots exist: TV rights, ad revenue and tradition.",TV contracts and ad dollars determine those valuable holiday slots.,gpt-5-mini,2026-11-26T23:14:58Z
+why does detroit always play on thanksgiving,80,industry,Detroit Lions / NFL,Break down the Lions' Thanksgiving tradition and the economic value of the game slot.,Longstanding tradition tied to TV ratings and local economic benefit.,gpt-5-mini,2026-11-26T23:14:58Z
+why do the cowboys always play on thanksgiving,80,industry,Dallas Cowboys / NFL,Show how the Cowboys' Thanksgiving appearances are driven by broadcast deals and ratings.,Holiday TV exposure and ad revenue make the Cowboys desirable.,gpt-5-mini,2026-11-26T23:14:58Z
+why is puka nacua out,15,not_a_fit,Puka Nacua,,Injury/sports-specific news without a direct company or finance angle.,gpt-5-mini,2026-11-26T23:14:58Z
+why is the thanksgiving day parade postponed,70,company,Macy's Thanksgiving Day Parade,"Analyze costs, sponsor refunds and economic impacts of postponing a major parade.","Event postponement affects sponsors, vendors and local revenue.",gpt-5-mini,2026-11-26T23:14:58Z
+how long does green bean casserole take to cook,5,not_a_fit,,,Pure recipe/time question; no financial/company story.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does a ham take to cook in the oven,5,not_a_fit,,,Cooking timing question; not relevant to money or companies.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does it take to boil potatoes for mashed potatoes,5,not_a_fit,,,Recipe-focused; no company or financial angle.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does ham take to cook in oven,5,not_a_fit,,,Cooking question without financial relevance.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does a ham take to cook,5,not_a_fit,,,Recipe/time question; not a fit for finance/company channel.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does it take to cook a ham in the oven,5,not_a_fit,,,Pure cooking content; no money story.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does dressing take to cook,5,not_a_fit,,,Recipe timing; not relevant to channel's financial focus.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does it take to cook ham,5,not_a_fit,,,Cooking query; no company or budget angle.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does stuffing take to cook,5,not_a_fit,,,Recipe-focused search; not about finances.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does a 10 lb turkey take to cook,5,not_a_fit,,,Cooking/time question; no finance angle.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does a spatchcock turkey take to cook,5,not_a_fit,,,Recipe-specific; not relevant to money/company stories.,gpt-5-mini,2026-11-26T23:14:58Z
+how long does it take to cook a spatchcock turkey,5,not_a_fit,,,Cooking question; not a fit for this channel.,gpt-5-mini,2026-11-26T23:14:58Z
+is the stock market open on thanksgiving,85,markets,US stock market (NYSE/Nasdaq),"Explain market holiday schedules, altered trading hours and historical holiday liquidity.",Direct markets question affecting trading calendars and liquidity.,gpt-5-mini,2026-11-26T23:14:58Z
+turkey stock recipe,5,not_a_fit,,,Cooking recipe search; no financial or company story.,gpt-5-mini,2026-11-26T23:14:58Z
+is stock market open today,85,markets,US stock market,Clarify whether markets are open today and implications for traders and ETFs.,Time-sensitive markets question affecting investors and trading activity.,gpt-5-mini,2026-11-26T23:14:58Z
+spacex,90,company,SpaceX,"Break down SpaceX's revenue mix, major contracts, Starlink economics and cash burn.","Large private company with clear revenue, costs and contract dynamics.",gpt-5-mini,2026-11-26T23:14:58Z
+mike tomlin career earnings,60,personal_finance,Mike Tomlin,Estimate Tomlin's coaching pay over his career and compare to other NFL coaches.,Coaching salaries tie to team finances and contract structures.,gpt-5-mini,2026-11-26T23:14:58Z
+gary sanchez career earnings,45,personal_finance,Gary Sánchez,Estimate Sánchez's MLB earnings and compare to typical team payroll impact.,Player earnings calculable but narrower general interest.,gpt-5-mini,2026-11-26T23:14:58Z
+antonio brown career earnings,60,personal_finance,Antonio Brown,Calculate Brown's NFL career earnings and financial impacts of contract terminations.,High-profile contracts and lost guarantees create a financial story.,gpt-5-mini,2026-11-26T23:14:58Z
+tony romo career earnings,65,personal_finance,Tony Romo,Sum Romo's playing salaries plus major broadcasting deals to show total earnings.,Player-plus-broadcaster earnings highlight big media contracts.,gpt-5-mini,2026-11-26T23:14:58Z
+luke kuechly career earnings,50,personal_finance,Luke Kuechly,Add up Kuechly's NFL contracts and show how early retirement affected totals.,Retirement changed career earnings trajectory; calculable.,gpt-5-mini,2026-11-26T23:14:58Z
+damian lillard career earnings,75,personal_finance,Damian Lillard,"Chart Lillard's NBA salary progression, endorsements and estimated lifetime earnings.",High NBA salaries and endorsements make a substantial money story.,gpt-5-mini,2026-11-26T23:14:58Z
+wjz layoffs,70,company,WJZ (local TV station),Analyze why WJZ laid off staff: ad revenue pressure and local broadcast economics.,Local media layoffs reflect advertising declines and cost-cutting.,gpt-5-mini,2026-11-26T23:14:58Z
+sap,85,company,SAP,"Break down SAP's revenue mix, cloud transition costs and margin pressures.",Large software firm's transition yields clear financial story.,gpt-5-mini,2026-11-26T23:14:58Z
+espn layoffs,80,company,ESPN,Explain how cord-cutting and subscription changes drove ESPN's layoffs and cost reductions.,Cord-cutting and ad declines directly affect ESPN's finances.,gpt-5-mini,2026-11-26T23:14:58Z
+viasat layoffs,80,company,Viasat,"Explain Viasat's revenue pressures, competition and why layoffs reduce runway.",Satellite broadband competition and restructuring drive layoffs.,gpt-5-mini,2026-11-26T23:14:58Z
+rivian layoffs,90,company,Rivian,"Analyze Rivian's production, cash burn and how layoffs alter its financial runway.",EV startup cash burn and production economics make layoffs financially significant.,gpt-5-mini,2026-11-26T23:14:58Z
+is macys bankrupt,90,company,Macy's,"Assess Macy's balance sheet, debt, cash flow and bankruptcy likelihood.",Direct corporate solvency question; strong financial analysis potential.,gpt-5-mini,2026-11-26T23:14:58Z
+macys bankrupt,90,company,Macy's,Walk through Macy's financials to evaluate bankruptcy claims and risks.,Bankruptcy rumors invite balance-sheet and cash-flow analysis.,gpt-5-mini,2026-11-26T23:14:58Z
+did carvana go bankrupt,90,company,Carvana,"Examine Carvana's debt, cash burn and whether bankruptcy filing is likely or occurred.",Public company distress and bankruptcy risk is a clear finance story.,gpt-5-mini,2026-11-26T23:14:58Z
