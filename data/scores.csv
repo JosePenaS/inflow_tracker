@@ -1921,3 +1921,55 @@ rivian layoffs,90,company,Rivian,"Analyze Rivian's production, cash burn and how
 is macys bankrupt,90,company,Macy's,"Assess Macy's balance sheet, debt, cash flow and bankruptcy likelihood.",Direct corporate solvency question; strong financial analysis potential.,gpt-5-mini,2026-11-26T23:14:58Z
 macys bankrupt,90,company,Macy's,Walk through Macy's financials to evaluate bankruptcy claims and risks.,Bankruptcy rumors invite balance-sheet and cash-flow analysis.,gpt-5-mini,2026-11-26T23:14:58Z
 did carvana go bankrupt,90,company,Carvana,"Examine Carvana's debt, cash burn and whether bankruptcy filing is likely or occurred.",Public company distress and bankruptcy risk is a clear finance story.,gpt-5-mini,2026-11-26T23:14:58Z
+why did aaron rodgers leave green bay,20,not_a_fit,,,"Sports roster/transfer story, not a company/finance topic.",gpt-5-mini,2026-11-27T22:55:40Z
+why is brock purdy not playing,15,not_a_fit,,,Pure sports/injury question without corporate or financial angle.,gpt-5-mini,2026-11-27T22:55:40Z
+why do the steelers play renegade,10,not_a_fit,,,"Sports/cultural origin question, not finance-focused.",gpt-5-mini,2026-11-27T22:55:40Z
+why is it called the terrible towel,10,not_a_fit,,,Sports fan-culture origin — not a money/company story.,gpt-5-mini,2026-11-27T22:55:40Z
+why did martha stewart go to jail,25,not_a_fit,Martha Stewart,,Legal/personal history; could touch business but primarily non-financial.,gpt-5-mini,2026-11-27T22:55:40Z
+how long does it take to get a passport,20,not_a_fit,,,"Administrative timing question, not a company/finance anchor.",gpt-5-mini,2026-11-27T22:55:40Z
+how much does amazon prime cost,90,company,Amazon,"Break down Prime subscription revenue per user, costs of benefits, and profit contribution.",Direct company pricing and revenue impact story.,gpt-5-mini,2026-11-27T22:55:40Z
+spacex stock for kids,60,company,SpaceX,Explain SpaceX's private valuation and ways minors can gain exposure to private companies.,Private-company investing angle with educational value.,gpt-5-mini,2026-11-27T22:55:40Z
+sk hynix stock,80,company,SK Hynix,"Explain SK Hynix's revenue breakdown, memory market pricing, margins and valuation drivers.",Direct company/industry financial story.,gpt-5-mini,2026-11-27T22:55:40Z
+joe milton career earnings,20,not_a_fit,,,"Individual athlete earnings — sports-focused, not channel core.",gpt-5-mini,2026-11-27T22:55:40Z
+why isn't aaron rodgers playing today,10,not_a_fit,,,"Immediate sports lineup/injury question, not a finance topic.",gpt-5-mini,2026-11-27T22:55:40Z
+why is tee higgins questionable today,10,not_a_fit,,,"Sports injury/status, no company/financial angle.",gpt-5-mini,2026-11-27T22:55:40Z
+why did aaron rodgers get fired,10,not_a_fit,,,"Likely sports rumor/misunderstanding, not finance-focused.",gpt-5-mini,2026-11-27T22:55:40Z
+how does iowa make the big ten championship,10,not_a_fit,Iowa (team),,Sports qualification mechanics — not a money story.,gpt-5-mini,2026-11-27T22:55:40Z
+how does iowa make the big ten championship game,10,not_a_fit,Iowa (team),,"Same as above — sports tournament scenario, not finance.",gpt-5-mini,2026-11-27T22:55:40Z
+was the stock market open today,70,markets,US stock market,Explain market holiday/settlement schedule and how closures affect volumes and options.,Market schedule has direct financial implications for traders.,gpt-5-mini,2026-11-27T22:55:40Z
+did the stock market close early today,70,markets,US stock market,Explain why markets sometimes close early and effects on liquidity and traders.,"Closures impact trading, volumes and derivatives — finance-relevant.",gpt-5-mini,2026-11-27T22:55:40Z
+jalen ramsey career earnings,20,not_a_fit,,,"Athlete earnings — sports-focused, not a channel staple.",gpt-5-mini,2026-11-27T22:55:40Z
+alex bachman career earnings,20,not_a_fit,,,"Individual sports earnings query, not a company/market story.",gpt-5-mini,2026-11-27T22:55:40Z
+ryan fitzpatrick career earnings,20,not_a_fit,,,Sports salary question; outside channel focus.,gpt-5-mini,2026-11-27T22:55:40Z
+rivian bankrupt,85,company,Rivian,"Assess Rivian's cash burn, debt, production economics and bankruptcy plausibility.",Company solvency rumors are highly finance-relevant.,gpt-5-mini,2026-11-27T22:55:40Z
+why do owls hoot?,5,not_a_fit,,,"Biology question, no company or money angle.",gpt-5-mini,2026-11-27T22:55:40Z
+why is it called the egg bowl,10,not_a_fit,,,Sports rivalry naming — not a finance/company topic.,gpt-5-mini,2026-11-27T22:55:40Z
+why do they call it the egg bowl,10,not_a_fit,,,"Same as above — cultural/sports origin, not monetary.",gpt-5-mini,2026-11-27T22:55:40Z
+why is black friday called black friday,80,industry,Retail industry (US),Trace the name's origin and quantify Black Friday's share of seasonal retail revenue.,Direct retail/market history with measurable sales impact.,gpt-5-mini,2026-11-27T22:55:40Z
+why do they call it black friday,80,industry,Retail industry (US),Explain the term's history and economic importance to retailers' annual results.,Same retail sales and profit relevance.,gpt-5-mini,2026-11-27T22:55:40Z
+how does bianca die in percy jackson,5,not_a_fit,,,"Fiction plot question, no financial/company angle.",gpt-5-mini,2026-11-27T22:55:40Z
+how much does a dallas cowboy cheerleader make,45,personal_finance,Dallas Cowboys,"Break down pay, stipends, and total employer cost of NFL cheerleading roles.","Compensation story touches money, but it's sports-adjacent.",gpt-5-mini,2026-11-27T22:55:40Z
+how long does black friday last,70,industry,Retail industry (US),Explain Black Friday's evolving duration and revenue distribution across the shopping season.,Timing affects retail revenue and planning.,gpt-5-mini,2026-11-27T22:55:40Z
+what time does stock market close today,75,markets,US stock market,Quick explainer on today's market hours and implications for traders and options.,Immediate market-hours question with trading relevance.,gpt-5-mini,2026-11-27T22:55:40Z
+when does the stock market close today,75,markets,US stock market,Summary of today's closing time and how early closes/holidays impact markets.,Practical markets timing question.,gpt-5-mini,2026-11-27T22:55:40Z
+stock market hours today,75,markets,US stock market,Outline today's opening/closing times and reasons for any schedule changes.,Market hours directly affect trading and settlement.,gpt-5-mini,2026-11-27T22:55:40Z
+stock market open today,75,markets,US stock market,Confirm today's market status and explain holiday/early-close rules.,Daily market open/close affects investors.,gpt-5-mini,2026-11-27T22:55:40Z
+slv stock,80,markets,SLV (iShares Silver Trust),"Explain SLV's structure, silver exposure, flows and how silver price drives returns.",ETF/commodity fund is a clear markets finance topic.,gpt-5-mini,2026-11-27T22:55:40Z
+tsla stock price,85,company,Tesla,"Show Tesla's revenue mix, margins, cash flow and how fundamentals relate to stock price moves.",High-interest company finance story.,gpt-5-mini,2026-11-27T22:55:40Z
+anthony kim career earnings,20,not_a_fit,,,Individual athlete earnings — sports-focused.,gpt-5-mini,2026-11-27T22:55:40Z
+dalvin cook career earnings,20,not_a_fit,,,"Sports salary question, not channel core.",gpt-5-mini,2026-11-27T22:55:40Z
+jackson koivun career earnings,20,not_a_fit,,,Likely sports-related earnings — outside channel scope.,gpt-5-mini,2026-11-27T22:55:40Z
+brooks koepka career earnings,20,not_a_fit,,,Golf earnings query — sports-centric.,gpt-5-mini,2026-11-27T22:55:40Z
+justin thomas career earnings,20,not_a_fit,,,"Sports compensation question, not a company or government finance topic.",gpt-5-mini,2026-11-27T22:55:40Z
+anthony kim earnings,20,not_a_fit,,,"Ambiguous athlete earnings query, not a strong channel fit.",gpt-5-mini,2026-11-27T22:55:40Z
+jackson koivun earnings,20,not_a_fit,,,"Sports/individual earnings focus, not channel-aligned.",gpt-5-mini,2026-11-27T22:55:40Z
+anthony kim liv golf earnings,20,not_a_fit,LIV Golf,,Sports tour payouts — outside primary channel focus.,gpt-5-mini,2026-11-27T22:55:40Z
+mrvl earnings,80,company,Marvell Technology (MRVL),"Analyze Marvell's revenue mix, margins, and semiconductor demand driving earnings.",Earnings report directly aligns with company financial analysis.,gpt-5-mini,2026-11-27T22:55:40Z
+mu earnings,85,company,Micron Technology (MU),"Explain Micron's memory pricing, revenue drivers, capex and earnings outlook with Sankey visuals.",Memory-chip earnings are a clear finance topic.,gpt-5-mini,2026-11-27T22:55:40Z
+sap news layoffs,85,company,SAP,"Explain SAP layoffs, expected cost savings, and implications for guidance and margins.",Layoffs tie directly to company finances and strategy.,gpt-5-mini,2026-11-27T22:55:40Z
+solventum layoffs,50,company,Solventum,"Outline reported Solventum layoffs, cash burn, runway and restructuring rationale.",Layoff story can be a company finance angle if verified.,gpt-5-mini,2026-11-27T22:55:40Z
+sap layoffs reddit,65,company,SAP,Summarize Reddit reports on SAP layoffs and explain the broader financial rationale.,Social-media reports plus financial context make a timely video.,gpt-5-mini,2026-11-27T22:55:40Z
+sap layoffs 2026,70,company,SAP,Review SAP's 2026 layoff claims and their impact on costs and guidance.,Year-specific layoff query implies corporate restructuring context.,gpt-5-mini,2026-11-27T22:55:40Z
+citrix layoffs,75,company,Citrix Systems,"Explain Citrix layoffs, cost-cutting motives and effects on operating margins and product delivery.",Corporate layoffs are a clear finance story.,gpt-5-mini,2026-11-27T22:55:40Z
+what happens when you go bankrupt in monopoly,30,not_a_fit,,Use Monopoly bankruptcy rules as a gateway to explain real-world bankruptcy basics.,Game rules mostly irrelevant; could be framed to explain real bankruptcy.,gpt-5-mini,2026-11-27T22:55:40Z
+instant pot bankrupt,75,company,Instant Brands,"Check Instant Brands' financial health, any bankruptcy filings and consequences for customers/investors.",Bankruptcy rumors about a consumer brand are finance-relevant.,gpt-5-mini,2026-11-27T22:55:40Z
